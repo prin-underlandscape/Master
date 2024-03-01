@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "ULS001",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Rio di Castello",
+        "Microtoponimo": "",
+        "Strade d'accesso": "da via Debbio, imbocco del sentiero CAI 386",
+        "Altri elementi di localizzazione": "anziché guadare, proseguire lungo il letto del rio, dopo circa 300 m seguire una traccia sul versante sinistro del rio",
+        "Tipologia sito": "Frequentazione antropica",
+        "Descrizione": "Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C",
+        "Cronologia iniziale": "Età romana imperiale (27 a.C.- 476 d.C.)",
+        "Cronologia finale": "Età romana imperiale (27 a.C.- 476 d.C.)",
+        "Reperti geologici": "NO",
+        "Reperti organici": "SI",
+        "Altri manufatti": "monete; materiali metallici",
+        "Accessibilità": "Media difficoltà",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Parziale",
+        "Data": "04-30-2023",
+        "Bibliografia": "Mencacci-Zecchini 1982, Lucca Romana, p. 220",
+        "ulsp_type": "Sito",
+        "Titolo": "Buca della Piella",
+        "Altitudine": "400",
+        "Definizione": "Grotta",
+        "Reperti ceramici": "SI",
+        "Sicurezza": "complessa l'accessibilità nell'ultimo tratto in quota; neccessario mettere in sicurezza la zona di grotta sul lato scosceso.",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683495520937596,
+          44.03660684375358,
+          0
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "ULS007",
+        "Provincia": "Lucca",
+        "Comune": "Fabbriche di Vergemoli",
+        "Toponimo": "Vallico di Sopra",
+        "Microtoponimo": "Monte Penna di Cardoso",
+        "Strade d'accesso": "deviazione dal sentiero CAI 111",
+        "Altri elementi di localizzazione": "sul versante sud-orientale del Monte Penna di Cardoso, nella valle della Turrite Cava, in corrispondenza della sorgente del Rio Solco",
+        "Tipologia sito": "Frequentazione antropica",
+        "Descrizione": "Grotta con ampio ingresso, costituita da una vasta sala naturale nella quale scorre il Rio Solco, che forma diverse vasche consecutive. Indagata nel 1975, vi furono rinvenuti una trentina di bronzetti femminili e ermafroditi riferibili all'età etrusca, monete, un pugnale e frammenti di vetro, frammenti ceramici, attestandone una frequentazione a scopo cultuale, connessa con il ruscello che sgorga direttamente dalla grotta (culto delle acque). Altri reperti furono ritrovati in seguito all'esterno, soprattutto lungo il ruscello, probabilmente dilavati per azione dell'acqua.  Poco sotto l'ingresso si trova un'imponente struttura muraria realizzata con muratura a sacco, almeno di età moderna, larga circa tra i 3 e i 4 m, forse per sbarrare l'impetuosità del rio.\nDetta anche Tana di Casteltendine o Capelvenere.",
+        "Cronologia iniziale": "Eneolitico (3500-2300 a.C.)",
+        "Cronologia finale": "Età tardoantica (476-700 d.C.)",
+        "Reperti geologici": "NO",
+        "Reperti organici": "SI",
+        "Altri manufatti": "monete; pugnale in rame",
+        "Accessibilità": "Media difficoltà",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Assente",
+        "Data": "05-21-2023",
+        "Bibliografia": "Mencacci-Zecchini 1976; Maggiani 1985",
+        "ulsp_type": "Sito",
+        "Titolo": "Buca di Castelvenere",
+        "Altitudine": "820",
+        "Definizione": "Grotta",
+        "Reperti ceramici": "SI",
+        "Sicurezza": "necessario attrezzare la salita dal sentiero 111 alla grotta",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.464335457214,
+          44.02597024809375,
+          0
+        ]
+      }
+    }
+  ]
+}

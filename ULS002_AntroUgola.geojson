@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          10.683204,
+          44.038622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Accessibilità": "Media difficoltà",
+        "ulsp_type": "Sito",
+        "Sito": "ULS002",
+        "Titolo": "Antro dell'Ugola",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Casoli",
+        "Microtoponimo": "Rio di Castello",
+        "Altitudine": "449",
+        "Strade d'accesso": "da via Debbio, imbocco del sentiero CAI 386",
+        "Altri elementi di localizzazione": "deviazione lato monte poco evidente dopo circa 250 m aver imboccato il sentiero",
+        "Tipologia sito": "Frequentazione antropica",
+        "Definizione": "Grotta",
+        "Descrizione": "Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.",
+        "Cronologia iniziale": "ND (Non determinata)",
+        "Cronologia finale": "ND (Non determinata)",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "",
+        "Sicurezza": "attenzione sulla deviazione dal sentiero per erba alta e pendio scivoloso",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Parziale",
+        "Foto": "https://i.postimg.cc/bwx9JMhR/IMG-20230430-134056.jpg",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": "",
+        "Data": "04-30-2023",
+        "Ora": "11:02:52 AM"
+      },
+      "type": "Feature"
+    }
+  ]
+}

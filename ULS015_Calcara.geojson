@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "Sito",
+        "Sito": "ULS015",
+        "Titolo": "Calcara",
+        "Provincia": "Massa Carrara",
+        "Descrizione": "Calcara di piccole dimensioni, di forma circolare con piccola apertura alla base, lungo il sentiero 39 tra Vinca e la Madonna Vecchia. Diametro: circa 1,50 m",
+        "Data": "09-20-2023",
+        "Ora": "03:57:06",
+        "Comune": "Fivizzano",
+        "Toponimo": "Vinca",
+        "Altitudine": "659",
+        "Strade d'accesso": "sentiero CAI 39",
+        "Altri elementi di localizzazione": "Lato valle rispetto al sentiero",
+        "Tipologia sito": "Insediamento produttivo",
+        "Definizione": "Struttura produttiva",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Accessibilità": "Facile",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Parziale",
+        "Sicurezza": "necessaria attenzione durante la discesa sul versante",
+        "Foto": "https://i.postimg.cc/zGFtLHd5/IMG-20230920-160351.jpg",
+        "Microtoponimo": "",
+        "Cronologia iniziale": "Età moderna (1492-1789 d.C.)",
+        "Cronologia finale": "Età contemporanea (1789-2000 d.C.)",
+        "Altri manufatti": "",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14887,
+          44.144504
+        ]
+      }
+    }
+  ]
+}

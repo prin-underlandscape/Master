@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "ULS004",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Ponte Nero",
+        "Microtoponimo": "",
+        "Strade d'accesso": "strada Statale 12 del Brennero",
+        "Altri elementi di localizzazione": "alle spalle di edificio abitativo (civico 4), posto poco più a nord di Ponte Nero",
+        "Tipologia sito": "Frequentazione antropica",
+        "Descrizione": "Grotta di medie dimensioni costituita da due camere; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro. Imboccatura: circa 8 m",
+        "Cronologia iniziale": "Neolitico (11.000-3500 a.C.)",
+        "Cronologia finale": "Età del ferro (950-720 a.C.)",
+        "Reperti geologici": "NO",
+        "Reperti organici": "SI",
+        "Altri manufatti": "industria litica",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Parziale",
+        "Data": "20/05/2023",
+        "Bibliografia": "Guidi 1989, pp. 58-61; Mencacci-Zecchini 1976, pp. 53-58",
+        "ulsp_type": "Sito",
+        "Titolo": "Grotta di Ponte Nero 2",
+        "Altitudine": "280",
+        "Definizione": "Grotta",
+        "Reperti ceramici": "SI",
+        "Sicurezza": "accesso sicuro, sulla strada, ma in proprietà privata",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662325007107833,
+          44.03831600105885,
+          287.4
+        ]
+      }
+    }
+  ]
+}
