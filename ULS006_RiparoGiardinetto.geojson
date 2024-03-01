@@ -17,7 +17,7 @@
         "Cronologia finale": "Età romana repubblicana (509-27 a.C.)",
         "Reperti geologici": "NO",
         "Reperti organici": "SI",
-        "Altri manufatti": null,
+        "Altri manufatti": "",
         "Accessibilità": "Facile",
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
@@ -27,7 +27,12 @@
         "Titolo": "Riparo di Giardinetto",
         "Altitudine": "280",
         "Definizione": "Riparo sotto roccia",
-        "Reperti ceramici": "SI"
+        "Reperti ceramici": "SI",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
       },
       "geometry": {
         "type": "Point",
