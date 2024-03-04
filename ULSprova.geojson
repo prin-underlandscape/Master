@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          10.096413,
+          44.123781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Sito",
+        "Titolo": "Riparo Gabellaccia 2",
+        "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale ",
+        "Data": "02-15-2024",
+        "Ora": "11:02:27 AM",
+        "Sito": "",
+        "Provincia": "Massa Carrara",
+        "Comune": "Carrara",
+        "Toponimo": "Gabellaccia",
+        "Microtoponimo": "",
+        "Altitudine": 856,
+        "Strade d'accesso": "",
+        "Altri elementi di localizzazione": "",
+        "Tipologia sito": "frequentazione antropica",
+        "Definizione": "riparo sotto roccia",
+        "Cronologia iniziale": "",
+        "Cronologia finale": "",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "",
+        "Sicurezza": "",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Completa",
+        "Foto": "",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": ""
+      },
+      "type": "Feature"
+    }
+  ]
+}
