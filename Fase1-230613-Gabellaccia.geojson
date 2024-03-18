@@ -1,101 +1,13 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "XFase1-230613-Tenerano",
+    "Nome": "Fase1-230613-Gabellaccia",
     "Descrizione": "",
     "umapKey": ""
   },
   "features": [
     {
       "type": "Feature",
-      "id": "1ea4fe14-109e-47fd-bdca-88247991e74a",
-      "properties": {
-        "id": "1ea4fe14-109e-47fd-bdca-88247991e74a",
-        "updated_date": "2023-06-13T12:00:39Z",
-        "time_created": "2023-06-13T10:40:27Z",
-        "last_updated_on_server": "2023-06-13T12:00:39.649032",
-        "db_insert_date": "2023-06-13T11:49:21Z",
-        "deleted": false,
-        "title": "Gabellaccia fallita",
-        "public": false,
-        "color": "#00B2FF",
-        "hexcolor": "#00B2FF",
-        "is_active": true,
-        "revision": 1686657639,
-        "notes": "",
-        "track_type": "",
-        "routing_mode": "",
-        "uploaded_gpx_to_osm": null,
-        "flag": null,
-        "source": "Android HUAWEI FIG-LX1",
-        "cover_photo_id": null,
-        "distance": 1466.142770390486,
-        "total_ascent": 53.63625462428786,
-        "total_descent": 44.858062026613766,
-        "stopped_time": 2116.333333492279,
-        "total_time": 4127,
-        "average_speed": 0.35525630491652194,
-        "moving_time": 2010.666666507721,
-        "moving_speed": 0.7291824123871286,
-        "activities": [
-          ""
-        ],
-        "imported": false,
-        "folder": null,
-        "preferred_link": "/public/dqdjnGsM6pmaJXMgpfieWNWm",
-        "favorite_count": 0,
-        "comment_count": 0,
-        "comments": [],
-        "user_photo_count": 2,
-        "photos": [
-          {
-            "id": "54fe5501-6e86-4f8a-9ed1-c2caa7af9c16",
-            "time_created": "2023-06-13T11:11:31Z",
-            "title": "Riparo verso la tecchia della Gabellaccia",
-            "latitude": 44.122308,
-            "longitude": 10.097512,
-            "elevation": 907,
-            "updated_date": "2023-06-13T11:13:37Z",
-            "last_updated_on_server": "2023-06-13T11:13:37.746085",
-            "deleted": false,
-            "revision": 1686654817,
-            "notes": "",
-            "waypoint_id": "aa7cc509-70d7-4feb-b270-7e2f78ab2dd3",
-            "imported": null,
-            "public": false,
-            "thumbnail_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/100/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-            "web_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/375/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-            "scaled_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/1000/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-            "fullsize_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/full/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc"
-          },
-          {
-            "id": "5727918a-0ccf-4bbd-99d8-fe0cdf518b26",
-            "time_created": "2023-06-13T11:30:44Z",
-            "title": "Tecchia della Gabellaccia??? ",
-            "latitude": 44.122096,
-            "longitude": 10.098599,
-            "elevation": 916,
-            "updated_date": "2023-06-13T11:30:48Z",
-            "last_updated_on_server": "2023-06-13T11:30:48.541603",
-            "deleted": false,
-            "revision": 1686655848,
-            "notes": "",
-            "waypoint_id": "ef101298-2507-4ee3-be81-7b173cc7b370",
-            "imported": null,
-            "public": false,
-            "thumbnail_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/100/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-            "web_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/375/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-            "scaled_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/1000/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-            "fullsize_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/full/?publickey=yJrHXqHL74kqQBCwGnBT29h4"
-          }
-        ],
-        "latitude": 44.12252467427347,
-        "longitude": 10.098011683552052,
-        "writable": false
-      },
-      "style": {
-        "stroke": "#00B2FF"
-      },
       "geometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -2520,6 +2432,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ulsp_type": "Percorso",
+        "Titolo": "Gabellaccia fallita",
+        "Data": "2023-06-13",
+        "Ora": "10:40:27Z",
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Lunghezza": "1.466",
+        "Durata": "01h 33m",
+        "Dislivello in salita": "54",
+        "Dislivello in discesa": "45"
       }
     },
     {
@@ -2531,50 +2454,15 @@
           44.122308
         ]
       },
-      "id": "aa7cc509-70d7-4feb-b270-7e2f78ab2dd3",
       "properties": {
-        "id": "aa7cc509-70d7-4feb-b270-7e2f78ab2dd3",
-        "updated_date": "2023-06-13T11:15:50Z",
-        "time_created": "2023-06-13T11:11:33Z",
-        "deleted": false,
-        "title": "Riparo verso la tecchia della Gabellaccia",
-        "public": false,
-        "is_active": true,
-        "icon": "red-pin-down.png",
-        "revision": 1686654950,
-        "notes": "",
-        "latitude": 44.122308,
-        "longitude": 10.097512,
-        "elevation": 907,
-        "attr": "photo",
-        "track_id": "1ea4fe14-109e-47fd-bdca-88247991e74a",
-        "photos": [
-          {
-            "id": "54fe5501-6e86-4f8a-9ed1-c2caa7af9c16",
-            "time_created": "2023-06-13T11:11:31Z",
-            "title": "Riparo verso la tecchia della Gabellaccia",
-            "latitude": 44.122308,
-            "longitude": 10.097512,
-            "elevation": 907,
-            "updated_date": "2023-06-13T11:13:37Z",
-            "last_updated_on_server": "2023-06-13T11:13:37.746085",
-            "deleted": false,
-            "revision": 1686654817,
-            "notes": "",
-            "waypoint_id": "aa7cc509-70d7-4feb-b270-7e2f78ab2dd3",
-            "imported": null,
-            "public": false,
-            "thumbnail_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/100/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-            "web_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/375/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-            "scaled_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/1000/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-            "fullsize_url": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/full/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc"
-          }
-        ],
-        "order": -1,
-        "folder": null,
-        "marker_type": "pin",
-        "marker_color": "#F42410",
-        "marker_decoration": null
+        "ulsp_type": "POI",
+        "Foto": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/full/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
+        "Titolo": "Riparo verso la tecchia della Gabellaccia",
+        "Descrizione": "",
+        "Altitudine": 907,
+        "Data": "2023-06-13",
+        "Ora": "11:11:31Z",
+        "Strumento": "Android HUAWEI FIG-LX1"
       }
     },
     {
@@ -2586,50 +2474,15 @@
           44.122096
         ]
       },
-      "id": "ef101298-2507-4ee3-be81-7b173cc7b370",
       "properties": {
-        "id": "ef101298-2507-4ee3-be81-7b173cc7b370",
-        "updated_date": "2023-06-13T11:35:16Z",
-        "time_created": "2023-06-13T11:30:44Z",
-        "deleted": false,
-        "title": "Tecchia della Gabellaccia??? ",
-        "public": false,
-        "is_active": true,
-        "icon": "red-pin-down.png",
-        "revision": 1687254403,
-        "notes": "",
-        "latitude": 44.122096,
-        "longitude": 10.098599,
-        "elevation": 885,
-        "attr": "photo",
-        "track_id": "1ea4fe14-109e-47fd-bdca-88247991e74a",
-        "photos": [
-          {
-            "id": "5727918a-0ccf-4bbd-99d8-fe0cdf518b26",
-            "time_created": "2023-06-13T11:30:44Z",
-            "title": "Tecchia della Gabellaccia??? ",
-            "latitude": 44.122096,
-            "longitude": 10.098599,
-            "elevation": 916,
-            "updated_date": "2023-06-13T11:30:48Z",
-            "last_updated_on_server": "2023-06-13T11:30:48.541603",
-            "deleted": false,
-            "revision": 1686655848,
-            "notes": "",
-            "waypoint_id": "ef101298-2507-4ee3-be81-7b173cc7b370",
-            "imported": null,
-            "public": false,
-            "thumbnail_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/100/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-            "web_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/375/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-            "scaled_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/1000/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-            "fullsize_url": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/full/?publickey=yJrHXqHL74kqQBCwGnBT29h4"
-          }
-        ],
-        "order": -1,
-        "folder": null,
-        "marker_type": "pin",
-        "marker_color": "#F42410",
-        "marker_decoration": null
+        "ulsp_type": "POI",
+        "Foto": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/full/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
+        "Titolo": "Tecchia della Gabellaccia??? ",
+        "Descrizione": "",
+        "Altitudine": 885,
+        "Data": "2023-06-13",
+        "Ora": "11:30:44Z",
+        "Strumento": "Android HUAWEI FIG-LX1"
       }
     }
   ]
