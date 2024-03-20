@@ -1,0 +1,314 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "t5ysrm",
+        "Titolo": "Buca La Piella",
+        "Testo": "Scoperta e indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili (olle, ciotole, coppe, vasi), materiali metallici (oggetti in bronzo e piombo) e monete di III secolo d.C. (Mencacci-Zecchini 1982, Lucca Romana, p. 220). La grotta è situata ad est del paese di Casoli, sulla sinistra idrografica del Rio di Castello. Presenta due ingressi uniti da un cunicolo percorribile e ambienti di discrete dimensioni che si affacciano sull'esterno.",
+        "ulsp_type": "QRtag",
+        "Descrizione": "",
+        "Foto": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683612,
+          44.036673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "my0kp8",
+        "Titolo": "Calendario celtico",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "Presso le rovine della cinta muraria del castello di Casoli, si trovano degli elementi rocciosi erratici con tracce di lavorazione, considerati da alcuni studiosi come sito preromano celtico, usato per motivi cultuali (ara pagana o calendario celtico). In particolare, tra il 1970 e il 1980, gli storici Puccini, Ambrosini e Zecchini hanno approfondito le ricerche studiando i fori collocati sulla roccia di forma cilindrica e hanno ipotizzato un sistema somigliante ad una meridiana.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669845,
+          44.039861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "4l4r6y",
+        "Titolo": "Castello",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "Il castello di Casoli occupa la sommità del Colle delle Tanette. La prima attestazione risale al 1180, ma la sua fondazione è datata fra i secoli XI-XII. Tra il XIII e il XV secolo le fortificazioni della Val di Lima sono al centro degli scontri tra Lucca e Firenze, in quanto area strategica di confine. Il complesso fortificato è dotato di due cinte murarie, una torre posta sulla porzione più elevata del colle, mastio e cisterna. Già dal XIV secolo ha subito alcuni interventi di ristrutturazione ed è probabile che alcune pietre del castello siano state reimpiegate negli edifici circostanti.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.670618,
+          44.040035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "lwtyx6",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Titolo": "Chiesa dei SS. Donato e Andrea",
+        "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669466,
+          44.039277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "60m75s",
+        "Titolo": "Iscrizione longobarda",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "Epigrafe incisa su bozza in arenaria a sezione sub-rettangolare, reimpiegata all'interno di una muratura perimetrale di un’abitazione oggi abbandonata e in stato di rudere, localizzata su via della Mora. Secondo alcuni studiosi è in lingua longobarda, secondo altri in antico ligure e si tratterebbe di un’invocazione (Ambrosini, Puccini, Zecchini 1981; Zavaroni 2019).",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.672441,
+          44.039064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "xqjpbk",
+        "Titolo": "Lago di Casoli",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "Il lago Casoli è di origine glaciale, si narra sia stato meta fin dalla preistoria come luogo 'magico', grazie all’atmosfera mistica attualmente percepibile. Da ricognizione estensiva realizzata dall’Università di Pisa nel 2021 sono emersi materiali ceramici che indicano una frequentazione certa dell’area almeno dal II secolo d.C. fino all’età moderna (XVIII secolo).",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677609,
+          44.034678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "qlci89",
+        "Titolo": "Madonna di Castello",
+        "Testo": "Lungo la strada acciottolata che ripercorre l’antica viabilità di collegamento dell’abitato con l’area sommitale del castello medievale, si incontrano i resti della cappella della Madonna di Castello. Risalente all’età moderna, è di piccole dimensioni e caratterizzata da un recinto d'ingresso, in facciata presenta panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669938,
+          44.039601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "3w44wr",
+        "Titolo": "Madonna di Col di Piano",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "La cappella della Madonna di Col di Piano si trova lungo il sentiero CAI che conduce alla Penna di Lucchio. E’ un piccolo complesso con accogliente porticato riferibile alla tarda età moderna (XVII-XVIII secolo), oggi completamente intonacato e recentemente ristrutturato. All’interno ospita un affresco raffigurante la Madonna con bambino e un altare. Nei suoi pressi si trovano i ruderi di un edificio abitativo.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677597,
+          44.031732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "sbgnl0",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Titolo": "Metato",
+        "Testo": "Metato in stato di rudere con tettoia riferibile all’età contemporanea, utilizzato per l’essiccazione delle castagne. Tale edificio produttivo si riconosce per le piccole dimensioni e la caratteristica presenza di due piani suddivisi da un graticcio: quello inferiore era destinato al fuoco, mentre quello superiore, con accesso separato posto in quota, raggiungibile tramite una scala o una rampa, era utilizzato per caricare le castagne. Questa zona, come tutto l’Appennino, ha una lunga tradizione di coltura del castagno, definito “albero del pane”, rintracciabile fin dal Medioevo, un elemento fondamentale della dieta di montagna fino alla metà del 1900.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677644,
+          44.035913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "fxq83v",
+        "Titolo": "Sant'Andrea de Lacu",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "Secondo le fonti scritte, dove compaiono i toponimi Lacu e Lagovectio (anno 943), nell'area doveva essere presente un villaggio altomedievale, poi abbandonato in favore dell’attuale abitato di Casoli. Ne rimane la chiesa romanica di Sant’Andrea de Lacu, attestata dal 1260 come dipendente della pieve di Vico Pancellorum, ma di più antica fondazione. Oggi in stato di degrado, priva del tetto e con grave fessurazione in facciata, all'interno presenta un elemento di reimpiego della fabbrica precedente. Nei suoi pressi si trovano i resti di un edificio a pianta quadrangolare con muratura riferibile all’età medievale (XIII secolo), forse ad uso abitativo.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67592,
+          44.035298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "5ahvp8",
+        "Titolo": "Casoli 1",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          44.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "kwr1wx",
+        "Titolo": "Casoli 2",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          44.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "hve4pj",
+        "Titolo": "Casoli 3",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          44.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "mprs0w",
+        "Titolo": "Casoli 4",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          44.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "e4n2js",
+        "Titolo": "Casoli 5",
+        "_umap_options": {
+          "showLabel": true
+        },
+        "Testo": "",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          44.03
+        ]
+      }
+    }
+  ]
+}
