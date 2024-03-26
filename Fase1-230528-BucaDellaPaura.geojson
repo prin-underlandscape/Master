@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "percorso",
-    "Descrizione": "",
-    "umapKey": ""
+    "Nome": "Fase1-230528-BucaDellaPaura",
+    "Descrizione": "Breve ricognizione per verificare l'accessibilità dell'Antro della Paura",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230528-bucadellapaura_1041692"
   },
   "features": [
     {
