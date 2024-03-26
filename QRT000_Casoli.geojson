@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "QRT000_Casoli",
+    "Descrizione": "Dataset contenente i QRtag segnaletici collocati nell'area di Casoli ",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/qrt000_casoli_1041683"
+  },
   "features": [
     {
       "type": "Feature",

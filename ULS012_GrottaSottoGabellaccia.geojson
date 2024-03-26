@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS012_GrottaSottoGabellaccia",
+    "Descrizione": "Scheda sito per la grotta sotto la Gabellaccia",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls012_grottasottogabellaccia_1041659"
+  },
   "features": [
     {
       "geometry": {

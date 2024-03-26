@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS001_BucaPiella",
+    "Descrizione": "Scheda sito per la Buca della Piella",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls001_bucapiella_1041678"
+  },
   "features": [
     {
       "type": "Feature",

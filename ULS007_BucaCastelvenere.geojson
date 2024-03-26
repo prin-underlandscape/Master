@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS007_BucaCastelvenere",
+    "Descrizione": "Scheda sito per la Buca di Castelvenere",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls007_bucacastelvenere_1041668"
+  },
   "features": [
     {
       "type": "Feature",

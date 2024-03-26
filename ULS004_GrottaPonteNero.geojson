@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS004_GrottaPonteNero",
+    "Descrizione": "SCheda sito della Grotta di Ponte Nero",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls004_grottapontenero_1041675"
+  },
   "features": [
     {
       "type": "Feature",

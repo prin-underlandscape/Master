@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS014_MadonnaVecchia",
+    "Descrizione": "Scheda sito della chiesa di Madonna Vecchia",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls014_madonnavecchia_1041654"
+  },
   "features": [
     {
       "geometry": {
