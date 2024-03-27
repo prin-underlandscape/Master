@@ -311,14 +311,23 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Nuovo tracciato 28/05/23 09:49:37 bua paura",
+        "Titolo": "Antro della paura",
         "Data": "2023-05-28",
         "Ora": "07:49:37Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Lunghezza": "0.431",
         "Durata": "01h 06m",
         "Dislivello in salita": "45",
-        "Dislivello in discesa": "33"
+        "Dislivello in discesa": "33",
+        "Provincia": "",
+        "Comune": "",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Descrizione": "",
+        "Difficoltà": "",
+        "Segnaletica": "",
+        "Copertura GPS": "",
+        "Copertura rete mobile": ""
       }
     },
     {
