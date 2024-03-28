@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "QRtag a Casoli v2",
+    "Nome": "QRT001_Casoli",
     "Descrizione": "Seconda collezione di QRtag collocati nei dintorni di Casoli anche sostituendone alcuni già collocati",
     "umapKey": ""
   },
@@ -89,7 +89,7 @@
         "urlPrefix": "https://sites.google.com/view/prin-underlandscape/home-page/itinerari/20230430",
         "ulsp_type": "QRtag",
         "Titolo": "Chiesa dei SS. Donato e Andrea",
-        "Foto": "",
+        "Foto": "https://underlandscape.cfs.unipi.it/api/v1/t/891cea1e39100c7c73a9eeb11f0eb26901109778/2eofoxkf/fit_1280",
         "Descrizione": "Chiesa dei SS. Donato e Andrea",
         "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna."
       },
@@ -183,7 +183,7 @@
         "urlPrefix": "https://sites.google.com/view/prin-underlandscape/home-page/itinerari/20230430",
         "ulsp_type": "QRtag",
         "Titolo": "Iscrizione longobarda",
-        "Foto": "",
+        "Foto": "https://underlandscape.cfs.unipi.it/api/v1/t/049fcf522a446718000ce97112b486510356f24a/2eofoxkf/fit_1280",
         "Descrizione": "Iscrizione longobarda",
         "Testo": "Epigrafe incisa su bozza in arenaria a sezione sub-rettangolare, reimpiegata all'interno di una muratura perimetrale di un’abitazione oggi abbandonata e in stato di rudere, localizzata su via della Mora. Secondo alcuni studiosi è in lingua longobarda, secondo altri in antico ligure e si tratterebbe di un’invocazione (Ambrosini, Puccini, Zecchini 1981; Zavaroni 2019)."
       },
