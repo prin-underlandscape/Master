@@ -1,7 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "USL019_Tecchia_della_Gabellaccia",
-"features": [
-{ "type": "Feature", "properties": { "ulsp_type": "Sito", "Titolo": "Tecchia della Gabellaccia", "Descrizione": "Ampia grotta in cui distinguono più camere poco profonde, indagata nel 1959 con alcuni saggi di scavo e trincee; presente un importante crollo della volta lungo l'apertura", "Data": "02-15-2024", "Ora": "12:02:39", "Sito": "ULS019", "Provincia": "Massa Carrara", "Comune": "Carrara", "Toponimo": "Passo della Gabellaccia", "Microtoponimo": "", "Altitudine": 770, "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, pochi metri dopo il riparo della Gabellaccia 2, seguendo una traccia verso ovest", "Altri elementi di localizzazione": "", "Tipologia sito": "Frequentazione antropica", "Definizione": "Grotta", "Cronologia iniziale": "Eneolitico (3500-2300 a.C.)", "Cronologia finale": "Età romana imperiale (27 a.C.- 476 d.C.)", "Reperti ceramici": "SI", "Reperti geologici": "NO", "Reperti organici": "SI", "Altri manufatti": "industria litica, resti di fauna", "Sicurezza": "", "Accessibilità": "Facile", "Copertura rete mobile": "Parziale", "Copertura GPS": "Parziale", "Foto": "", "Link": "", "Bibliografia": "Radi 1976", "Strumento": "" }, "geometry": { "type": "Point", "coordinates": [ 10.093909777313566, 44.123927602406702 ] } }
-]
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS019_Tecchia_della_Gabellaccia",
+    "Descrizione": "",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls019_tecchiadellagabellaccia_1062932"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "Sito",
+        "Titolo": "Tecchia della Gabellaccia",
+        "Descrizione": "Ampia grotta in cui distinguono più camere poco profonde, indagata nel 1959 con alcuni saggi di scavo e trincee; presente un importante crollo della volta lungo l'apertura",
+        "Data": "02-15-2024",
+        "Ora": "12:02:39",
+        "Sito": "ULS019",
+        "Provincia": "Massa Carrara",
+        "Comune": "Carrara",
+        "Toponimo": "Passo della Gabellaccia",
+        "Microtoponimo": "",
+        "Altitudine": 770,
+        "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, pochi metri dopo il riparo della Gabellaccia 2, seguendo una traccia verso ovest",
+        "Altri elementi di localizzazione": "",
+        "Tipologia sito": "Frequentazione antropica",
+        "Definizione": "Grotta",
+        "Cronologia iniziale": "Eneolitico (3500-2300 a.C.)",
+        "Cronologia finale": "Età romana imperiale (27 a.C.- 476 d.C.)",
+        "Reperti ceramici": "SI",
+        "Reperti geologici": "NO",
+        "Reperti organici": "SI",
+        "Altri manufatti": "industria litica, resti di fauna",
+        "Sicurezza": "",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Parziale",
+        "Foto": "",
+        "Link": "",
+        "Bibliografia": "Radi 1976",
+        "Strumento": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.093909777313566,
+          44.1239276024067
+        ]
+      }
+    }
+  ]
 }

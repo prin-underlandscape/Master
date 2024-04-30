@@ -1,5 +1,10 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS017_Riparo_Gabellaccia1",
+    "Descrizione": "",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls017_riparogabellaccia1_1062928"
+  },
   "features": [
     {
       "geometry": {
