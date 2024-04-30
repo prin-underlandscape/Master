@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS014_MadonnaVecchia",
+    "Descrizione": "Scheda sito della chiesa di Madonna Vecchia",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls014_madonnavecchia_1041654"
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          10.14704,
+          44.146449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Sito",
+        "Titolo": "Madonna Vecchia di Vinca",
+        "Descrizione": "Chiesa d'abrì ridotta allo stato di rudere, mancante di tetto, perimetrali SE e SW ridotti a pochi filari, tra cui una porzione riconducibile al basso medioevo, mentre il perimetrale NW e NE si conservano in elevato e presentano ampie tracce di intonaco. A NE dell'edificio, poco sopra il versante si trova una piccola cavità con sorgente con una vasca e canaletta in pietra. Tra i materiali del crollo sono state rinvenute alcune schegge in selce.",
+        "Data": "09-20-2023",
+        "Ora": "01:42:48 PM",
+        "Sito": "ULS014",
+        "Provincia": "Massa Carrara",
+        "Comune": "Fivizzano",
+        "Toponimo": "Vinca",
+        "Microtoponimo": "Madonna Vecchia",
+        "Altitudine": 687,
+        "Strade d'accesso": "sentiero CAI 39, tra Aiola e Vinca",
+        "Altri elementi di localizzazione": "Piccolo ponte subito a SW",
+        "Tipologia sito": "Insediamento ecclesiastico",
+        "Definizione": "Corpo di fabbrica",
+        "Cronologia iniziale": "Preistoria (2.5 milioni-3000 anni fa)",
+        "Cronologia finale": "Età contemporanea (1789-2000 d.C.)",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "",
+        "Sicurezza": "",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Assente",
+        "Copertura GPS": "Parziale",
+        "Foto": "",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": ""
+      },
+      "type": "Feature"
+    }
+  ]
+}
