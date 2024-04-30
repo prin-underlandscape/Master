@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS011_AntroPaura",
+    "Descrizione": "Scheda sito per l'Antro della Paura",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls011_antropaura_1041660"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "ULS011",
+        "Provincia": "Lucca",
+        "Comune": "Borgo a Mozzano ",
+        "Toponimo": "Gioviano, Pietreta",
+        "Microtoponimo": "",
+        "Strade d'accesso": "variante Strada Provinciale Calavorno-Campia, detta Lodovica",
+        "Altri elementi di localizzazione": "circa 500 m dopo la svolta per Gioviano",
+        "Tipologia sito": "Frequentazione antropica",
+        "Descrizione": "Grotta con ingresso orientato verso N-NE, a una decina di metri dal piano stradale; è costituita da un cunicolo di circa 30 m che si sviluppa a forma di S italica, restringendosi sul fondo. Indagata negli anni '70 del XX secolo nel tratto centrale, ha restituito frammenti ceramici e ossa (umane e animali) attestando una fretazione etrusco-ligure. Lunghezza: 30 m circa",
+        "Cronologia iniziale": "Civiltà preromane (720- 89 a.C.)",
+        "Cronologia finale": "Età romana repubblicana (509-27 a.C.)",
+        "Reperti geologici": "NO",
+        "Reperti organici": "SI",
+        "Altri manufatti": "",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Data": "20/05/2023",
+        "Bibliografia": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Antro della Paura",
+        "Altitudine": "208",
+        "Definizione": "Grotta",
+        "Reperti ceramici": "SI",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52129400716191,
+          44.017253001069406,
+          198.1
+        ]
+      }
+    }
+  ]
+}
