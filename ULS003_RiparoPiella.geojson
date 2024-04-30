@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS003_RiparoPiella",
+    "Descrizione": "SCheda sito per il riparo vicino alla Buca della Piella",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls003_riparopiella_1041676"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "ULS003",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Rio di Castello",
+        "Microtoponimo": "",
+        "Strade d'accesso": "da via Debbio, imbocco del sentiero CAI 386",
+        "Altri elementi di localizzazione": "anziché guadare, proseguire lungo il letto del rio, dopo circa 300 m seguire una traccia sul versante sulla sinistra del rio, salire circa 20 m (120 m a sud dalla Piella)",
+        "Tipologia sito": "ND",
+        "Descrizione": "Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello. Area: circa 15 m quadrati",
+        "Cronologia iniziale": "ND (Non determinata)",
+        "Cronologia finale": "ND (Non determinata)",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "",
+        "Accessibilità": "Media difficoltà",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Parziale",
+        "Data": "30/04/2023",
+        "Bibliografia": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Riparo vicino Piella",
+        "Altitudine": "390",
+        "Definizione": "Riparo sotto roccia",
+        "Reperti ceramici": "NO",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683963473744733,
+          44.03564745965847,
+          0
+        ]
+      }
+    }
+  ]
+}
