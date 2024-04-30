@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS005_GrottaArzale",
+    "Descrizione": "Scheda siot per la Grotta di Arzale",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls005_grottaarzale_1041672"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "ULS005",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Strette di Cocciglia",
+        "Microtoponimo": "Arzale",
+        "Strade d'accesso": "sentiero del canyon park sulla sponda sinistra del Torrente Lima, con partenza da Ponte Nero",
+        "Altri elementi di localizzazione": "al di sopra della struttura del gorile",
+        "Tipologia sito": "Frequentazione antropica",
+        "Descrizione": "Grotta posta sulla sinistra della Lima all'altezza delle Strette di Cocciglia, posta sopra importante apprestamento in muratura (gorile). Parete coperta da vegetazione, si intravede una grande apertura; seguono altre aperture meno profonde. Secondo studioso locale, da questa potrebbero provenire resti medievali.",
+        "Cronologia iniziale": "Basso medioevo (1000-1492 d.C.)",
+        "Cronologia finale": "ND (Non determinata)",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "",
+        "Accessibilità": "Media difficoltà",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Data": "20/05/2023",
+        "Bibliografia": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Grotta di Arzale",
+        "Altitudine": "270",
+        "Definizione": "Grotta",
+        "Reperti ceramici": "SI",
+        "Sicurezza": "",
+        "Foto": "",
+        "Link": "",
+        "Strumento": "",
+        "Ora": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.664308007107415,
+          44.04140000105849,
+          365
+        ]
+      }
+    }
+  ]
+}

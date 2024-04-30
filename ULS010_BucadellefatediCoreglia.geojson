@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS010_BucadellefatediCoreglia",
+    "Descrizione": "Scheda sito per la Buca delle Fate presso Coreglia",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls010_bucadellefatedicoreglia_1041663"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "Sito",
+        "Sito": "ULS010",
+        "Titolo": "Buca delle fate di Coreglia",
+        "Provincia": "Lucca",
+        "Comune": "Coreglia Altelminelli",
+        "Toponimo": "Ghivizzano",
+        "Microtoponimo": "",
+        "Altitudine": "343",
+        "Strade d'accesso": "Deviazione dalla Strada Provinciale 38, su strada bianca verso loc. Ansugo",
+        "Altri elementi di localizzazione": "Dalla strada bianca proseguire fino al letto del torrente Segone, dove si trova l'impianto dell'acquedotto",
+        "Tipologia sito": "Frequentazione antropica",
+        "Definizione": "Grotta",
+        "Descrizione": "Grotta con ingresso di piccole dimensione, con due camere e corridoio che porta a una calata di 10 m circa, localizzata sul versante sud-ovest della Costa dei gatti.",
+        "Cronologia iniziale": "ND (Non determinata)",
+        "Cronologia finale": "ND (Non determinata)",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "",
+        "Sicurezza": "necessario guadare piccolo corso d'acqua",
+        "Accessibilità": "Facile",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Parziale",
+        "Foto": "https://i.postimg.cc/KcT0Xxqh/20230714-1008156830458200561894017-large.jpg",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": "",
+        "Data": "07-14-2023",
+        "Ora": "10:05:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523792,
+          44.046328
+        ]
+      }
+    }
+  ]
+}
