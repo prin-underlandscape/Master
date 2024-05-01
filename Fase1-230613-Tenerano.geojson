@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "Fase1-230613-Tenerano",
     "Descrizione": "Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme ",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-tenerano_1041686"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-tenerano_1041686",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

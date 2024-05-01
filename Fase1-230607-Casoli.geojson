@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "Fase1-230607-Casoli",
     "Descrizione": "Seconda ricognizione a Casoli per perfezionare la posa dei QRcode e visitare il centro della cittadina",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690",
+    "Ultimo aggiornamento":"01/05/2024"
   },
   "features": [
     {

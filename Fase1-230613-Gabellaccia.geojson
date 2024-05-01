@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "Fase1-230613-Gabellaccia",
     "Descrizione": "Ricognizione per localizzare la grotta della Gabellaccia, con partenza da Equi Terme",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687",
+    "Ultimo aggiornamento":"01/05/2024"
   },
   "features": [
     {

@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "Fase1-230612-EquiTerme",
     "Descrizione": "Ricognizione a Equi terme per localizzare le grotte nelle vicinanze e come base per Tenerano e Gabellaccia",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688",
+    "Ultimo aggiornamento":"01/05/2024"
   },
   "features": [
     {

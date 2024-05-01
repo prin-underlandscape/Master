@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "Fase1-230430-Casoli",
     "Descrizione": "Prima ricognizione a Casoli per localizzare la Buca della Piella e collocare i primi QR-code",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230430-casoli_1041694"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230430-casoli_1041694",
+    "Ultimo aggiornamento":"01/05/2024"
   },
   "features": [
     {
