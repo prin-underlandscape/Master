@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS005_GrottaArzale",
     "Descrizione": "Scheda siot per la Grotta di Arzale",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls005_grottaarzale_1041672"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls005_grottaarzale_1041672",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

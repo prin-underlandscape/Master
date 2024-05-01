@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS002_AntroUgola",
     "Descrizione": "Scheda sito per l'Antro dell'Ugola",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls002_antrougola_1041677"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls002_antrougola_1041677",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

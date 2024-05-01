@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "QRT001_Casoli",
-    "Descrizione": "QRtag collocati a giugno 2023 con le immagini della loro collocazione (qando disponibile)",
+    "Descrizione": "QRtag collocati a giugno 2023 con le immagini della loro collocazione (quando disponibile)",
     "umapKey": "https://umap.openstreetmap.fr/it/map/qrt001_casoli_1045951"
   },
   "features": [

@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS015_Calcara",
     "Descrizione": "Scheda sito di una calcara presso Vinca",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls015_calcara_1041651"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls015_calcara_1041651",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

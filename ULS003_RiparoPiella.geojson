@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS003_RiparoPiella",
     "Descrizione": "SCheda sito per il riparo vicino alla Buca della Piella",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls003_riparopiella_1041676"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls003_riparopiella_1041676",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

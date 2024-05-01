@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS013_TecchiaTenerano",
     "Descrizione": "Scheda sito della Tecchia di Tenerano",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls013_tecchiatenerano_1041655"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls013_tecchiatenerano_1041655",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

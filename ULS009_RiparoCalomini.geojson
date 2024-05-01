@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS009_RiparoCalomini",
     "Descrizione": "Scheda sito per il riparo di Calomini",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls009_riparocalomini_1041664"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls009_riparocalomini_1041664",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

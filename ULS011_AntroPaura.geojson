@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS011_AntroPaura",
     "Descrizione": "Scheda sito per l'Antro della Paura",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls011_antropaura_1041660"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls011_antropaura_1041660",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {

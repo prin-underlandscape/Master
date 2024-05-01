@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "ULS006_RiparoGiardinetto",
     "Descrizione": "Scheda sito per il riparo presso Giardinetto",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls006_riparogiardinetto_1041670"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls006_riparogiardinetto_1041670",
+    "Ultimo aggiornamento": "01-05-2024"
   },
   "features": [
     {
