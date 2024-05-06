@@ -8418,7 +8418,16 @@
         "Lunghezza": "12.904",
         "Durata": "03h 16m",
         "Dislivello in salita": "673",
-        "Dislivello in discesa": "884"
+        "Dislivello in discesa": "884",
+        "Provincia": "",
+        "Comune": "",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Descrizione": "",
+        "Difficoltà": "",
+        "Segnaletica": "",
+        "Copertura GPS": "",
+        "Copertura rete mobile": ""
       }
     },
     {
@@ -8461,7 +8470,10 @@
         "Altitudine": 467,
         "Data": "2023-06-13",
         "Ora": "07:27:56Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8481,7 +8493,10 @@
         "Altitudine": 384,
         "Data": "2023-06-13",
         "Ora": "08:38:10Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8501,7 +8516,10 @@
         "Altitudine": 430,
         "Data": "2023-06-13",
         "Ora": "08:26:44Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8521,7 +8539,10 @@
         "Altitudine": 429,
         "Data": "2023-06-13",
         "Ora": "08:20:35Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8541,7 +8562,10 @@
         "Altitudine": 512,
         "Data": "2023-06-13",
         "Ora": "07:40:53Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8561,7 +8585,10 @@
         "Altitudine": 446,
         "Data": "2023-06-13",
         "Ora": "07:36:39Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8581,7 +8608,10 @@
         "Altitudine": 428,
         "Data": "2023-06-13",
         "Ora": "08:24:40Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8596,12 +8626,15 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/bd296a97-12c4-4a56-b697-b9e22eaf05be/image/full/?publickey=MBBhNsHW7uZzDjsigkskjv8K",
-        "Titolo": "Cilonnina",
+        "Titolo": "Colonnina",
         "Descrizione": "",
         "Altitudine": 456,
         "Data": "2023-06-13",
         "Ora": "06:53:40Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8621,7 +8654,10 @@
         "Altitudine": 452,
         "Data": "2023-06-13",
         "Ora": "06:54:58Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8641,7 +8677,10 @@
         "Altitudine": 465,
         "Data": "2023-06-13",
         "Ora": "07:58:25Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8661,7 +8700,10 @@
         "Altitudine": 463,
         "Data": "2023-06-13",
         "Ora": "07:59:20Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -8681,7 +8723,10 @@
         "Altitudine": 399,
         "Data": "2023-06-13",
         "Ora": "07:05:13Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -11492,7 +11537,16 @@
         "Lunghezza": "1.870",
         "Durata": "01h 39m",
         "Dislivello in salita": "172",
-        "Dislivello in discesa": "56"
+        "Dislivello in discesa": "56",
+        "Provincia": "",
+        "Comune": "",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Descrizione": "",
+        "Difficoltà": "",
+        "Segnaletica": "",
+        "Copertura GPS": "",
+        "Copertura rete mobile": ""
       }
     },
     {
@@ -11512,7 +11566,10 @@
         "Altitudine": 689,
         "Data": "2023-06-13",
         "Ora": "13:34:53Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -11532,7 +11589,10 @@
         "Altitudine": 708,
         "Data": "2023-06-13",
         "Ora": "13:35:48Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -11552,7 +11612,10 @@
         "Altitudine": 712,
         "Data": "2023-06-13",
         "Ora": "13:31:37Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     }
   ]
