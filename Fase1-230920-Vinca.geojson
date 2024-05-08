@@ -1491,7 +1491,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Titolo": "Edicola",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/e02293be-3670-4c04-9cfa-105682e35474/image/100/?publickey=ggBHqajZBptStm3KUlH3CmAz\",\"web_url\":\"https://www.gaiagps.com/api/objects/photo/e02293be-3670-4c04-9cfa-105682e35474/image/375/?publickey=ggBHqajZBptStm3KUlH3CmAz",
+        "Foto": "https://www.gaiagps.com/api/objects/photo/e02293be-3670-4c04-9cfa-105682e35474/image/full/?publickey=ggBHqajZBptStm3KUlH3CmAz",
         "Descrizione": "Piccola edicola lungo il percorso",
         "Altitudine": "715",
         "Autore": "",
@@ -1515,7 +1515,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Titolo": "Inizio sentiero 39 da Vinca",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/8c4dcff5-5fbb-4af1-af2d-6988a4e78e44/image/100/?publickey=eVzfUPnVAT75xgRGjhbIeCue\",\"web_url\":\"https://www.gaiagps.com/api/objects/photo/8c4dcff5-5fbb-4af1-af2d-6988a4e78e44/image/375/?publickey=eVzfUPnVAT75xgRGjhbIeCue",
+        "Foto": "https://www.gaiagps.com/api/objects/photo/8c4dcff5-5fbb-4af1-af2d-6988a4e78e44/image/full/?publickey=eVzfUPnVAT75xgRGjhbIeCue",
         "Descrizione": "Lungo SP 59 di Vinca, sulla sinistra prima dell'abitato di Vinca",
         "Altitudine": "739",
         "Autore": "",
@@ -1539,7 +1539,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Titolo": "Chiesa della Madonna della Neve",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/1a13faaa-d461-4393-add9-294cce198fe8/image/100/?publickey=DQAzAxTDrx4MwArcf8f8nLOr\",\"web_url\":\"https://www.gaiagps.com/api/objects/photo/1a13faaa-d461-4393-add9-294cce198fe8/image/375/?publickey=DQAzAxTDrx4MwArcf8f8nLOr",
+        "Foto": "https://www.gaiagps.com/api/objects/photo/1a13faaa-d461-4393-add9-294cce198fe8/image/full/?publickey=DQAzAxTDrx4MwArcf8f8nLOr",
         "Descrizione": "Piccola chiesa di tarda età moderna con facciata a capanna e muratura a vista",
         "Altitudine": "785",
         "Autore": "",
@@ -1563,7 +1563,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Titolo": "Edicola in rovina",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/0abaabfa-f91d-419e-a1a7-cce9ae90249c/image/100/?publickey=XNb5e8dCdf0WGmWset4u1Poq\",\"web_url\":\"https://www.gaiagps.com/api/objects/photo/0abaabfa-f91d-419e-a1a7-cce9ae90249c/image/375/?publickey=XNb5e8dCdf0WGmWset4u1Poq",
+        "Foto": "https://www.gaiagps.com/api/objects/photo/0abaabfa-f91d-419e-a1a7-cce9ae90249c/image/full/?publickey=XNb5e8dCdf0WGmWset4u1Poq",
         "Descrizione": "Piccola edicola lungo il percorso in stato di abbandono con la copertura in rovina",
         "Altitudine": "",
         "Autore": "",
