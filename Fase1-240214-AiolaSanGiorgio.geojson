@@ -3,7 +3,8 @@
   "properties": {
     "Nome": "Fase1-240214-AiolaSanGiorgio",
     "Descrizione": "Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1066578"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1066578",
+    "trigger": ""
   },
   "features": [
     {
