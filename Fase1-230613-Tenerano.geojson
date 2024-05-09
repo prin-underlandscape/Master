@@ -8451,10 +8451,9 @@
         "Ora": "07:11:15Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
-        "Tag primario": "Albergo",
+        "Tag primario": "",
         "Altri tag": [
-          "Monumento",
-          "Parcheggio"
+          ""
         ]
       }
     },
