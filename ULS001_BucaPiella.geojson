@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "ULS001_BucaPiella",
     "Descrizione": "Scheda sito per la Buca della Piella",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls001_bucapiella_1041678",
-    "Ultimo aggiornamento": "01-05-2024"
+    "umapKey": "",
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -28,7 +28,7 @@
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
         "Data": "04-30-2023",
-        "Bibliografia": "Mencacci-Zecchini 1982, Lucca Romana, p. 220",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=3#h.qp4q0rfm6f9m",
         "ulsp_type": "Sito",
         "Titolo": "Buca della Piella",
         "Altitudine": "400",
