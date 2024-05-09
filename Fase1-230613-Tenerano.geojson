@@ -2,9 +2,10 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "Fase1-230613-Tenerano",
-    "Descrizione": "Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme.",
+    "Descrizione": "Ricognizione a Tenerano per localizzarne la grotta. Con partenza da Equi Terme ",
     "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-tenerano_1041686",
-    "Ultimo aggiornamento":"08/05/2024 15:22"
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/13-giugno-2023-tenerano",
+    "BibliographyURL": ""
   },
   "features": [
     {
@@ -8450,8 +8451,11 @@
         "Ora": "07:11:15Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Albergo",
+        "Altri tag": [
+          "Monumento",
+          "Parcheggio"
+        ]
       }
     },
     {
