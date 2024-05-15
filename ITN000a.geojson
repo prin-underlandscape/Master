@@ -20,7 +20,9 @@
         "Ora": "",
         "Autore": "",
         "Tag primario": "Attrazione naturalistica",
-        "Altri tag": ""
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
