@@ -936,26 +936,6 @@
         ]
       },
       "id": "IyNzY"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.",
-        "ulsp_type": "QRtag",
-        "Titolo": "Riparo vicino Piella",
-        "Foto": "",
-        "fid": "",
-        "Testo": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683963,
-          44.035647,
-          0
-        ]
-      },
-      "id": "AwNDc"
     }
   ]
 }
