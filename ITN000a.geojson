@@ -1,305 +1,12 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ITN000a",
-    "Descrizione": "Dataset contenente i QRtag segnaletici collocati nell'area di Casoli ",
+    "Nome": "umap_backup_itn000a (1)",
+    "Descrizione": "",
     "umapKey": "",
     "WebPageURL": ""
   },
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "",
-        "Data": "30/04/2023",
-        "ulsp_type": "POI",
-        "Titolo": "Monumento ai Caduti",
-        "Altitudine": "550",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
-        "Tag primario": "Monumento",
-        "Altri tag": [
-          "Museo"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677648,
-          44.034686,
-          0
-        ]
-      },
-      "id": "U0MzU"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "",
-        "Data": "30/04/2023",
-        "ulsp_type": "POI",
-        "Titolo": "Museo delle trottole",
-        "Altitudine": "577",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
-        "Tag primario": "Museo",
-        "Altri tag": [
-          "Attrazione naturalistica"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67577,
-          44.03523,
-          0
-        ]
-      },
-      "id": "Q1MjE"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
-        "Data": "30/04/2023",
-        "ulsp_type": "POI",
-        "Titolo": "Hotel del Sole",
-        "Altitudine": "540",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
-        "Tag primario": "Accoglienza",
-        "Altri tag": [
-          "Ristoro",
-          "Trasporti"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67068,
-          44.039971,
-          0
-        ]
-      },
-      "id": "g3Njk"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "",
-        "Data": "30/04/2023",
-        "ulsp_type": "POI",
-        "Titolo": "Luna Park",
-        "Altitudine": "590",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
-        "Tag primario": "Svago",
-        "Altri tag": [
-          "Accoglienza"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677588,
-          44.031728,
-          0
-        ]
-      },
-      "id": "gzODQ"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "",
-        "Data": "30/04/2023",
-        "ulsp_type": "POI",
-        "Titolo": "Ristorante del buongustaio",
-        "Altitudine": "515",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
-        "Tag primario": "Ristoro",
-        "Altri tag": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.669851,
-          44.039599,
-          0
-        ]
-      },
-      "id": "kzNjE"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Descrizione": "",
-        "Data": "30/04/2023",
-        "ulsp_type": "POI",
-        "Titolo": "Pronto Soccorso",
-        "Altitudine": "380",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
-        "Tag primario": "Servizi",
-        "Altri tag": [
-          "Monumento"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683202,
-          44.038665,
-          0
-        ]
-      },
-      "id": "U5NDM"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ulsp_type": "POI",
-        "Titolo": "Azienda del Turismo",
-        "Foto": "",
-        "Descrizione": "",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "Infopoint",
-        "Altri tag": [
-          "Ristoro",
-          "Servizi"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67143,
-          44.03674
-        ]
-      },
-      "id": "Q5MjU"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ulsp_type": "POI",
-        "Titolo": "Stazione ferroviaria",
-        "Foto": "",
-        "Descrizione": "",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "Trasporti",
-        "Altri tag": [
-          "",
-          "Segnaletica"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.699779,
-          44.033917
-        ]
-      },
-      "id": "g2MTg"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ulsp_type": "POI",
-        "Titolo": "Palina dei sentieri CAI",
-        "Foto": "",
-        "Descrizione": "",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "Segnaletica",
-        "Altri tag": [
-          "Attrazione naturalistica"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67317,
-          44.04417
-        ]
-      },
-      "id": "A0ODE"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ulsp_type": "POI",
-        "Titolo": "Monte Forato",
-        "Foto": "",
-        "Descrizione": "",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "Attrazione naturalistica",
-        "Altri tag": [
-          "Segnaletica"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67157,
-          44.03854
-        ]
-      },
-      "id": "E1NTg"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ulsp_type": "POI",
-        "Titolo": "Buca delle Streghe",
-        "Foto": "",
-        "Descrizione": "",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "Grotta",
-        "Altri tag": [
-          "Attrazione naturalistica"
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.71271,
-          44.0295
-        ]
-      },
-      "id": "M0NTk"
-    },
     {
       "type": "Feature",
       "properties": {
@@ -320,7 +27,10 @@
         "Dislivello in discesa": "",
         "Segnaletica": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
       },
       "geometry": {
         "type": "LineString",
@@ -897,6 +607,381 @@
     {
       "type": "Feature",
       "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Buca delle Streghe",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Sienna",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/star.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.665236,
+          44.039725
+        ]
+      },
+      "id": "M0NTk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Monte Forato",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Segnaletica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkGoldenRod",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675149,
+          44.03954
+        ]
+      },
+      "id": "E1NTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Palina dei sentieri CAI",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Segnaletica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/guide-post.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680299,
+          44.039509
+        ]
+      },
+      "id": "A0ODE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Stazione ferroviaria",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Trasporti",
+        "Altri tag": [
+          "",
+          "Segnaletica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/bus.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68193,
+          44.039478
+        ]
+      },
+      "id": "g2MTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Azienda del Turismo",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Infopoint",
+        "Altri tag": [
+          "Ristoro",
+          "Servizi"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Red",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/information.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.671802,
+          44.039571
+        ]
+      },
+      "id": "Q5MjU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Pronto Soccorso",
+        "Altitudine": "380",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Servizi",
+        "Altri tag": [
+          "Monumento"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Red",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/government.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673389,
+          44.03954
+        ]
+      },
+      "id": "U5NDM"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Ristorante del buongustaio",
+        "Altitudine": "515",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Ristoro",
+        "Altri tag": "",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/restaurant.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.666823,
+          44.039633
+        ]
+      },
+      "id": "kzNjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Luna Park",
+        "Altitudine": "590",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Svago",
+        "Altri tag": [
+          "Accoglienza"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/playground.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.670085,
+          44.039602
+        ]
+      },
+      "id": "gzODQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Hotel del Sole",
+        "Altitudine": "540",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          "Ristoro",
+          "Trasporti"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.668411,
+          44.039663
+        ]
+      },
+      "id": "g3Njk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Museo delle trottole",
+        "Altitudine": "577",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Museo",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumPurple",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/museum.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676866,
+          44.039478
+        ]
+      },
+      "id": "Q1MjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Monumento ai Caduti",
+        "Altitudine": "550",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Museo"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumPurple",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.678668,
+          44.039478
+        ]
+      },
+      "id": "U0MzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "lwtyx6",
+        "Titolo": "Chiesa dei SS. Donato e Andrea",
+        "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.661716,
+          44.039756
+        ]
+      },
+      "id": "kwMTY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Sito": "8",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
@@ -925,35 +1010,19 @@
         "Definizione": "",
         "Reperti ceramici": "",
         "Sicurezza": "",
-        "Link": ""
+        "Link": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.677623,
-          44.035917,
-          0
+          10.663133,
+          44.039787
         ]
       },
       "id": "IyNzY"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fid": "lwtyx6",
-        "Titolo": "Chiesa dei SS. Donato e Andrea",
-        "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna.",
-        "ulsp_type": "QRtag",
-        "Foto": "",
-        "Descrizione": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.669466,
-          44.039277
-        ]
-      }
     }
   ]
 }
