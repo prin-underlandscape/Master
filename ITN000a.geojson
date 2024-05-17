@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "ITN000a",
-    "Descrizione": "",
+    "Descrizione": "Dataset contenente i QRtag segnaletici collocati nell'area di Casoli ",
     "umapKey": "",
     "WebPageURL": ""
   },
@@ -936,6 +936,24 @@
         ]
       },
       "id": "IyNzY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "lwtyx6",
+        "Titolo": "Chiesa dei SS. Donato e Andrea",
+        "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669466,
+          44.039277
+        ]
+      }
     }
   ]
 }
