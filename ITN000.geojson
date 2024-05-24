@@ -1,34 +1,17 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ITN000a",
-    "Descrizione": "",
-    "umapKey": ""
+    "Nome": "ITN000",
+    "Descrizione": "Itinerario di valorizzazione turistica della zona di Casoli",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape"
   },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "Sito": "9",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli, Sant'Andrea",
-        "Microtoponimo": "Lago di Casoli",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "Frequentazione antropica",
         "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
-        "Cronologia iniziale": "Età romana imperiale (27 a.C.- 476 d.C.)",
-        "Cronologia finale": "Età contemporanea (1789-2000 d.C.)",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "area di dispersione di materiale",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
         "Data": "30/04/2023",
-        "Bibliografia": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "RoyalBlue",
@@ -36,16 +19,14 @@
         },
         "Titolo": " Lago di Casoli",
         "Altitudine": "550",
-        "Definizione": "",
-        "Reperti ceramici": "SI",
-        "Sicurezza": "buona fruibilità",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
         "Ora": "",
         "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -60,26 +41,8 @@
     {
       "type": "Feature",
       "properties": {
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "Sito": "10",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli, Sant'Andrea",
-        "Microtoponimo": "Chiesa di Sant'Andrea de Lacu e edificio residenziale (?)",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "al secondo metato che si trova sul sentiero, si segue la traccia che sale su un pianoro.  \"Secondo le fonti scritte nell'area doveva essere presente già un villaggio altomedievale le cui tracce non sono visibili in superficie.",
-        "Tipologia sito": "insediamento ecclesiastico",
         "Descrizione": "corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale",
-        "Cronologia iniziale": "Basso medioevo (1000-1492 d.C.)",
-        "Cronologia finale": "Età contemporanea (1789-2000 d.C.)",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
         "Data": "30/04/2023",
-        "Bibliografia": "Giambastiani 1996",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "MediumPurple",
@@ -87,13 +50,14 @@
         },
         "Titolo": "Chiesa di Sant'Andrea de Lacu e edificio residenziale",
         "Altitudine": "577",
-        "Definizione": "Corpo di fabbrica",
-        "Reperti ceramici": "NO",
-        "Sicurezza": "non ottimale per grave fessurazione in facciata sull'ingresso, accesso interno da evitare, forte interesse storico",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -108,26 +72,8 @@
     {
       "type": "Feature",
       "properties": {
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "Sito": "13",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli",
-        "Microtoponimo": "Castello di Casoli",
-        "Strade d'accesso": "via di Castello",
-        "Altri elementi di localizzazione": "cima del Colle delle Tanette",
-        "Tipologia sito": "Insediamento fortificato",
         "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
-        "Cronologia iniziale": "Basso medioevo (1000-1492 d.C.)",
-        "Cronologia finale": "Età subattuale (2000-oggi)",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "in parte proprietà privata",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
         "Data": "30/04/2023",
-        "Bibliografia": "Romiti 2016",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "MediumPurple",
@@ -135,13 +81,14 @@
         },
         "Titolo": "Castello di Casoli",
         "Altitudine": "540",
-        "Definizione": "Complesso architettonico composto da più corpi di fabbrica",
-        "Reperti ceramici": "SI",
-        "Sicurezza": "visibile dalla via di Castello; area sommitale non facilmente raggiungibile, in parte proprietà privata",
         "Foto": "",
-        "Link": "_umap_options: \"color\":\"MediumPurple\",\"iconClass\":\"Drop",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -156,36 +103,19 @@
     {
       "type": "Feature",
       "properties": {
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "Sito": "11",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Madonna Col del Piano",
-        "Microtoponimo": "Cappella della Madonna di Col del Piano",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "Nei suoi pressi si trova edificio abitativo di età moderna in stato di rudere; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.",
-        "Tipologia sito": "Insediamento ecclesiastico",
         "Descrizione": "Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.",
-        "Cronologia iniziale": "Età moderna (1492-1789 d.C.)",
-        "Cronologia finale": "Età subattuale (2000-oggi)",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
         "Data": "30/04/2023",
-        "Bibliografia": "Giambastiani 1996",
         "ulsp_type": "POI",
         "Titolo": "Cappella della Madonna di Col del Piano",
         "Altitudine": "590",
-        "Definizione": "Complesso architettonico composto da più corpi di fabbrica",
-        "Reperti ceramici": "NO",
-        "Sicurezza": "buona fruibilità, possibile anello intorno al Monte Memoriante ",
         "Foto": "",
-        "Link": "umap_options: {\"color\":\"MediumPurple\",\"iconClass\":\"Drop\"",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -200,26 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "Sito": "12",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli",
-        "Microtoponimo": "Cappella della Madonna di Castello",
-        "Strade d'accesso": "via di Castello, di fronte civico 7",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "Insediamento ecclesiastico",
         "Descrizione": "Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.",
-        "Cronologia iniziale": "Prima età moderna (1492-1600 d.C.)",
-        "Cronologia finale": "Età subattuale (2000-oggi)",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
         "Data": "30/04/2023",
-        "Bibliografia": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "MediumSlateBlue",
@@ -227,13 +139,14 @@
         },
         "Titolo": "Cappella della Madonna di Castello",
         "Altitudine": "515",
-        "Definizione": "Complesso architettonico composto da più corpi di fabbrica",
-        "Reperti ceramici": "NO",
-        "Sicurezza": "accesso sicuro",
         "Foto": "",
-        "Link": "_umap_options: \"color\":\"MediumSlateBlue\",\"iconClass\":\"Drop",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -248,35 +161,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Sito": "17",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Rio di Castello",
-        "Microtoponimo": "Antro dell'Ugola",
-        "Strade d'accesso": "da via Debbio, imbocco del sentiero CAI 386",
-        "Altri elementi di localizzazione": "deviazione lato monte dopo circa 250 m aver imboccato il sentiero",
-        "Tipologia sito": "ND",
         "Descrizione": "Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.",
-        "Cronologia iniziale": "ND (Non determinata)",
-        "Cronologia finale": "ND (Non determinata)",
-        "Reperti geologici": "SI",
-        "Reperti organici": "",
-        "Altri manufatti": "",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Parziale",
-        "Copertura GPS": "Completa",
         "Data": "30/04/2023",
-        "Bibliografia": "",
         "ulsp_type": "POI",
         "Titolo": "Antro dell'Ugola",
         "Altitudine": "380",
-        "Definizione": "Grotta",
-        "Reperti ceramici": "NO",
-        "Sicurezza": "buona fruibilità",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          "Grotta"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5502,7 +5399,6 @@
           "color": "DarkViolet",
           "iconClass": "Ball"
         },
-        "name": "Agriturismo Fanny Azienda Agricola",
         "ulsp_type": "POI",
         "Titolo": "Agriturismo Fanny Azienda Agricola",
         "Foto": "",
@@ -5512,11 +5408,9 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Ristorante",
+        "Tag primario": "Accoglienza",
         "Altri tag": [
-          "Albergo",
-          "Ristorante",
-          "Bar"
+          "Accoglienza"
         ]
       },
       "geometry": {
@@ -5535,7 +5429,6 @@
           "iconClass": "Ball",
           "color": "GoldenRod"
         },
-        "name": "Balzo Rotondo",
         "ulsp_type": "POI",
         "Titolo": "Balzo Rotondo",
         "Foto": "",
@@ -5545,8 +5438,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5564,7 +5459,6 @@
           "color": "DarkViolet",
           "iconClass": "Ball"
         },
-        "name": "BeB Casa Natalie",
         "ulsp_type": "POI",
         "Titolo": "BeB Casa Natalie",
         "Foto": "",
@@ -5574,9 +5468,9 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "",
+        "Tag primario": "Accoglienza",
         "Altri tag": [
-          "Albergo"
+          "Accoglienza"
         ]
       },
       "geometry": {
@@ -5595,7 +5489,6 @@
           "iconClass": "Ball",
           "color": "DarkViolet"
         },
-        "name": "BeB La Margine - Azienda Agricola",
         "ulsp_type": "POI",
         "Titolo": "BeB La Margine - Azienda Agricola",
         "Foto": "",
@@ -5605,8 +5498,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Albergo",
-        "Altri tag": ""
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          "Accoglienza"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5624,7 +5519,6 @@
           "color": "Purple",
           "iconClass": "Ball"
         },
-        "name": "beB La Menata ",
         "ulsp_type": "POI",
         "Titolo": "beB La Menata",
         "Foto": "",
@@ -5634,8 +5528,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Albergo",
-        "Altri tag": ""
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          "Accoglienza"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5653,7 +5549,6 @@
           "color": "DarkViolet",
           "iconClass": "Ball"
         },
-        "name": "BeB Val di Lima House ",
         "ulsp_type": "POI",
         "Titolo": "BeB Val di Lima House",
         "Foto": "",
@@ -5663,9 +5558,9 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "",
+        "Tag primario": "Accoglienza",
         "Altri tag": [
-          "Albergo"
+          "Accoglienza"
         ]
       },
       "geometry": {
@@ -5680,69 +5575,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "15",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Rio di Castello",
-        "Microtoponimo": "Buca della Piella",
-        "Strade d'accesso": "da via Debbio, imbocco del sentiero CAI 386",
-        "Altri elementi di localizzazione": "anziché guadare, proseguire lungo il letto del rio, dopo circa 300 m seguire una traccia sul versante sinistro del rio",
-        "Tipologia sito": "Frequentazione antropica",
-        "Definizione sito": "grotta",
         "Descrizione": "Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C",
-        "Cronologia iniziale": "Età romana imperiale",
-        "Cronologia finale": "Età romana imperiale",
-        "Reperti Ceramici": "Si",
-        "Reperti geologici": "No",
-        "Reperti organici": "Si",
-        "Altri manufatti": "monete; materiali metallici",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "complessa l'accessibilità nell'ultimo tratto in quota; neccessario mettere in sicurezza la zona di grotta sul lato scosceso",
-        "Accessibilità": "Media difficoltà",
-        "Copertura rete mobile": "Parziale",
-        "Copertura GPS": "Parziale",
-        "Note": "",
-        "Altitudine m": "400",
-        "Latitudine": "44.03661",
-        "Longitudine": "10.6835",
         "Data": "30/04/2023",
-        "Bibliografia": "Mencacci-Zecchini 1982, Lucca Romana, p. 220",
-        "name": "Buca della Piella",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "iconClass": "Ball",
@@ -5750,13 +5584,14 @@
         },
         "Titolo": "Buca della Piella",
         "Altitudine": "400",
-        "Definizione": "Grotta",
-        "Reperti ceramici": "",
-        "Sicurezza": "Complessa l'accessibilità nell'ultimo tratto in quota; neccessario mettere in sicurezza la zona di grotta sul lato scosceso",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          "Grotta"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5775,7 +5610,6 @@
           "color": "DarkViolet",
           "iconClass": "Ball"
         },
-        "name": "Canyon Park Canyon Avventura",
         "ulsp_type": "POI",
         "Titolo": "Canyon Park Canyon Avventura",
         "Foto": "",
@@ -5785,9 +5619,9 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Parco giochi",
+        "Tag primario": "Svago",
         "Altri tag": [
-          "Parco giochi"
+          "Svago"
         ]
       },
       "geometry": {
@@ -5802,83 +5636,23 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chiesa di San Pietro",
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "Insediamento storico",
-        "Provincia": "",
-        "Comune": "",
-        "Toponimo": "",
-        "Microtoponimo": "",
-        "Strade d'accesso": "",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "",
-        "Definizione sito": "",
         "Descrizione": "",
-        "Cronologia iniziale": "",
-        "Cronologia finale": "",
-        "Reperti Ceramici": "",
-        "Reperti geologici": "",
-        "Reperti organici": "",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-        "Accessibilità": "",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Note": "",
-        "Altitudine m": "",
-        "Latitudine": "",
-        "Longitudine": "",
         "Data": "",
-        "Bibliografia": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "Titolo": "Chiesa di San Pietro",
         "Altitudine": "",
-        "Definizione": "",
-        "Reperti ceramici": "",
-        "Sicurezza": "",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
         "Ora": "",
         "_umap_options": {
           "color": "MediumPurple",
           "iconClass": "Drop"
-        }
+        },
+        "Autore": "",
+        "Tag primario": "Museo",
+        "Altri tag": [
+          "Museo"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5897,7 +5671,6 @@
           "iconClass": "Ball",
           "color": "DarkGoldenRod"
         },
-        "name": "Cresta Monte Memoriante ",
         "ulsp_type": "POI",
         "Titolo": "Cresta Monte Memoriante ",
         "Foto": "",
@@ -5907,8 +5680,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6563,77 +6338,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fonte con lavatoio",
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#FF0000",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "",
-        "Provincia": "",
-        "Comune": "",
-        "Toponimo": "",
-        "Microtoponimo": "",
-        "Strade d'accesso": "",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "",
-        "Definizione sito": "",
         "Descrizione": "",
-        "Cronologia iniziale": "",
-        "Cronologia finale": "",
-        "Reperti Ceramici": "",
-        "Reperti geologici": "",
-        "Reperti organici": "",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-        "Accessibilità": "",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Note": "",
-        "Altitudine m": "",
-        "Latitudine": "",
-        "Longitudine": "",
         "Data": "",
-        "Bibliografia": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "Titolo": "Fonte con lavatoio",
         "Altitudine": "",
-        "Definizione": "",
-        "Reperti ceramici": "",
-        "Sicurezza": "",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
         "Ora": "",
         "_umap_options": {
@@ -6641,8 +6351,10 @@
           "iconClass": "Drop"
         },
         "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Servizi",
+        "Altri tag": [
+          "Servizi"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6657,69 +6369,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "1",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Ponte Nero",
-        "Microtoponimo": "Grotta di Ponte Nero 2",
-        "Strade d'accesso": "strada Statale 12 del Brennero",
-        "Altri elementi di localizzazione": "alle spalle di edificio abitativo (civico 4), posto poco più a nord di Ponte Nero",
-        "Tipologia sito": "frequentazione antropica",
-        "Definizione sito": "grotta",
         "Descrizione": "Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro",
-        "Cronologia iniziale": "Neolitico",
-        "Cronologia finale": "Età del ferro",
-        "Reperti Ceramici": "Si",
-        "Reperti geologici": "No",
-        "Reperti organici": "Si",
-        "Altri manufatti": "industria litica",
-        "Dimensioni": "Imboccatura: circa 10 m; circa 8 m",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "accesso sicuro, da capire rapporti con il proprietario del terreno e la proprietaria della casa",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Parziale",
-        "Copertura GPS": "Parziale",
-        "Note": "In proprietà privata; presenti spit da arrampicata sportiva",
-        "Altitudine m": "280",
-        "Latitudine": "44.03832",
-        "Longitudine": "10.66233",
         "Data": "20/05/2023",
-        "Bibliografia": "Guidi 1989, pp. 58-61; Mencacci-Zecchini 1976, pp. 53-58",
-        "name": "Grotta di Ponte Nero 2",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "Sienna"
@@ -6730,8 +6381,10 @@
         "Autore": "",
         "Strumento": "",
         "Ora": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          "Grotta"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6746,69 +6399,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Inizio di Escursione verso Cocciglia",
-        "description": "[object Object]",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "[object Object]",
-        "Sito": "",
-        "Provincia": "",
-        "Comune": "",
-        "Toponimo": "",
-        "Microtoponimo": "",
-        "Strade d'accesso": "",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "",
-        "Definizione sito": "",
         "Descrizione": "",
-        "Cronologia iniziale": "",
-        "Cronologia finale": "",
-        "Reperti Ceramici": "",
-        "Reperti geologici": "",
-        "Reperti organici": "",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-        "Accessibilità": "",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Note": "",
-        "Altitudine m": "",
-        "Latitudine": "",
-        "Longitudine": "",
         "Data": "",
-        "Bibliografia": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "Titolo": "Inizio di Escursione verso Cocciglia",
         "Foto": "",
@@ -6880,8 +6472,7 @@
         "Copertura rete mobile": "",
         "Strumento": "",
         "Data": "",
-        "Ora": "",
-        "name": "Percorso Piella"
+        "Ora": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7123,69 +6714,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "14",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli",
-        "Microtoponimo": "Chiesa dei SS. Donato e Andrea di Casoli",
-        "Strade d'accesso": "piazza su via Chiesa",
-        "Altri elementi di localizzazione": "lato occidentale dell'abitato",
-        "Tipologia sito": "Insediamento ecclesiastico",
-        "Definizione sito": "complesso architettonico composto da più corpi di fabbrica",
         "Descrizione": "complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.",
-        "Cronologia iniziale": "Basso medioevo (1000-1492 d.C.)",
-        "Cronologia finale": "Età subattuale (2000-oggi)",
-        "Reperti Ceramici": "No",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "buona fruibilità",
-        "Accessibilità": "Facile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
-        "Note": "",
-        "Altitudine m": "495",
-        "Latitudine": "44.03924",
-        "Longitudine": "10.66956",
         "Data": "30/04/2023",
-        "Bibliografia": "Giambastiani 1996",
-        "name": "Insediamento ecclesiastico",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "MediumPurple",
@@ -7193,13 +6723,14 @@
         },
         "Titolo": "Insediamento ecclesiastico",
         "Altitudine": "495",
-        "Definizione": "Complesso architettonico composto da più corpi di fabbrica",
-        "Reperti ceramici": "NO",
-        "Sicurezza": "buona fruibilità",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7214,69 +6745,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "8",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Casoli, Sant'Andrea",
-        "Microtoponimo": "Metato",
-        "Strade d'accesso": "sentiero CAI 388 da Casoli",
-        "Altri elementi di localizzazione": "a nord-ovest del lago di Casoli",
-        "Tipologia sito": "insediamento produttivo",
-        "Definizione sito": "complesso architettonico composto da più corpi di fabbrica",
         "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
-        "Cronologia iniziale": "Età contemporanea",
-        "Cronologia finale": "Età sub-attuale",
-        "Reperti Ceramici": "No",
-        "Reperti geologici": "No",
-        "Reperti organici": "No",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "recintato perché in proprietà privata, ma ben visibile dal sentiero",
-        "Accessibilità": "Non accessibile",
-        "Copertura rete mobile": "Completa",
-        "Copertura GPS": "Completa",
-        "Note": "",
-        "Altitudine m": "569",
-        "Latitudine": "44.03591",
-        "Longitudine": "10.67763",
         "Data": "30/04/2023",
-        "Bibliografia": "",
-        "name": "Metato",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "Sienna"
@@ -7287,8 +6757,10 @@
         "Autore": "",
         "Strumento": "",
         "Ora": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7303,7 +6775,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Opposto bar",
         "ulsp_type": "POI",
         "Titolo": "Opposto bar",
         "Foto": "",
@@ -7313,8 +6784,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Bar",
-        "Altri tag": ""
+        "Tag primario": "Ristoro",
+        "Altri tag": [
+          "Ristoro"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7332,7 +6805,6 @@
           "color": "DarkGoldenRod",
           "iconClass": "Ball"
         },
-        "name": "Penna di Lucchio",
         "ulsp_type": "POI",
         "Titolo": "Penna di Lucchio",
         "Foto": "",
@@ -7342,8 +6814,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7968,69 +7442,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Toponimo: Rio di Castello",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "16",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Toponimo": "Rio di Castello",
-        "Microtoponimo": "Riparo vicino Piella",
-        "Strade d'accesso": "da via Debbio, imbocco del sentiero CAI 386",
-        "Altri elementi di localizzazione": "anziché guadare, proseguire lungo il letto del rio, dopo circa 300 m seguire una traccia sul versante sulla sinistra del rio, salire circa 20 m (120 m a sud dalla Piella)",
-        "Tipologia sito": "ND",
-        "Definizione sito": "riparo sotto roccia",
         "Descrizione": "Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.",
-        "Cronologia iniziale": "ND",
-        "Cronologia finale": "ND",
-        "Reperti Ceramici": "",
-        "Reperti geologici": "NO",
-        "Reperti organici": "NO",
-        "Altri manufatti": "",
-        "Dimensioni": "Area: circa 15 m quadrati",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "accesso sicuro",
-        "Accessibilità": "Media difficoltà",
-        "Copertura rete mobile": "Parziale",
-        "Copertura GPS": "Parziale",
-        "Note": "",
-        "Altitudine m": "390",
-        "Latitudine": "44.03564",
-        "Longitudine": "10.68396",
         "Data": "30/04/2023",
-        "Bibliografia": "",
-        "name": "Riparo vicino Piella",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "_umap_options": {
           "color": "MediumSeaGreen",
@@ -8038,13 +7451,14 @@
         },
         "Titolo": "Riparo vicino Piella",
         "Altitudine": "390",
-        "Definizione": "Riparo sotto roccia",
-        "Reperti ceramici": "NO",
-        "Sicurezza": "accesso sicuro",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
-        "Ora": ""
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -8059,77 +7473,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rocca di Lucchio",
-        "description": "",
-        "styleUrl": "#icon-1899-0288D1",
-        "label-scale": 0,
-        "icon-opacity": 1,
-        "icon-color": "#0288d1",
-        "icon-scale": 1,
-        "icon-offset": [
-          32,
-          64
-        ],
-        "icon-offset-units": [
-          "pixels",
-          "insetPixels"
-        ],
-        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
-        "descrizione": "",
-        "Sito": "",
-        "Provincia": "",
-        "Comune": "",
-        "Toponimo": "",
-        "Microtoponimo": "",
-        "Strade d'accesso": "",
-        "Altri elementi di localizzazione": "",
-        "Tipologia sito": "",
-        "Definizione sito": "",
         "Descrizione": "",
-        "Cronologia iniziale": "",
-        "Cronologia finale": "",
-        "Reperti Ceramici": "",
-        "Reperti geologici": "",
-        "Reperti organici": "",
-        "Altri manufatti": "",
-        "Dimensioni": "",
-        "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-        "Accessibilità": "",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Note": "",
-        "Altitudine m": "",
-        "Latitudine": "",
-        "Longitudine": "",
         "Data": "",
-        "Bibliografia": "",
-        "cmt": "",
-        "desc": "",
-        "src": "",
-        "link1_href": "",
-        "link1_text": "",
-        "link1_type": "",
-        "link2_href": "",
-        "link2_text": "",
-        "link2_type": "",
-        "number": "",
-        "type": "",
-        "locus_activity": "",
-        "name_2": "",
-        "cmt_2": "",
-        "desc_2": "",
-        "src_2": "",
-        "link1_href_2": "",
-        "link1_text_2": "",
-        "link1_type_2": "",
         "ulsp_type": "POI",
         "Titolo": "Rocca di Lucchio",
         "Altitudine": "",
-        "Definizione": "",
-        "Reperti ceramici": "",
-        "Sicurezza": "",
         "Foto": "",
-        "Link": "",
         "Strumento": "",
         "Ora": "",
         "_umap_options": {
@@ -8137,8 +7486,10 @@
           "iconClass": "Drop"
         },
         "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -8157,7 +7508,6 @@
           "color": "DarkViolet",
           "iconClass": "Ball"
         },
-        "name": "T-rafting Val di Lima",
         "ulsp_type": "POI",
         "Titolo": "T-rafting Val di Lima",
         "Foto": "",
@@ -8167,9 +7517,9 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Parco giochi",
+        "Tag primario": "Svago",
         "Altri tag": [
-          "Parco giochi"
+          "Svago"
         ]
       },
       "geometry": {
@@ -8188,7 +7538,6 @@
           "color": "DarkViolet",
           "iconClass": "Ball"
         },
-        "name": "Villa delle Rose ",
         "ulsp_type": "POI",
         "Titolo": "Villa delle Rose",
         "Foto": "",
@@ -8198,8 +7547,10 @@
         "Strumento": "",
         "Data": "",
         "Ora": "",
-        "Tag primario": "Albergo",
-        "Altri tag": ""
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          "Accoglienza"
+        ]
       },
       "geometry": {
         "type": "Point",
