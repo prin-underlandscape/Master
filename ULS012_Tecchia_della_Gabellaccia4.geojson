@@ -1,10 +1,10 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ULS012_GrottaSottoGabellaccia",
-    "Descrizione": "Scheda sito per la grotta sotto la Gabellaccia",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls012_grottasottogabellaccia_1041659",
-    "Ultimo aggiornamento": "01-05-2024"
+    "Nome": "ULS012_Tecchia_della_Gabellaccia4",
+    "Descrizione": "",
+    "umapKey": "",
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -17,15 +17,15 @@
       },
       "properties": {
         "ulsp_type": "Sito",
-        "Titolo": "Grotta sotto la Gabellaccia",
+        "Titolo": "Tecchia della Gabellaccia 4",
         "Descrizione": "Grotta con sviluppo orizzontale, di medie dimensioni, poco profonda, localizzata sul versante sud della parete rocciosa lungo il sentiero 185, pochi metri dopo il bivio col sentiero 46.",
         "Data": "06-13-2023",
         "Ora": "03:35:06 PM",
         "Sito": "ULS012",
         "Provincia": "Massa Carrara",
         "Comune": "Carrara",
-        "Toponimo": "Gabellaccia",
-        "Microtoponimo": "",
+        "Toponimo": "Passo della Gabellaccia",
+        "Microtoponimo": "Tecchia",
         "Altitudine": 777,
         "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, pochi metri dopo il bivio con sentiero 46",
         "Altri elementi di localizzazione": "",
@@ -36,12 +36,12 @@
         "Reperti ceramici": "NO",
         "Reperti geologici": "NO",
         "Reperti organici": "NO",
-        "Altri manufatti": "",
+        "Altri manufatti": "Rinvenuta ceramica post medievale sul versante sotto la grotta",
         "Sicurezza": "accesso in sicurezza ",
         "Accessibilità": "Facile",
         "Copertura rete mobile": "Completa",
         "Copertura GPS": "Completa",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/3wBzM7nZ/IMG-20230921-171119.jpg",
         "Link": "",
         "Bibliografia": "",
         "Strumento": ""

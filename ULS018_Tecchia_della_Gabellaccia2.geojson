@@ -1,10 +1,10 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ULS018_Riparo_Gabellaccia2",
+    "Nome": "ULS018_Tecchia_della_Gabellaccia2",
     "Descrizione": "",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls018_riparogabellaccia2_1062930",
-    "Ultimo aggiornamento": "01-05-2024"
+    "umapKey": "",
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -17,20 +17,20 @@
       },
       "properties": {
         "ulsp_type": "Sito",
-        "Titolo": "Riparo della Gabellaccia 2",
-        "Descrizione": "Grande riparo sotto roccia con ampia apertura  e camera più profonda sulla destra, importante vegetazione invade l'interno",
+        "Titolo": "Tecchia della Gabellaccia 2",
+        "Descrizione": "Grotta con ampia apertura, probabilmente in origine più profonda a causa della cadura di parte della volta, con camera sulla destra; importante vegetazione invade l'interno",
         "Data": "02-15-2024",
         "Ora": "11:32:42 AM",
         "Sito": "ULS018",
         "Provincia": "Massa Carrara",
         "Comune": "Carrara",
         "Toponimo": "Passo della Gabellaccia",
-        "Microtoponimo": "",
+        "Microtoponimo": "Tecchia",
         "Altitudine": 821,
-        "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, pochi metri dopo il riparo della Gabellaccia 1, in direzione ovest, seguendo una traccia",
-        "Altri elementi di localizzazione": "",
+        "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, deviazione che si dirama sulla destra in direzione della parete rocciosa",
+        "Altri elementi di localizzazione": "pochi metri dopo la Tecchia della Gabellaccia 1, in direzione ovest, seguendo una traccia",
         "Tipologia sito": "ND",
-        "Definizione": "",
+        "Definizione": "Grotta",
         "Cronologia iniziale": "ND (Non determinata)",
         "Cronologia finale": "ND (Non determinata)",
         "Reperti ceramici": "NO",
@@ -41,7 +41,7 @@
         "Accessibilità": "Facile",
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/nhBFwwt2/IMG-20240215-113401.jpg",
         "Link": "",
         "Bibliografia": "",
         "Strumento": ""

@@ -1,10 +1,10 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ULS017_Riparo_Gabellaccia1",
+    "Nome": "ULS017_Riparo_della_Gabellaccia",
     "Descrizione": "",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/uls017_riparogabellaccia1_1062928",
-    "Ultimo aggiornamento": "01-05-2024"
+    "umapKey": "",
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -17,31 +17,31 @@
       },
       "properties": {
         "ulsp_type": "Sito",
-        "Titolo": "Riparo della Gabellaccia 1",
+        "Titolo": "Riparo della Gabellaccia",
         "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale ",
         "Data": "02-15-2024",
         "Ora": "11:02:27 AM",
         "Sito": "ULS017",
         "Provincia": "Massa Carrara",
         "Comune": "Carrara",
-        "Toponimo": "Gabellaccia",
-        "Microtoponimo": "",
+        "Toponimo": "Passo della Gabellaccia",
+        "Microtoponimo": "Tecchia",
         "Altitudine": 856,
         "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, labile deviazione sulla destra.",
         "Altri elementi di localizzazione": "",
         "Tipologia sito": "ND",
-        "Definizione": "riparo sotto roccia",
+        "Definizione": "Riparo sotto roccia",
         "Cronologia iniziale": "ND (Non determinata)",
         "Cronologia finale": "ND (Non determinata)",
         "Reperti ceramici": "SI",
         "Reperti geologici": "NO",
         "Reperti organici": "NO",
         "Altri manufatti": "A sud-ovest del riparo, rivenuta ceramica di età moderna e contemporanea",
-        "Sicurezza": "",
+        "Sicurezza": "semplice raggiungere il sito",
         "Accessibilità": "Facile",
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/h4yygB44/IMG-20240215-110520.jpg",
         "Link": "",
         "Bibliografia": "",
         "Strumento": ""
