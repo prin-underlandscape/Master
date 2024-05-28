@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "ULS019_Tecchia_della_Gabellaccia3",
     "Descrizione": "",
-    "umapKey": "",
-    "WebPageURL": ""
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls019_tecchia_della_gabellaccia3_1075578?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
@@ -38,7 +38,10 @@
         "Foto": "https://i.postimg.cc/ZqbcD2dz/IMG-20240215-115923.jpg",
         "Link": "",
         "Bibliografia": "Radi 1976",
-        "Strumento": ""
+        "Strumento": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
       },
       "geometry": {
         "type": "Point",
