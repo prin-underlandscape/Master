@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS012_Tecchia_della_Gabellaccia4",
+    "Descrizione": "",
+    "umapKey": "",
+    "WebPageURL": ""
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          10.092058,
+          44.123206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Sito",
+        "Titolo": "Tecchia della Gabellaccia 4",
+        "Descrizione": "Grotta con sviluppo orizzontale, di medie dimensioni, poco profonda, localizzata sul versante sud della parete rocciosa lungo il sentiero 185, pochi metri dopo il bivio col sentiero 46.",
+        "Data": "06-13-2023",
+        "Ora": "03:35:06 PM",
+        "Sito": "ULS012",
+        "Provincia": "Massa Carrara",
+        "Comune": "Carrara",
+        "Toponimo": "Passo della Gabellaccia",
+        "Microtoponimo": "Tecchia",
+        "Altitudine": 777,
+        "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, pochi metri dopo il bivio con sentiero 46",
+        "Altri elementi di localizzazione": "",
+        "Tipologia sito": "ND",
+        "Definizione": "Grotta",
+        "Cronologia iniziale": "ND (Non determinata)",
+        "Cronologia finale": "ND (Non determinata)",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "Rinvenuta ceramica post medievale sul versante sotto la grotta",
+        "Sicurezza": "accesso in sicurezza ",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Foto": "https://i.postimg.cc/3wBzM7nZ/IMG-20230921-171119.jpg",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": ""
+      },
+      "type": "Feature"
+    }
+  ]
+}
