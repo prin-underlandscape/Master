@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS019_Tecchia_della_Gabellaccia3",
+    "Descrizione": "",
+    "umapKey": "",
+    "WebPageURL": ""
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "Sito",
+        "Titolo": "Tecchia della Gabellaccia 3",
+        "Descrizione": "Ampia grotta in cui distinguono più camere poco profonde, indagata nel 1959 con alcuni saggi di scavo e trincee; presente un importante crollo della volta lungo l'apertura",
+        "Data": "02-15-2024",
+        "Ora": "12:02:39",
+        "Sito": "ULS019",
+        "Provincia": "Massa Carrara",
+        "Comune": "Carrara",
+        "Toponimo": "Passo della Gabellaccia",
+        "Microtoponimo": "Tecchia",
+        "Altitudine": 770,
+        "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia in direzione Castelpoggio, si dirama una piccola deviazione sulla destra che sale verso la parete rocciosa ",
+        "Altri elementi di localizzazione": "Pochi metri oltre la Tecchia della Gabellaccia 2, seguendo una traccia verso ovest fino in fondo alla parete rocciosa",
+        "Tipologia sito": "Frequentazione antropica",
+        "Definizione": "Grotta",
+        "Cronologia iniziale": "Eneolitico (3500-2300 a.C.)",
+        "Cronologia finale": "Età romana imperiale (27 a.C.- 476 d.C.)",
+        "Reperti ceramici": "SI",
+        "Reperti geologici": "NO",
+        "Reperti organici": "SI",
+        "Altri manufatti": "industria litica, resti di fauna",
+        "Sicurezza": "",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Parziale",
+        "Foto": "https://i.postimg.cc/ZqbcD2dz/IMG-20240215-115923.jpg",
+        "Link": "",
+        "Bibliografia": "Radi 1976",
+        "Strumento": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.093909777313566,
+          44.1239276024067
+        ]
+      }
+    }
+  ]
+}
