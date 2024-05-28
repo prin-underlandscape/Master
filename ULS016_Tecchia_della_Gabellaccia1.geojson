@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ULS016_Tecchia_della_Gabellaccia1",
+    "Descrizione": "",
+    "umapKey": "",
+    "WebPageURL": ""
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "Sito",
+        "Titolo": "Tecchia della Gabellaccia 1",
+        "Descrizione": "Piccola grotta con stalattiti e stalagmiti, invasa da vegetazione al suo interno, localizzata lungo il sistema roccioso che corre lungo il sentiero 185. Di fronte vi è stato costruita una passerella in legno per agevolare il passaggio lungo la parete rocciosa.",
+        "Data": "02-15-2024",
+        "Ora": "11:02:27",
+        "Sito": "ULS016",
+        "Provincia": "Massa Carrara",
+        "Comune": "Carrara",
+        "Toponimo": "Passo della Gabellaccia",
+        "Microtoponimo": "Tecchia",
+        "Altitudine": "780",
+        "Strade d'accesso": "sentiero 185, partendo dal passo della Gabellaccia, labile deviazione sulla destra.",
+        "Altri elementi di localizzazione": "pochi metri dopo il Riparo della Gabellaccia seguendo una traccia verso ovest",
+        "Tipologia sito": "ND",
+        "Definizione": "Grotta",
+        "Cronologia iniziale": "ND (Non determinata)",
+        "Cronologia finale": "ND (Non determinata)",
+        "Reperti ceramici": "SI",
+        "Reperti geologici": "NO",
+        "Reperti organici": "NO",
+        "Altri manufatti": "A sud-est della grotta, rivenuta ceramica di età moderna e contemporanea",
+        "Sicurezza": "la presenza di vegetazione infestante non permette un accesso agevole",
+        "Accessibilità": "Facile",
+        "Copertura rete mobile": "Parziale",
+        "Copertura GPS": "Parziale",
+        "Foto": "https://i.postimg.cc/X7r2YzXf/IMG-20240215-111509.jpg",
+        "Link": "",
+        "Bibliografia": "",
+        "Strumento": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.095439057135968,
+          44.12356479538183
+        ]
+      }
+    }
+  ]
+}
