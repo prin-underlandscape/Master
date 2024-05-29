@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "Fase1-230528-BucaDellaPaura",
     "Descrizione": "Breve ricognizione per verificare l'accessibilità dell'Antro della Paura",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230528-bucadellapaura_1041692",
-    "Ultimo aggiornamento":"01/05/2024"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230528-bucadellapaura_1041692?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
@@ -348,7 +348,10 @@
         "Altitudine": 175,
         "Data": "2023-05-28",
         "Ora": "07:50:03Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -368,7 +371,10 @@
         "Altitudine": 202,
         "Data": "2023-05-28",
         "Ora": "07:52:54Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     }
   ]

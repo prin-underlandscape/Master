@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "Fase1-230612-EquiTerme",
     "Descrizione": "Ricognizione a Equi terme per localizzare le grotte nelle vicinanze e come base per Tenerano e Gabellaccia",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688",
-    "Ultimo aggiornamento":"01/05/2024"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
@@ -2175,7 +2175,10 @@
         "Altitudine": 331,
         "Data": "2023-06-12",
         "Ora": "12:31:31Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -6758,7 +6761,10 @@
         "Altitudine": 370,
         "Data": "2023-06-12",
         "Ora": "15:13:17Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -6778,7 +6784,10 @@
         "Altitudine": 357,
         "Data": "2023-06-12",
         "Ora": "15:54:31Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -6798,7 +6807,10 @@
         "Altitudine": 369,
         "Data": "2023-06-12",
         "Ora": "15:10:19Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -6818,7 +6830,10 @@
         "Altitudine": 459,
         "Data": "2023-06-12",
         "Ora": "15:32:46Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -6838,7 +6853,10 @@
         "Altitudine": 343,
         "Data": "2023-06-12",
         "Ora": "15:09:26Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     }
   ]

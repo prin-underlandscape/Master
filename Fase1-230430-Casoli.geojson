@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "Fase1-230430-Casoli",
     "Descrizione": "Prima ricognizione a Casoli per localizzare la Buca della Piella e collocare i primi QR-code",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230430-casoli_1041694",
-    "Ultimo aggiornamento":"01/05/2024"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230430-casoli_1041694?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
@@ -10253,7 +10253,10 @@
         "Altitudine": 407,
         "Data": "2023-04-30",
         "Ora": "08:16:47Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10273,7 +10276,10 @@
         "Altitudine": 406,
         "Data": "2023-04-30",
         "Ora": "08:19:43Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10293,7 +10299,10 @@
         "Altitudine": 402,
         "Data": "2023-04-30",
         "Ora": "08:51:36Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10313,7 +10322,10 @@
         "Altitudine": 496,
         "Data": "2023-04-30",
         "Ora": "09:09:31Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10333,7 +10345,10 @@
         "Altitudine": 464,
         "Data": "2023-04-30",
         "Ora": "09:12:12Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10353,7 +10368,10 @@
         "Altitudine": 383,
         "Data": "2023-04-30",
         "Ora": "09:13:00Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10373,7 +10391,10 @@
         "Altitudine": 463,
         "Data": "2023-04-30",
         "Ora": "09:29:19Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10393,7 +10414,10 @@
         "Altitudine": 463,
         "Data": "2023-04-30",
         "Ora": "09:17:55Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10413,7 +10437,10 @@
         "Altitudine": 463,
         "Data": "2023-04-30",
         "Ora": "09:28:51Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10453,7 +10480,10 @@
         "Altitudine": 463,
         "Data": "2023-04-30",
         "Ora": "09:17:09Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10473,7 +10503,10 @@
         "Altitudine": 509,
         "Data": "2023-04-30",
         "Ora": "09:32:49Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10493,7 +10526,10 @@
         "Altitudine": 449,
         "Data": "2023-04-30",
         "Ora": "10:19:52Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10513,7 +10549,10 @@
         "Altitudine": 437,
         "Data": "2023-04-30",
         "Ora": "10:20:25Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10533,7 +10572,10 @@
         "Altitudine": 436,
         "Data": "2023-04-30",
         "Ora": "11:26:15Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10553,7 +10595,10 @@
         "Altitudine": 436,
         "Data": "2023-04-30",
         "Ora": "11:26:51Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10573,7 +10618,10 @@
         "Altitudine": 421,
         "Data": "2023-04-30",
         "Ora": "11:45:24Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10593,7 +10641,10 @@
         "Altitudine": 417,
         "Data": "2023-04-30",
         "Ora": "12:04:19Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10613,7 +10664,10 @@
         "Altitudine": 501,
         "Data": "2023-04-30",
         "Ora": "08:53:42Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10633,7 +10687,10 @@
         "Altitudine": 403,
         "Data": "2023-04-30",
         "Ora": "09:00:01Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -10653,7 +10710,10 @@
         "Altitudine": 463,
         "Data": "2023-04-30",
         "Ora": "09:29:48Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15368,7 +15428,10 @@
         "Altitudine": 620,
         "Data": "2023-04-30",
         "Ora": "14:37:14Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15388,7 +15451,10 @@
         "Altitudine": 610,
         "Data": "2023-04-30",
         "Ora": "14:13:05Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15408,7 +15474,10 @@
         "Altitudine": 516,
         "Data": "2023-04-30",
         "Ora": "13:35:09Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15428,7 +15497,10 @@
         "Altitudine": 518,
         "Data": "2023-04-30",
         "Ora": "13:35:59Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15448,7 +15520,10 @@
         "Altitudine": 555,
         "Data": "2023-04-30",
         "Ora": "16:00:58Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15468,7 +15543,10 @@
         "Altitudine": 607,
         "Data": "2023-04-30",
         "Ora": "14:05:08Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15488,7 +15566,10 @@
         "Altitudine": 607,
         "Data": "2023-04-30",
         "Ora": "14:05:41Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15508,7 +15589,10 @@
         "Altitudine": 619,
         "Data": "2023-04-30",
         "Ora": "14:36:33Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15528,7 +15612,10 @@
         "Altitudine": 628,
         "Data": "2023-04-30",
         "Ora": "14:59:41Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -15548,7 +15635,10 @@
         "Altitudine": 617,
         "Data": "2023-04-30",
         "Ora": "15:13:47Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     }
   ]

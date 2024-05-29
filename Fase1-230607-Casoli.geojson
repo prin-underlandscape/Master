@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "Fase1-230607-Casoli",
     "Descrizione": "Seconda ricognizione a Casoli per perfezionare la posa dei QRcode e visitare il centro della cittadina",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690",
-    "Ultimo aggiornamento":"01/05/2024"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
@@ -2373,7 +2373,10 @@
         "Altitudine": 400,
         "Data": "2023-06-07",
         "Ora": "10:18:19Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -2393,7 +2396,10 @@
         "Altitudine": 436,
         "Data": "2023-06-07",
         "Ora": "10:11:27Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -2413,7 +2419,10 @@
         "Altitudine": 458,
         "Data": "2023-06-07",
         "Ora": "10:19:12Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -2433,7 +2442,10 @@
         "Altitudine": 457,
         "Data": "2023-06-07",
         "Ora": "10:21:50Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     }
   ]

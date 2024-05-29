@@ -3,8 +3,8 @@
   "properties": {
     "Nome": "Fase1-230613-Gabellaccia",
     "Descrizione": "Ricognizione per localizzare la grotta della Gabellaccia, con partenza da Equi Terme",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687",
-    "Ultimo aggiornamento":"01/05/2024"
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
@@ -2443,7 +2443,16 @@
         "Lunghezza": "1.466",
         "Durata": "01h 33m",
         "Dislivello in salita": "54",
-        "Dislivello in discesa": "45"
+        "Dislivello in discesa": "45",
+        "Provincia": "",
+        "Comune": "",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Descrizione": "",
+        "Difficoltà": "",
+        "Segnaletica": "",
+        "Copertura GPS": "",
+        "Copertura rete mobile": ""
       }
     },
     {
@@ -2463,7 +2472,10 @@
         "Altitudine": 907,
         "Data": "2023-06-13",
         "Ora": "11:11:31Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     },
     {
@@ -2483,7 +2495,10 @@
         "Altitudine": 885,
         "Data": "2023-06-13",
         "Ora": "11:30:44Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": ""
       }
     }
   ]

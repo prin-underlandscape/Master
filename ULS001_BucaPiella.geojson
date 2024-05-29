@@ -3,9 +3,8 @@
   "properties": {
     "Nome": "ULS001_BucaPiella",
     "Descrizione": "Scheda sito per la Buca della Piella",
-    "umapKey": "",
-    "WebPageURL": "",
-    "prova":""
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls001_bucapiella_1041678?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {

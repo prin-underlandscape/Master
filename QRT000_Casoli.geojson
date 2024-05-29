@@ -1,10 +1,10 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "Fase1-230521-VallicodiSopra",
-    "Descrizione": "Dataset contenente i QRtag segnaletici collocati nell'area di Casoli ",
-    "umapKey": "",
-    "WebPageURL": ""
+    "Nome": "QRT000_Casoli",
+    "Descrizione": "Dataset contenente i QRtag segnaletici collocati nell'area di Casoli durante la prima ricognizione",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/qrt000_casoli_1041683?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
   },
   "features": [
     {
