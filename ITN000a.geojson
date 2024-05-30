@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "umap_backup_itn000a (1)",
-    "Descrizione": "",
+    "Descrizione": "Test con POI con tutti i tag, un sito, un percorso ed un QRtag",
     "umapKey": "",
     "WebPageURL": ""
   },
