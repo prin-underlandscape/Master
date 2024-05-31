@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "ITN000a",
     "Descrizione": "Test con POI con tutti i tag, un sito, un percorso ed un QRtag",
-    "umapKey": "",
+    "umapKey": "x",
     "WebPageURL": ""
   },
   "features": [
