@@ -1040,7 +1040,9 @@
         "Foto": "https://i.postimg.cc/h4yygB44/IMG-20240215-110520.jpg",
         "Link": "https://www.google.com",
         "Tag primario": "Grotta",
-        "Altri tag": ""
+        "Altri tag": [
+          "Ristoro"
+        ]
       },
       "type": "Feature"
     }
