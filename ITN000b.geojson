@@ -965,7 +965,7 @@
         "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna.",
         "ulsp_type": "QRtag",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "QR tag della chiesa dei SS Donato e Andrea",
         "_umap_options": {
           "popupTemplate": "Default"
         }
@@ -1035,7 +1035,7 @@
       "properties": {
         "ulsp_type": "Risorsa",
         "Titolo": "Riparo della Gabellaccia",
-        "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale ",
+        "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale",
         "Altitudine": 856,
         "Foto": "https://i.postimg.cc/h4yygB44/IMG-20240215-110520.jpg",
         "Link": "",
