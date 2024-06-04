@@ -1,0 +1,1048 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ITN000a",
+    "Descrizione": "Test con POI con tutti i tag, un sito, un percorso ed un QRtag",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/uls017_riparo_della_gabellaccia_1075582?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Provincia": "",
+        "Comune": "",
+        "Descrizione": "",
+        "Copertura rete mobile": "",
+        "Copertura GPS": "",
+        "Data": "",
+        "ulsp_type": "Percorso",
+        "Titolo": "Escursione verso Cocciglia",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Difficoltà": "",
+        "Lunghezza": "",
+        "Durata": "",
+        "Dislivello in salita": "",
+        "Dislivello in discesa": "",
+        "Segnaletica": "",
+        "Strumento": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.669211,
+            44.038931,
+            435.66
+          ],
+          [
+            10.669153,
+            44.038939,
+            435.66
+          ],
+          [
+            10.668461,
+            44.039272,
+            435.66
+          ],
+          [
+            10.668386,
+            44.039291,
+            435.66
+          ],
+          [
+            10.668265,
+            44.039262,
+            435.66
+          ],
+          [
+            10.668216,
+            44.039206,
+            435.66
+          ],
+          [
+            10.667328,
+            44.039242,
+            429.5
+          ],
+          [
+            10.667195,
+            44.039191,
+            428.38
+          ],
+          [
+            10.667491,
+            44.039015,
+            425.52
+          ],
+          [
+            10.667726,
+            44.038736,
+            422.15
+          ],
+          [
+            10.668042,
+            44.038552,
+            419.13
+          ],
+          [
+            10.668308,
+            44.038347,
+            416.2
+          ],
+          [
+            10.668971,
+            44.038083,
+            410.38
+          ],
+          [
+            10.669124,
+            44.038061,
+            409.18
+          ],
+          [
+            10.6694,
+            44.037929,
+            406.63
+          ],
+          [
+            10.669461,
+            44.037775,
+            404.92
+          ],
+          [
+            10.669206,
+            44.037767,
+            402.96
+          ],
+          [
+            10.66889,
+            44.037628,
+            400.11
+          ],
+          [
+            10.66889,
+            44.037525,
+            399.01
+          ],
+          [
+            10.66893,
+            44.037459,
+            398.24
+          ],
+          [
+            10.668859,
+            44.037283,
+            395.13
+          ],
+          [
+            10.668788,
+            44.037188,
+            393.12
+          ],
+          [
+            10.668706,
+            44.036901,
+            387.68
+          ],
+          [
+            10.668502,
+            44.036549,
+            380.58
+          ],
+          [
+            10.668359,
+            44.036564,
+            378.65
+          ],
+          [
+            10.668012,
+            44.036887,
+            371.06
+          ],
+          [
+            10.667726,
+            44.036894,
+            367.23
+          ],
+          [
+            10.667267,
+            44.036799,
+            361.13
+          ],
+          [
+            10.667042,
+            44.036821,
+            358.34
+          ],
+          [
+            10.666991,
+            44.036909,
+            356.71
+          ],
+          [
+            10.667001,
+            44.037122,
+            353.07
+          ],
+          [
+            10.666971,
+            44.037261,
+            350.66
+          ],
+          [
+            10.666818,
+            44.037224,
+            348.68
+          ],
+          [
+            10.666818,
+            44.037056,
+            345.81
+          ],
+          [
+            10.666777,
+            44.036968,
+            344.22
+          ],
+          [
+            10.666511,
+            44.036872,
+            340.56
+          ],
+          [
+            10.666573,
+            44.036535,
+            334.75
+          ],
+          [
+            10.66646,
+            44.036403,
+            332.26
+          ],
+          [
+            10.666491,
+            44.036278,
+            330.3
+          ],
+          [
+            10.666634,
+            44.03608,
+            326.87
+          ],
+          [
+            10.666613,
+            44.035977,
+            325.26
+          ],
+          [
+            10.666399,
+            44.035933,
+            322.8
+          ],
+          [
+            10.666061,
+            44.035995,
+            318.94
+          ],
+          [
+            10.666006,
+            44.036054,
+            317.85
+          ],
+          [
+            10.665784,
+            44.036117,
+            315.21
+          ],
+          [
+            10.665513,
+            44.03625,
+            311.58
+          ],
+          [
+            10.66534,
+            44.036496,
+            307.33
+          ],
+          [
+            10.665208,
+            44.036595,
+            305.22
+          ],
+          [
+            10.665138,
+            44.036705,
+            303.37
+          ],
+          [
+            10.665177,
+            44.03697,
+            299.28
+          ],
+          [
+            10.665097,
+            44.037018,
+            298.13
+          ],
+          [
+            10.664879,
+            44.03701,
+            295.72
+          ],
+          [
+            10.664775,
+            44.037027,
+            294.54
+          ],
+          [
+            10.66449,
+            44.037166,
+            290.74
+          ],
+          [
+            10.664326,
+            44.037217,
+            288.77
+          ],
+          [
+            10.664003,
+            44.037215,
+            285.2
+          ],
+          [
+            10.664016,
+            44.037137,
+            284
+          ],
+          [
+            10.663952,
+            44.037066,
+            282.7
+          ],
+          [
+            10.663799,
+            44.037074,
+            281
+          ],
+          [
+            10.663755,
+            44.037108,
+            280.29
+          ],
+          [
+            10.663712,
+            44.037262,
+            278.04
+          ],
+          [
+            10.663697,
+            44.03745,
+            276.17
+          ],
+          [
+            10.663571,
+            44.037585,
+            274.56
+          ],
+          [
+            10.663415,
+            44.037666,
+            273.19
+          ],
+          [
+            10.663181,
+            44.037725,
+            271.42
+          ],
+          [
+            10.663037,
+            44.03784,
+            269.88
+          ],
+          [
+            10.662989,
+            44.037847,
+            269.53
+          ],
+          [
+            10.663068,
+            44.037719,
+            268.14
+          ],
+          [
+            10.662989,
+            44.037847,
+            266.75
+          ],
+          [
+            10.662968,
+            44.03785,
+            266.6
+          ],
+          [
+            10.662734,
+            44.037849,
+            264.93
+          ],
+          [
+            10.662702,
+            44.037861,
+            264.67
+          ],
+          [
+            10.662675,
+            44.037946,
+            263.81
+          ],
+          [
+            10.662621,
+            44.037954,
+            263.41
+          ],
+          [
+            10.662608,
+            44.038069,
+            262.27
+          ],
+          [
+            10.662548,
+            44.037992,
+            261.39
+          ],
+          [
+            10.662497,
+            44.037835,
+            260.55
+          ],
+          [
+            10.66236,
+            44.037731,
+            260.68
+          ],
+          [
+            10.66228,
+            44.037716,
+            260.74
+          ],
+          [
+            10.662226,
+            44.037729,
+            260.78
+          ],
+          [
+            10.661949,
+            44.037842,
+            260.99
+          ],
+          [
+            10.661826,
+            44.037857,
+            261.07
+          ],
+          [
+            10.661765,
+            44.037837,
+            261.12
+          ],
+          [
+            10.661675,
+            44.037784,
+            261.19
+          ],
+          [
+            10.661484,
+            44.037757,
+            261.32
+          ],
+          [
+            10.66139,
+            44.037667,
+            261.42
+          ],
+          [
+            10.661067,
+            44.037617,
+            261.64
+          ],
+          [
+            10.66097,
+            44.037627,
+            261.71
+          ],
+          [
+            10.660732,
+            44.037759,
+            261.91
+          ],
+          [
+            10.660621,
+            44.037773,
+            261.98
+          ],
+          [
+            10.659818,
+            44.03771,
+            267.38
+          ],
+          [
+            10.659685,
+            44.03772,
+            268.62
+          ],
+          [
+            10.659537,
+            44.037749,
+            270.05
+          ],
+          [
+            10.659367,
+            44.037828,
+            271.93
+          ],
+          [
+            10.659328,
+            44.037866,
+            272.55
+          ],
+          [
+            10.659585,
+            44.03802,
+            275.66
+          ],
+          [
+            10.659657,
+            44.038034,
+            276.36
+          ],
+          [
+            10.659736,
+            44.038206,
+            278.7
+          ],
+          [
+            10.660219,
+            44.038507,
+            284.66
+          ],
+          [
+            10.660469,
+            44.038596,
+            285.45
+          ],
+          [
+            10.660388,
+            44.038639,
+            285.45
+          ],
+          [
+            10.660618,
+            44.038689,
+            285.45
+          ],
+          [
+            10.660671,
+            44.038808,
+            285.45
+          ],
+          [
+            10.660562,
+            44.038863,
+            285.45
+          ],
+          [
+            10.660545,
+            44.038901,
+            285.45
+          ],
+          [
+            10.660575,
+            44.038906,
+            285.45
+          ],
+          [
+            10.660614,
+            44.038959,
+            285.45
+          ],
+          [
+            10.66057,
+            44.039015,
+            285.45
+          ],
+          [
+            10.660632,
+            44.038989,
+            285.45
+          ],
+          [
+            10.660609,
+            44.039034,
+            285.45
+          ],
+          [
+            10.660694,
+            44.038983,
+            285.45
+          ],
+          [
+            10.660718,
+            44.038995,
+            285.45
+          ],
+          [
+            10.660831,
+            44.038999,
+            285.45
+          ]
+        ]
+      },
+      "id": "M4MzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Buca delle Streghe",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Sienna",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/star.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.665236,
+          44.039725
+        ]
+      },
+      "id": "M0NTk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Monte Forato",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          "Segnaletica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkGoldenRod",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675149,
+          44.03954
+        ]
+      },
+      "id": "E1NTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Palina dei sentieri CAI",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Segnaletica",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/guide-post.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680299,
+          44.039509
+        ]
+      },
+      "id": "A0ODE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Stazione ferroviaria",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Trasporti",
+        "Altri tag": [
+          "",
+          "Segnaletica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/bus.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68193,
+          44.039478
+        ]
+      },
+      "id": "g2MTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Azienda del Turismo",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "Infopoint",
+        "Altri tag": [
+          "Ristoro",
+          "Servizi"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Red",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/information.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.671802,
+          44.039571
+        ]
+      },
+      "id": "Q5MjU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Pronto Soccorso",
+        "Altitudine": "380",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Servizi",
+        "Altri tag": [
+          "Monumento"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Red",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/government.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673389,
+          44.03954
+        ]
+      },
+      "id": "U5NDM"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Ristorante del buongustaio",
+        "Altitudine": "515",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Ristoro",
+        "Altri tag": "",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/restaurant.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.666823,
+          44.039633
+        ]
+      },
+      "id": "kzNjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Luna Park",
+        "Altitudine": "590",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Svago",
+        "Altri tag": [
+          "Accoglienza"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/playground.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.670085,
+          44.039602
+        ]
+      },
+      "id": "gzODQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Hotel del Sole",
+        "Altitudine": "540",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          "Ristoro",
+          "Trasporti"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.668411,
+          44.039663
+        ]
+      },
+      "id": "g3Njk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Museo delle trottole",
+        "Altitudine": "577",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Museo",
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumPurple",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/museum.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676866,
+          44.039478
+        ]
+      },
+      "id": "Q1MjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "Data": "30/04/2023",
+        "ulsp_type": "POI",
+        "Titolo": "Monumento ai Caduti",
+        "Altitudine": "550",
+        "Foto": "",
+        "Strumento": "",
+        "Ora": "",
+        "Autore": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Museo"
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumPurple",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.678668,
+          44.039478
+        ]
+      },
+      "id": "U0MzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": "lwtyx6",
+        "Titolo": "Chiesa dei SS. Donato e Andrea",
+        "Testo": "La chiesa dei SS. Donato e Andrea e il suo campanile si trovano nella piazza principale, al limite nord-occidentale del paese di Casoli. La prima attestazione risale all’anno 943, in cui risulta sottoposta alla pieve di Vico Pancellorum. L’attuale struttura è databile al XII-XIII secolo, con successivi rifacimenti e un ampliamento delle navate che hanno parzialmente inglobato la base del campanile. Ha una pianta longitudinale di tipo basilicale, la muratura in facciata è realizzata in conci squadrati in calcare e arenaria disposti su filari regolari, mentre la muratura sul fianco e sul retro della navata nord è alla moderna.",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.661716,
+          44.039756
+        ]
+      },
+      "id": "kwMTY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sito": "8",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Toponimo": "Casoli, Sant'Andrea",
+        "Microtoponimo": "Metato",
+        "Strade d'accesso": "sentiero CAI 388 da Casoli",
+        "Altri elementi di localizzazione": "a nord-ovest del lago di Casoli",
+        "Tipologia sito": "insediamento produttivo",
+        "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
+        "Cronologia iniziale": "Età contemporanea",
+        "Cronologia finale": "Età sub-attuale",
+        "Reperti geologici": "No",
+        "Reperti organici": "No",
+        "Altri manufatti": "",
+        "Accessibilità": "Non accessibile",
+        "Copertura rete mobile": "Completa",
+        "Copertura GPS": "Completa",
+        "Data": "30/04/2023",
+        "Bibliografia": "",
+        "ulsp_type": "Sito",
+        "Titolo": "Metato",
+        "Foto": "",
+        "Altitudine": "",
+        "Strumento": "",
+        "Ora": "",
+        "Definizione": "",
+        "Reperti ceramici": "",
+        "Sicurezza": "",
+        "Link": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.663133,
+          44.039787
+        ]
+      },
+      "id": "IyNzY"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.096413,
+          44.123781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "Riparo della Gabellaccia",
+        "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale ",
+        "Altitudine": 856,
+        "Foto": "https://i.postimg.cc/h4yygB44/IMG-20240215-110520.jpg",
+        "Link": "",
+        "Tag primario": "Grotta",
+        "Altri tag": ""
+      },
+      "type": "Feature"
+    }
+  ]
+}
