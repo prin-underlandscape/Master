@@ -738,17 +738,16 @@
       "properties": {
         "ulsp_type": "POI",
         "Titolo": "Azienda del Turismo",
-        "Foto": "",
-        "Descrizione": "",
-        "Altitudine": "",
+        "Foto": "https://i.postimg.cc/NjvyVNtW/info-Point.png",
+        "Descrizione": "Informazioni turistiche",
+        "Altitudine": "500",
         "Autore": "",
         "Strumento": "",
         "Data": "",
         "Ora": "",
         "Tag primario": "Infopoint",
         "Altri tag": [
-          "Ristoro",
-          "Servizi"
+          "Ristoro"
         ],
         "_umap_options": {
           "popupTemplate": "Default",
@@ -1037,11 +1036,11 @@
         "Titolo": "Riparo della Gabellaccia",
         "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale",
         "Altitudine": 856,
-        "Foto": "https://i.postimg.cc/h4yygB44/IMG-20240215-110520.jpg",
+        "Foto": "https://i.postimg.cc/NjvyVNtW/info-Point.png",
         "Link": "https://www.google.com",
-        "Tag primario": "Grotta",
+        "Tag primario": "Infopoint",
         "Altri tag": [
-          "Ristoro"
+          "Accoglienza"
         ]
       },
       "type": "Feature"
