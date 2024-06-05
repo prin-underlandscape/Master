@@ -640,9 +640,9 @@
       "type": "Feature",
       "properties": {
         "ulsp_type": "POI",
-        "Titolo": "Monte Forato",
-        "Foto": "",
-        "Descrizione": "",
+        "Titolo": "Catena del Monte Vago",
+        "Foto": "https://i.postimg.cc/9QP4jGFz/montagna-Con-Abeti.png",
+        "Descrizione": "Vista panoramica",
         "Altitudine": "",
         "Autore": "",
         "Strumento": "",
@@ -650,7 +650,7 @@
         "Ora": "",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
-          "Segnaletica"
+          "Trasporti"
         ],
         "_umap_options": {
           "popupTemplate": "Default",
