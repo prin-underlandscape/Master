@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "Fase1-230612-EquiTerme",
-    "Descrizione": "Ricognizione a Equi terme per localizzare le grotte nelle vicinanze e come base per Tenerano e Gabellaccia",
+    "Descrizione": "Ricognizione a Equi terme per localizzare le grotte lungo il Solco d'Equi",
     "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
   },
@@ -2148,14 +2148,23 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Grotta della api e ritorno",
+        "Titolo": "Equi Terme-Solco d'Equi (fino Grotta delle Api)",
         "Data": "2023-06-12",
         "Ora": "12:13:28Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Lunghezza": "2.236",
         "Durata": "01h 36m",
         "Dislivello in salita": "36",
-        "Dislivello in discesa": "42"
+        "Dislivello in discesa": "42",
+        "Provincia": "Lucca",
+        "Comune": "Fivizzano",
+        "Punto d'accesso": "dal centro del paese di Equi Terme",
+        "Foto accesso": "",
+        "Descrizione": "Sopralluogo per individuare le grotte attestate lungo il Solco d'Equi",
+        "Difficoltà": "Facile",
+        "Segnaletica": "",
+        "Copertura GPS": "Completa",
+        "Copertura rete mobile": "Completa"
       }
     },
     {
@@ -2170,7 +2179,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/9e12338d-3288-47a9-b066-fa450f0fd020/image/full/?publickey=em6CMy1G9bsjmgAqAwOWjmVt",
-        "Titolo": "I grotta api",
+        "Titolo": "Grotta delle api",
         "Descrizione": "",
         "Altitudine": 331,
         "Data": "2023-06-12",
@@ -2178,7 +2187,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -6734,37 +6745,23 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Verso le cave",
+        "Titolo": "Solco d'Equi",
         "Data": "2023-06-12",
         "Ora": "15:00:27Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Lunghezza": "5.380",
         "Durata": "02h 04m",
         "Dislivello in salita": "143",
-        "Dislivello in discesa": "203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.164357,
-          44.166902
-        ]
-      },
-      "properties": {
-        "ulsp_type": "POI",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/f3bd8983-13b7-43f0-a639-4104865a04bd/image/full/?publickey=B50fSfKsypFLaM7N9IJVD5vb",
-        "Titolo": "La mia foto - 12/06/23 17:13:17",
-        "Descrizione": "",
-        "Altitudine": 370,
-        "Data": "2023-06-12",
-        "Ora": "15:13:17Z",
-        "Strumento": "Android HUAWEI FIG-LX1",
-        "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Dislivello in discesa": "203",
+        "Provincia": "Lucca",
+        "Comune": "Fivizzano",
+        "Punto d'accesso": "",
+        "Foto accesso": "",
+        "Descrizione": "Sopralluogo lungo il Solco d'Equi per individuare le grotte dislocate sul percorso",
+        "Difficoltà": "Facile",
+        "Segnaletica": "",
+        "Copertura GPS": "Completa",
+        "Copertura rete mobile": "Completa"
       }
     },
     {
@@ -6779,7 +6776,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/77c46b23-a901-426a-8083-7c060c8fc8db/image/full/?publickey=glnh5oMJOf6eqRch8SafVaNV",
-        "Titolo": "Solco d'Equi (orrido) ",
+        "Titolo": "Solco d'Equi",
         "Descrizione": "",
         "Altitudine": 357,
         "Data": "2023-06-12",
@@ -6787,7 +6784,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       }
     },
     {
@@ -6802,7 +6801,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/b4c082f7-c32c-48b7-8f79-b649a86b2600/image/full/?publickey=MFNDaZ3aRBWRLMQwCF9aEwy7",
-        "Titolo": "Ometto",
+        "Titolo": "Segnaletica ometto di pietra",
         "Descrizione": "",
         "Altitudine": 369,
         "Data": "2023-06-12",
@@ -6833,7 +6832,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       }
     },
     {
@@ -6856,7 +6857,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     }
   ]

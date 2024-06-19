@@ -654,7 +654,9 @@
         "Data": "23-07-14",
         "Ora": "9:23:07",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -677,7 +679,9 @@
         "Data": "23-07-14",
         "Ora": "",
         "Tag primario": "Grotta",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -700,7 +704,9 @@
         "Data": "2023-07-14",
         "Ora": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Attrazione naturalistica"
+        ]
       },
       "geometry": {
         "type": "Point",

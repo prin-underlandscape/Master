@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "Fase1-230521-VallicodiSopra",
-    "Descrizione": "",
+    "Descrizione": "Sopralluogo per individuare la Buca di Castelvenere, partendo da Vallico di Sopra in direzione Cardoso",
     "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230521-vallicodisopra_1067184?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/21-maggio-2023-vallico-di-sopra"
   },
@@ -20,7 +20,9 @@
         "Data": "2023-05-21",
         "Ora": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +46,9 @@
         "Data": "2023-05-21",
         "Ora": "10:33:39",
         "Tag primario": "Segnalazione",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +63,7 @@
       "type": "Feature",
       "properties": {
         "ulsp_type": "POI",
-        "Titolo": "Segnalazione",
+        "Titolo": "Segnalatica",
         "Foto": "https://i.postimg.cc/xdxWbX0k/IMG-20230521-110154.jpg",
         "Descrizione": "Prosecuzione del sentiero 111 verso Cardoso",
         "Altitudine": "685",
@@ -68,7 +72,9 @@
         "Data": "2023-05-21",
         "Ora": "09:02:16",
         "Tag primario": "Segnalazione",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -91,8 +97,10 @@
         "Strumento": "Android HUAWEI SNE-LX1",
         "Data": "2023-05-21",
         "Ora": "8:42:38",
-        "Tag primario": "Monumento",
-        "Altri tag": ""
+        "Tag primario": "",
+        "Altri tag": [
+          "Monumento"
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1955,7 +1963,9 @@
         "Data": "2023-05-21",
         "Ora": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       },
       "geometry": {
         "type": "Point",

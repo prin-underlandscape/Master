@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "Fase1-230528-BucaDellaPaura",
+    "Nome": "Fase1-230528-AntroDellaPaura",
     "Descrizione": "Breve ricognizione per verificare l'accessibilità dell'Antro della Paura",
     "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230528-bucadellapaura_1041692?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
@@ -312,7 +312,7 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Antro della paura",
+        "Titolo": "Antro della Paura",
         "Data": "2023-05-28",
         "Ora": "07:49:37Z",
         "Strumento": "Android HUAWEI FIG-LX1",
@@ -320,15 +320,15 @@
         "Durata": "01h 06m",
         "Dislivello in salita": "45",
         "Dislivello in discesa": "33",
-        "Provincia": "",
-        "Comune": "",
-        "Punto d'accesso": "",
+        "Provincia": "Lucca",
+        "Comune": "Borgo a Mozzano",
+        "Punto d'accesso": "Strada Provinciale Lodovica",
         "Foto accesso": "",
-        "Descrizione": "",
-        "Difficoltà": "",
-        "Segnaletica": "",
-        "Copertura GPS": "",
-        "Copertura rete mobile": ""
+        "Descrizione": "Breve sopralluogo all'Antro della Paura per capirne l'accessibilità",
+        "Difficoltà": "Difficile",
+        "Segnaletica": "Assente",
+        "Copertura GPS": "Completa",
+        "Copertura rete mobile": "Completa"
       }
     },
     {
@@ -343,15 +343,17 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/2733c866-911e-486a-a88a-700a235a76bb/image/full/?publickey=ijWm9MXqwQh4gLheJR91C6oC",
-        "Titolo": "Buca paura",
+        "Titolo": "Antro della Paura",
         "Descrizione": "",
         "Altitudine": 175,
         "Data": "2023-05-28",
         "Ora": "07:50:03Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
-        "Tag primario": "Grotta",
-        "Altri tag": []
+        "Tag primario": "",
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -366,7 +368,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/4399a102-321d-48ef-88f7-df8585835adf/image/full/?publickey=rskdgQZNo962UpIhXEsU7ipu",
-        "Titolo": "Percorso basso",
+        "Titolo": "Accesso dal basso",
         "Descrizione": "",
         "Altitudine": 202,
         "Data": "2023-05-28",

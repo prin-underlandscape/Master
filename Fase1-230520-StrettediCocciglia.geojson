@@ -804,8 +804,10 @@
         "Strumento": "Android HUAWEI SNE-LX1",
         "Data": "2023-05-20",
         "Ora": "12:59:01",
-        "Tag primario": "Grotta",
-        "Altri tag": []
+        "Tag primario": "",
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -829,7 +831,9 @@
         "Data": "2023-05-20",
         "Ora": "13:24:55",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -852,8 +856,10 @@
         "Strumento": "Android HUAWEI SNE-LX1",
         "Data": "2023-05-20",
         "Ora": "11:26:55",
-        "Tag primario": "Grotta",
-        "Altri tag": []
+        "Tag primario": "",
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -877,7 +883,9 @@
         "Data": "2023-05-20",
         "Ora": "11:49:13",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -892,7 +900,7 @@
       "id": "16540e49-f6e6-440d-a6be-75a9d415e2e2",
       "properties": {
         "ulsp_type": "POI",
-        "Titolo": "Grotta delle strette di Cocciglia",
+        "Titolo": "Grotta delle Strette di Cocciglia",
         "Foto": "",
         "Descrizione": "Grotta posta sulla sinistra della Lima all'altezza delle Strette di Cocciglia, posta sopra importante apprestamento in muratura dell'acquedotto. Tra la folta vegetazione si intravede una grande apertura; seguono altre aperture meno profonde.",
         "Altitudine": "364",
@@ -900,8 +908,10 @@
         "Strumento": "Android HUAWEI SNE-LX1",
         "Data": "2023-05-20",
         "Ora": "13:44:35",
-        "Tag primario": "Grotta",
-        "Altri tag": []
+        "Tag primario": "",
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     }
   ]

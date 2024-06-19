@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "Fase1-230613-Gabellaccia",
-    "Descrizione": "Ricognizione per localizzare la grotta della Gabellaccia, con partenza da Equi Terme",
+    "Nome": "Fase1-230613-Gabellaccia1",
+    "Descrizione": "Ricognizione per localizzare la grotta della Gabellaccia, al Passo della Gabellaccia (1^ tentativo)",
     "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/13-giugno-2023-passo-della-gabellaccia"
   },
@@ -2436,7 +2436,7 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Gabellaccia fallita",
+        "Titolo": "Tecchia della Gabellaccia-1^ tentativo",
         "Data": "2023-06-13",
         "Ora": "10:40:27Z",
         "Strumento": "Android HUAWEI FIG-LX1",
@@ -2444,15 +2444,15 @@
         "Durata": "01h 33m",
         "Dislivello in salita": "54",
         "Dislivello in discesa": "45",
-        "Provincia": "",
-        "Comune": "",
-        "Punto d'accesso": "",
+        "Provincia": "Massa Carrara",
+        "Comune": "Carrara",
+        "Punto d'accesso": "Passo della Gabellaccia",
         "Foto accesso": "",
-        "Descrizione": "",
-        "Difficoltà": "",
-        "Segnaletica": "",
-        "Copertura GPS": "",
-        "Copertura rete mobile": ""
+        "Descrizione": "Sopralluogo per individuare la Tecchia della Gabellaccia, lungo il percorso che dal Passo omonimo porta a Castelpoggio",
+        "Difficoltà": "Facile",
+        "Segnaletica": "Non sufficiente",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Parziale"
       }
     },
     {
@@ -2467,7 +2467,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/54fe5501-6e86-4f8a-9ed1-c2caa7af9c16/image/full/?publickey=uxHvLY5FP2mzMwqi9nZgCKfc",
-        "Titolo": "Riparo verso la tecchia della Gabellaccia",
+        "Titolo": "Piccolo riparo",
         "Descrizione": "",
         "Altitudine": 907,
         "Data": "2023-06-13",
@@ -2490,7 +2490,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/5727918a-0ccf-4bbd-99d8-fe0cdf518b26/image/full/?publickey=yJrHXqHL74kqQBCwGnBT29h4",
-        "Titolo": "Tecchia della Gabellaccia??? ",
+        "Titolo": "Piccole cavità",
         "Descrizione": "",
         "Altitudine": 885,
         "Data": "2023-06-13",

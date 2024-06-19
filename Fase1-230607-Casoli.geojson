@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "Fase1-230607-Casoli",
-    "Descrizione": "Seconda ricognizione a Casoli per perfezionare la posa dei QRcode e visitare il centro della cittadina",
+    "Descrizione": "Seconda ricognizione a Casoli per perfezionare la posa dei QRcode e visitare il centro del paese",
     "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
     "WebPageURL": ""
   },
@@ -2346,37 +2346,23 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Nuovo tracciato 07/06/23 12:11:08",
+        "Titolo": "Buca La Piella",
         "Data": "2023-06-07",
         "Ora": "10:11:08Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Lunghezza": "1.617",
         "Durata": "01h 29m",
         "Dislivello in salita": "84",
-        "Dislivello in discesa": "66"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.684218,
-          44.035897
-        ]
-      },
-      "properties": {
-        "ulsp_type": "POI",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/fbe987fb-8997-4d79-9af0-270972705c3c/image/full/?publickey=vUIKfOBAWosH4Bxo3ebRRFDA",
-        "Titolo": "Riparo sottoroccia lungo percorso Piella",
-        "Descrizione": "",
-        "Altitudine": 400,
-        "Data": "2023-06-07",
-        "Ora": "10:18:19Z",
-        "Strumento": "Android HUAWEI FIG-LX1",
-        "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Dislivello in discesa": "66",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Punto d'accesso": "via Debbio, dopo edicola votiva",
+        "Foto accesso": "",
+        "Descrizione": "secondo sopralluogo alla Buca della Piella e a Casoli per posizionare nuovi QRcode",
+        "Difficoltà": "Media difficoltà",
+        "Segnaletica": "Non sufficiente",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Parziale"
       }
     },
     {
@@ -2391,7 +2377,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/03dc60a9-52ed-4096-b353-2cdf75d925bd/image/full/?publickey=oCYUuroUclUMzgf00UqN4rAM",
-        "Titolo": "Ingresso Piella",
+        "Titolo": "Qrcode Ingresso Buca La Piella",
         "Descrizione": "",
         "Altitudine": 436,
         "Data": "2023-06-07",
@@ -2399,7 +2385,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -2414,7 +2402,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/fb75f2f0-800b-41ab-a67c-9b345ae62a60/image/full/?publickey=nq6DKluCz8pewxxJQcwEztc1",
-        "Titolo": "Riparo 2",
+        "Titolo": "QRcode Riparo",
         "Descrizione": "",
         "Altitudine": 458,
         "Data": "2023-06-07",
@@ -2422,7 +2410,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -2437,7 +2427,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/701140b5-961c-454d-a337-9f09380c8844/image/full/?publickey=5LIlts4EgxHP6WPtwqVbp6kD",
-        "Titolo": "Deviazione piella",
+        "Titolo": "QRcode Deviazione Buca La Piella",
         "Descrizione": "",
         "Altitudine": 457,
         "Data": "2023-06-07",
@@ -2445,7 +2435,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     }
   ]
