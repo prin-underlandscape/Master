@@ -171,7 +171,7 @@
         "Strumento": "",
         "Data": "2024-02-1411:08:36",
         "Ora": "11:08:36",
-        "Tag primario": "Segnalazione",
+        "Tag primario": "",
         "Altri tag": [
           "Segnaletica"
         ]
@@ -197,7 +197,7 @@
         "Strumento": "",
         "Data": "2024-02-1409:35:57",
         "Ora": "09:35:57",
-        "Tag primario": "Segnalazione",
+        "Tag primario": "",
         "Altri tag": ""
       },
       "geometry": {
@@ -221,7 +221,7 @@
         "Strumento": "",
         "Data": "2024-02-14",
         "Ora": "09:24:44",
-        "Tag primario": "Segnalazione",
+        "Tag primario": "",
         "Altri tag": [
           "Segnaletica"
         ]
@@ -247,7 +247,7 @@
         "Strumento": "",
         "Data": "2024-02-14",
         "Ora": "09:08:33",
-        "Tag primario": "Segnalazione",
+        "Tag primario": "",
         "Altri tag": [
           "Segnaletica"
         ]
