@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "Itinerario_BucaPiella",
+    "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella",
+    "umapKey": "",
+    "WebPageURL": ""
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "KXOTg",
+      "properties": {
+        "ulsp_type": "Percorso",
+        "Titolo": "Itinerario per Buca La Piella",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva\n",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.",
+        "Difficoltà": "Media difficoltà",
+        "Lunghezza": "0.90",
+        "Durata": "00:20:00",
+        "Dislivello in salita": "60",
+        "Dislivello in discesa": "35",
+        "Segnaletica": "",
+        "Copertura GPS": "",
+        "Copertura rete mobile": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "weight": 6,
+          "opacity": 0.3,
+          "color": "Black"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.682943370186207,
+            44.041642027231084,
+            0
+          ],
+          [
+            10.683075,
+            44.041258,
+            0
+          ],
+          [
+            10.683081,
+            44.040964,
+            0
+          ],
+          [
+            10.683139,
+            44.040655,
+            0
+          ],
+          [
+            10.683337,
+            44.040393,
+            0
+          ],
+          [
+            10.683363,
+            44.04025,
+            0
+          ],
+          [
+            10.683555,
+            44.038422,
+            0
+          ],
+          [
+            10.683619,
+            44.038151,
+            0
+          ],
+          [
+            10.683657,
+            44.038095,
+            357.5
+          ],
+          [
+            10.683709,
+            44.038031,
+            355.75
+          ],
+          [
+            10.683726,
+            44.037989,
+            0
+          ],
+          [
+            10.683737,
+            44.037913,
+            0
+          ],
+          [
+            10.683759,
+            44.037826,
+            0
+          ],
+          [
+            10.683762,
+            44.037755,
+            0
+          ],
+          [
+            10.683775,
+            44.037662,
+            0
+          ],
+          [
+            10.683796,
+            44.037556,
+            0
+          ],
+          [
+            10.683796,
+            44.037471,
+            0
+          ],
+          [
+            10.683773,
+            44.0374,
+            0
+          ],
+          [
+            10.683761,
+            44.037243,
+            0
+          ],
+          [
+            10.683762,
+            44.037146,
+            0
+          ],
+          [
+            10.6838,
+            44.036978,
+            0
+          ],
+          [
+            10.683832,
+            44.036853,
+            0
+          ],
+          [
+            10.68384,
+            44.03674,
+            0
+          ],
+          [
+            10.683825,
+            44.036621,
+            0
+          ],
+          [
+            10.683841,
+            44.036476,
+            0
+          ],
+          [
+            10.683863,
+            44.036413,
+            0
+          ],
+          [
+            10.683957,
+            44.036296,
+            0
+          ],
+          [
+            10.684091,
+            44.036135,
+            0
+          ],
+          [
+            10.684193,
+            44.035987,
+            0
+          ],
+          [
+            10.684248,
+            44.035856,
+            0
+          ],
+          [
+            10.684243,
+            44.035769,
+            0
+          ],
+          [
+            10.684215,
+            44.035714,
+            0
+          ],
+          [
+            10.684185,
+            44.035608,
+            0
+          ],
+          [
+            10.684183,
+            44.035519,
+            0
+          ],
+          [
+            10.684143,
+            44.035454,
+            0
+          ],
+          [
+            10.684096,
+            44.035452,
+            0
+          ],
+          [
+            10.684061,
+            44.035483,
+            0
+          ],
+          [
+            10.684029,
+            44.035585,
+            0
+          ],
+          [
+            10.684009,
+            44.035717,
+            0
+          ],
+          [
+            10.684008,
+            44.035885,
+            0
+          ],
+          [
+            10.683973,
+            44.03602,
+            0
+          ],
+          [
+            10.683907,
+            44.036142,
+            0
+          ],
+          [
+            10.683803,
+            44.036299,
+            0
+          ],
+          [
+            10.683732,
+            44.036393,
+            0
+          ],
+          [
+            10.683598,
+            44.036495,
+            0
+          ],
+          [
+            10.6835,
+            44.03659,
+            0
+          ]
+        ]
+      }
+    }
+  ]
+}
