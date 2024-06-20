@@ -4,7 +4,7 @@
     "Nome": "ULS002_AntroUgola",
     "Descrizione": "Scheda sito per l'Antro dell'Ugola",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls002_antrougola_1041677",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -41,7 +41,7 @@
         "Copertura rete mobile": "Parziale",
         "Foto": "https://i.postimg.cc/bwx9JMhR/IMG-20230430-134056.jpg",
         "Link": "",
-        "Bibliografia": "",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": "",
         "Data": "04-30-2023",
         "Ora": "11:02:52 AM"
