@@ -4,7 +4,7 @@
     "Nome": "ULS015_Calcara",
     "Descrizione": "Scheda sito di una calcara presso Vinca",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls015_calcara_1041651",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/casi-studio/madonna-vecchia-di-vinca?authuser=0"
   },
   "features": [
     {
@@ -36,8 +36,8 @@
         "Cronologia iniziale": "Età moderna (1492-1789 d.C.)",
         "Cronologia finale": "Età contemporanea (1789-2000 d.C.)",
         "Altri manufatti": "",
-        "Link": "",
-        "Bibliografia": "",
+        "Link": "https://sites.google.com/view/prin-underlandscape/casi-studio/madonna-vecchia-di-vinca?authuser=0",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": ""
       },
       "geometry": {

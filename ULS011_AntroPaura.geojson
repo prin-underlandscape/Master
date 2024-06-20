@@ -4,7 +4,7 @@
     "Nome": "ULS011_AntroPaura",
     "Descrizione": "Scheda sito per l'Antro della Paura",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls011_antropaura_1041660",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -13,8 +13,8 @@
         "Sito": "ULS011",
         "Provincia": "Lucca",
         "Comune": "Borgo a Mozzano ",
-        "Toponimo": "Gioviano, Pietreta",
-        "Microtoponimo": "",
+        "Toponimo": "Gioviano",
+        "Microtoponimo": "Pietreta",
         "Strade d'accesso": "variante Strada Provinciale Calavorno-Campia, detta Lodovica",
         "Altri elementi di localizzazione": "circa 500 m dopo la svolta per Gioviano",
         "Tipologia sito": "Frequentazione antropica",
@@ -28,14 +28,14 @@
         "Copertura rete mobile": "Completa",
         "Copertura GPS": "Completa",
         "Data": "20/05/2023",
-        "Bibliografia": "",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "ulsp_type": "Sito",
         "Titolo": "Antro della Paura",
         "Altitudine": "208",
         "Definizione": "Grotta",
         "Reperti ceramici": "SI",
-        "Sicurezza": "",
-        "Foto": "",
+        "Sicurezza": "Necessarie corde per salita in sicurezza",
+        "Foto": "https://i.postimg.cc/528jkGtt/IMG-20230520-130619.jpg",
         "Link": "",
         "Strumento": "",
         "Ora": ""

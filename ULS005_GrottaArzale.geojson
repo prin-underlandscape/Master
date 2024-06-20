@@ -4,7 +4,7 @@
     "Nome": "ULS005_GrottaArzale",
     "Descrizione": "Scheda siot per la Grotta di Arzale",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls005_grottaarzale_1041672",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -28,7 +28,7 @@
         "Copertura rete mobile": "Completa",
         "Copertura GPS": "Completa",
         "Data": "20/05/2023",
-        "Bibliografia": "",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "ulsp_type": "Sito",
         "Titolo": "Grotta di Arzale",
         "Altitudine": "270",

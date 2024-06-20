@@ -4,7 +4,7 @@
     "Nome": "ULS014_MadonnaVecchia",
     "Descrizione": "Scheda sito della chiesa di Madonna Vecchia",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls014_madonnavecchia_1041654",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/casi-studio/madonna-vecchia-di-vinca?authuser=0"
   },
   "features": [
     {
@@ -37,13 +37,13 @@
         "Reperti geologici": "NO",
         "Reperti organici": "NO",
         "Altri manufatti": "",
-        "Sicurezza": "",
+        "Sicurezza": "vegetazione infestante",
         "Accessibilità": "Facile",
         "Copertura rete mobile": "Assente",
         "Copertura GPS": "Parziale",
-        "Foto": "",
-        "Link": "",
-        "Bibliografia": "",
+        "Foto": "https://i.postimg.cc/bJCPbNRV/IMG-20230920-133511.jpg",
+        "Link": "https://sites.google.com/view/prin-underlandscape/casi-studio/madonna-vecchia-di-vinca?authuser=0",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": ""
       },
       "type": "Feature"
