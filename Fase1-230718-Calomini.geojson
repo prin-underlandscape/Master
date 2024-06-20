@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "Fase1-230718-Calomini",
+    "Descrizione": "Sopralluogo all'eremo di Calomini per visitare il complesso e individuare un riparo sotto roccia segnalatoci nei suoi pressi",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230718-calomini_1085429?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/18-luglio-2023-calomini?authuser=0"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Riparo di Calomini",
+        "Foto": "https://i.postimg.cc/J0pJgj4R/DSCN5325.jpg",
+        "Descrizione": "Riparo sotto roccia con piccola apertura su parete rocciosa alle spalle del parcheggio dell'Eremo di Calomini, a circa 5 m di altezza.",
+        "Altitudine": "403",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "2023-07-18",
+        "Ora": "11:53:46 AM",
+        "Tag primario": "",
+        "Altri tag": [
+          "Grotta"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40843,
+          44.055082
+        ]
+      },
+      "id": "M3ODE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "Eremo di Calomini",
+        "Foto": "https://i.postimg.cc/xCyLvWwJ/DSCN5273.jpg",
+        "Descrizione": "Santuario d'abrì edificato intorno all’anno Mille; da semplice eremo si è evoluto nel tempo via via che cresceva la fama e la venerazione della Vergine della Grotta a partire dal XIV secolo in poi.",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "2023-07-18",
+        "Ora": "",
+        "Tag primario": "",
+        "Altri tag": [
+          "Monumento"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.407548,
+          44.054876
+        ]
+      },
+      "id": "gwNDA"
+    }
+  ]
+}
