@@ -4,7 +4,7 @@
     "Nome": "ULS009_RiparoCalomini",
     "Descrizione": "Scheda sito per il riparo di Calomini",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls009_riparocalomini_1041664",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -35,7 +35,7 @@
         "Copertura rete mobile": "Parziale",
         "Foto": "https://i.postimg.cc/J0pJgj4R/DSCN5325.jpg",
         "Link": "",
-        "Bibliografia": "",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": "",
         "Data": "07-18-2023",
         "Ora": "11:53:46"
