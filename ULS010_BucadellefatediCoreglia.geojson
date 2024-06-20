@@ -4,7 +4,7 @@
     "Nome": "ULS010_BucadellefatediCoreglia",
     "Descrizione": "Scheda sito per la Buca delle Fate presso Coreglia",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls010_bucadellefatedicoreglia_1041663",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -29,13 +29,13 @@
         "Reperti geologici": "NO",
         "Reperti organici": "NO",
         "Altri manufatti": "",
-        "Sicurezza": "necessario guadare piccolo corso d'acqua",
+        "Sicurezza": "necessario guadare corso d'acqua",
         "Accessibilità": "Facile",
         "Copertura GPS": "Parziale",
         "Copertura rete mobile": "Parziale",
         "Foto": "https://i.postimg.cc/KcT0Xxqh/20230714-1008156830458200561894017-large.jpg",
         "Link": "",
-        "Bibliografia": "",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": "",
         "Data": "07-14-2023",
         "Ora": "10:05:57"
