@@ -2,9 +2,9 @@
   "type": "FeatureCollection",
   "properties": {
     "Nome": "ULS016_Tecchia_della_Gabellaccia1",
-    "Descrizione": "",
+    "Descrizione": "Scheda sito di una delle grotte che costituiscono il complesso della Tecchia della Gabellaccia",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls016_tecchia_della_gabellaccia1_1075586?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/casi-studio/tecchia-della-gabellaccia?authuser=0"
   },
   "features": [
     {
@@ -36,8 +36,8 @@
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
         "Foto": "https://i.postimg.cc/X7r2YzXf/IMG-20240215-111509.jpg",
-        "Link": "",
-        "Bibliografia": "",
+        "Link": "https://sites.google.com/view/prin-underlandscape/casi-studio/tecchia-della-gabellaccia?authuser=0",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": ""
       },
       "geometry": {
