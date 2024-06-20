@@ -4,7 +4,7 @@
     "Nome": "ULS001_BucaPiella",
     "Descrizione": "Scheda sito per la Buca della Piella",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls001_bucapiella_1041678?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/casi-studio/buca-la-piella?authuser=0"
   },
   "features": [
     {
@@ -35,8 +35,8 @@
         "Definizione": "Grotta",
         "Reperti ceramici": "SI",
         "Sicurezza": "complessa l'accessibilità nell'ultimo tratto in quota; necessario mettere in sicurezza la zona di grotta sul lato scosceso.",
-        "Foto": "",
-        "Link": "",
+        "Foto": "https://i.postimg.cc/Cx2n44j9/piella.jpg",
+        "Link": "https://sites.google.com/view/prin-underlandscape/casi-studio/buca-la-piella?authuser=0",
         "Strumento": "",
         "Ora": ""
       },
