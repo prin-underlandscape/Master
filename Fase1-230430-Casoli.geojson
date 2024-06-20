@@ -10226,14 +10226,23 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Piella",
+        "Titolo": "Buca La Piella",
         "Data": "2023-04-30",
         "Ora": "08:01:25Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Lunghezza": "10.395",
         "Durata": "04h 09m",
         "Dislivello in salita": "354",
-        "Dislivello in discesa": "328"
+        "Dislivello in discesa": "328",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Punto d'accesso": "Su via Debbio, venendo da Ponte Maggio si trova una breve salita lungo il versante, poco dopo edicola votiva",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Descrizione": "Sopralluogo per individuare Buca La Piella e l'Antro dell'Ugola, posizionando i QRcode lungo il percorso. Nella prima parte si segue il sentiero CAI 386 per poi continuare lungo il letto del Rio di Castello",
+        "Difficoltà": "Media difficoltà",
+        "Segnaletica": "Non sufficiente",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Parziale"
       }
     },
     {
@@ -10248,7 +10257,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/b9fa253f-7b92-4177-b733-71ddf648d466/image/full/?publickey=p9hhAIryEjjuyDUkpktHZHkf",
-        "Titolo": "La mia foto - 30/04/23 10:16:47",
+        "Titolo": "Simbolo su roccia",
         "Descrizione": "",
         "Altitudine": 407,
         "Data": "2023-04-30",
@@ -10279,7 +10288,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -10294,7 +10305,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/825d0ed7-3937-4a9d-8ba1-004503082181/image/full/?publickey=Bqzd3ZqI0eWuqU7taHzdmoyr",
-        "Titolo": "Riparo",
+        "Titolo": "Riparo sotto roccia",
         "Descrizione": "",
         "Altitudine": 402,
         "Data": "2023-04-30",
@@ -10302,30 +10313,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.684552,
-          44.036317
+        "Altri tag": [
+          "Grotta"
         ]
-      },
-      "properties": {
-        "ulsp_type": "POI",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/704592f3-41c6-41d0-86fe-e878d8c3bdde/image/full/?publickey=E5S9NLt1jxfRQ17gPxW3guGb",
-        "Titolo": "La mia foto - 30/04/23 11:09:31",
-        "Descrizione": "",
-        "Altitudine": 496,
-        "Data": "2023-04-30",
-        "Ora": "09:09:31Z",
-        "Strumento": "Android HUAWEI FIG-LX1",
-        "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
       }
     },
     {
@@ -10340,7 +10330,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/4a36fb74-e7b7-4027-8ad8-0746f88aa6b1/image/full/?publickey=bjC2RR5xjrLuOawantwZEFOM",
-        "Titolo": "La mia foto - 30/04/23 11:12:12",
+        "Titolo": "Ingresso Buca La Piella2",
         "Descrizione": "",
         "Altitudine": 464,
         "Data": "2023-04-30",
@@ -10348,7 +10338,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          ""
+        ]
       }
     },
     {
@@ -10363,7 +10355,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/c2af238c-ded5-4834-9a2f-838598020c32/image/full/?publickey=dmcDPndP49MeUAHR6kH6jVpC",
-        "Titolo": "La mia foto - 30/04/23 11:13:00",
+        "Titolo": "Ingresso Buca la Piella",
         "Descrizione": "",
         "Altitudine": 383,
         "Data": "2023-04-30",
@@ -10371,7 +10363,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10386,7 +10380,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/4454cc68-a3f6-4063-a9cd-6ea363f6d966/image/full/?publickey=ItYNZOzsZVjM4rmZcMRhp1kg",
-        "Titolo": "La mia foto - 30/04/23 11:29:19",
+        "Titolo": "Interno Buca La Piella4",
         "Descrizione": "",
         "Altitudine": 463,
         "Data": "2023-04-30",
@@ -10394,7 +10388,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10409,7 +10405,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/49e319ec-c4b5-4fd8-9384-7d25a31bc3fc/image/full/?publickey=JO2OzlBRUoGl2T4awKNqCbrq",
-        "Titolo": "La mia foto - 30/04/23 11:17:55",
+        "Titolo": "Interno Buca La Piella3",
         "Descrizione": "",
         "Altitudine": 463,
         "Data": "2023-04-30",
@@ -10417,7 +10413,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10432,7 +10430,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/faf7e4c7-2f7a-4997-8e6c-1d243327ffa6/image/full/?publickey=fzNcKxXxdhWa2Oz0bxf9Y4pr",
-        "Titolo": "La mia foto - 30/04/23 11:28:51",
+        "Titolo": "Interno Buca La Piella2",
         "Descrizione": "",
         "Altitudine": 463,
         "Data": "2023-04-30",
@@ -10440,7 +10438,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10455,12 +10455,17 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/9976bbc2-19cb-4fe8-82df-0fadc1693526/image/full/?publickey=df3Qq7d5NMEO1JvKvAQ1z9it",
-        "Titolo": "La mia foto - 30/04/23 11:28:16",
+        "Titolo": "QRcode dentro Buca La Piella",
         "Descrizione": "",
         "Altitudine": 463,
         "Data": "2023-04-30",
         "Ora": "09:28:16Z",
-        "Strumento": "Android HUAWEI FIG-LX1"
+        "Strumento": "Android HUAWEI FIG-LX1",
+        "Autore": "",
+        "Tag primario": "",
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -10475,7 +10480,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/25fd3a0b-7e6e-4529-b323-77feef01a1c5/image/full/?publickey=JqymGV0USxzYixb91pABrgZq",
-        "Titolo": "La mia foto - 30/04/23 11:17:09",
+        "Titolo": "Interno Buca La Piella",
         "Descrizione": "",
         "Altitudine": 463,
         "Data": "2023-04-30",
@@ -10483,7 +10488,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10498,34 +10505,11 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/5a3d69af-8f07-4ed1-b455-7d416f00bf2e/image/full/?publickey=9wgzDT3K7uASHkQ2Wvc20fPC",
-        "Titolo": "Monte dalla piella ",
+        "Titolo": "Monte dalla Piella ",
         "Descrizione": "30 N",
         "Altitudine": 509,
         "Data": "2023-04-30",
         "Ora": "09:32:49Z",
-        "Strumento": "Android HUAWEI FIG-LX1",
-        "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683895,
-          44.035842
-        ]
-      },
-      "properties": {
-        "ulsp_type": "POI",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/79986238-243a-4550-9374-0afcc7528beb/image/full/?publickey=KDRawa1PPjDUnBx309uj5Zdu",
-        "Titolo": "La mia foto - 30/04/23 12:19:52",
-        "Descrizione": "",
-        "Altitudine": 449,
-        "Data": "2023-04-30",
-        "Ora": "10:19:52Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
@@ -10544,7 +10528,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/fb711614-49ae-41a6-8edb-d84460e095a1/image/full/?publickey=gtN3trlcv1pipw6qkYmj0g8t",
-        "Titolo": "Casoli2",
+        "Titolo": "QRcode Casoli2",
         "Descrizione": "",
         "Altitudine": 437,
         "Data": "2023-04-30",
@@ -10552,7 +10536,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -10567,7 +10553,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/ca40ff2e-d2a6-4b2a-a8ae-cab3c1be89b8/image/full/?publickey=a1EDCLP01rZaHM81IM7V8hFe",
-        "Titolo": "La mia foto - 30/04/23 13:26:15",
+        "Titolo": "Interno Antro dell'Ugola2",
         "Descrizione": "",
         "Altitudine": 436,
         "Data": "2023-04-30",
@@ -10575,7 +10561,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10590,7 +10578,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/3fd737c9-ae12-4a52-9678-40d982e39544/image/full/?publickey=kaHP54tlItga9LyC44iquObD",
-        "Titolo": "La mia foto - 30/04/23 13:26:51",
+        "Titolo": "Interno Antro dell'Ugola",
         "Descrizione": "",
         "Altitudine": 436,
         "Data": "2023-04-30",
@@ -10598,7 +10586,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10613,7 +10603,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/b1b1ebc0-2a4c-4cb4-a265-e536b6cf718d/image/full/?publickey=Q2uXZA44AQMHEFp9m7k8H2Ok",
-        "Titolo": "Grotta dell'ugola",
+        "Titolo": "Antro dell'Ugola",
         "Descrizione": "",
         "Altitudine": 421,
         "Data": "2023-04-30",
@@ -10621,7 +10611,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Grotta"
+        ]
       }
     },
     {
@@ -10636,7 +10628,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/f69aad5a-db4a-47ea-8507-994fc4426bcf/image/full/?publickey=TvlLv25AcY8aACFHZ7tRQqhu",
-        "Titolo": "Accesso ugola casoli5",
+        "Titolo": "Deviazione per Antro dell'Ugola",
         "Descrizione": "",
         "Altitudine": 417,
         "Data": "2023-04-30",
@@ -10644,7 +10636,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -10664,52 +10658,6 @@
         "Altitudine": 501,
         "Data": "2023-04-30",
         "Ora": "08:53:42Z",
-        "Strumento": "Android HUAWEI FIG-LX1",
-        "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683981,
-          44.035841
-        ]
-      },
-      "properties": {
-        "ulsp_type": "POI",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/6a6e0184-2d71-4b65-8850-eb08274ba688/image/full/?publickey=A2dG3pRPv5jmaCglwmPHwq8d",
-        "Titolo": "No Piella",
-        "Descrizione": "",
-        "Altitudine": 403,
-        "Data": "2023-04-30",
-        "Ora": "09:00:01Z",
-        "Strumento": "Android HUAWEI FIG-LX1",
-        "Autore": "",
-        "Tag primario": "",
-        "Altri tag": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.6832,
-          44.036895
-        ]
-      },
-      "properties": {
-        "ulsp_type": "POI",
-        "Foto": "https://www.gaiagps.com/api/objects/photo/f88665f6-933d-49bb-8f4a-862ec972d24c/image/full/?publickey=lkGj4CjGuPQ84JmZGbWDCZUg",
-        "Titolo": "Monte dalla piella",
-        "Descrizione": "",
-        "Altitudine": 463,
-        "Data": "2023-04-30",
-        "Ora": "09:29:48Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
@@ -15401,14 +15349,23 @@
       },
       "properties": {
         "ulsp_type": "Percorso",
-        "Titolo": "Casoli",
+        "Titolo": "Casoli-Lago di Casoli",
         "Data": "2023-04-30",
         "Ora": "13:34:05Z",
         "Strumento": "Android HUAWEI FIG-LX1",
         "Lunghezza": "3.892",
         "Durata": "02h 23m",
         "Dislivello in salita": "160",
-        "Dislivello in discesa": "142"
+        "Dislivello in discesa": "142",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Punto d'accesso": "Parcheggio alla fine di via Debbio",
+        "Foto accesso": "",
+        "Descrizione": "Sopralluogo e posizionamento di QRcode all'interno dell'abitato di Casoli e nella zona del Lago di Casoli, lungo il sentiero CAI 388, fino alla Madonna di Col di Piano",
+        "Difficoltà": "Facile",
+        "Segnaletica": "Congruente",
+        "Copertura GPS": "Completa",
+        "Copertura rete mobile": "Completa"
       }
     },
     {
@@ -15423,7 +15380,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/227ebbfb-f5b8-4f3b-a15b-2abea8583cd6/image/full/?publickey=7kKQ5yQ2w5qu1Q8CHsxA3sdD",
-        "Titolo": "Il tag",
+        "Titolo": "QRcode Chiesa di Sant'Andrea de Lacu",
         "Descrizione": "",
         "Altitudine": 620,
         "Data": "2023-04-30",
@@ -15431,7 +15388,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -15446,7 +15405,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/24898b41-f36f-4645-8688-655c81a72777/image/full/?publickey=XgjIkPfdAx6oJyty3puIIUcm",
-        "Titolo": "Lago di Casoli",
+        "Titolo": "QRcode Lago di Casoli",
         "Descrizione": "",
         "Altitudine": 610,
         "Data": "2023-04-30",
@@ -15454,7 +15413,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -15477,7 +15438,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -15492,7 +15455,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/de678f73-2b4a-46b4-99e0-ae8026cea35c/image/full/?publickey=uiyGJY25GQBD1JQdAjukbpTJ",
-        "Titolo": "Segn. Trooad. ",
+        "Titolo": "Segnaletica tradizionale2",
         "Descrizione": "",
         "Altitudine": 518,
         "Data": "2023-04-30",
@@ -15500,7 +15463,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -15515,7 +15480,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/a62603be-d942-4187-bca6-e2c69755db25/image/full/?publickey=yul6euNnC9Kpz9xkvQOwOGWC",
-        "Titolo": "Madonna di Castello",
+        "Titolo": "Chiesa della Madonna di Castello",
         "Descrizione": "",
         "Altitudine": 555,
         "Data": "2023-04-30",
@@ -15523,7 +15488,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Monumento"
+        ]
       }
     },
     {
@@ -15538,7 +15505,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/8f117a26-e8bf-4fc7-86e4-a54d70d0850b/image/full/?publickey=M970lCCoJEBqMj1JEbZF9q8W",
-        "Titolo": "Metato",
+        "Titolo": "Segnaletica in rovina",
         "Descrizione": "",
         "Altitudine": 607,
         "Data": "2023-04-30",
@@ -15546,7 +15513,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     },
     {
@@ -15569,7 +15538,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Monumento"
+        ]
       }
     },
     {
@@ -15584,7 +15555,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/d695345f-08f0-4f8f-b7a8-e47141151b9d/image/full/?publickey=tLTXAmx5cPCxnIXQ34OMmXiC",
-        "Titolo": "Sant'Andrea de lacu",
+        "Titolo": "Sant'Andrea de Lacu",
         "Descrizione": "",
         "Altitudine": 619,
         "Data": "2023-04-30",
@@ -15592,7 +15563,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Monumento"
+        ]
       }
     },
     {
@@ -15607,7 +15580,7 @@
       "properties": {
         "ulsp_type": "POI",
         "Foto": "https://www.gaiagps.com/api/objects/photo/27e66131-5c70-4783-86ad-b0d7da0b311a/image/full/?publickey=O7jPWfRMWINgSpuJlUxOn8tG",
-        "Titolo": "Madonna di col di piano",
+        "Titolo": "Madonna di Col di Piano",
         "Descrizione": "",
         "Altitudine": 628,
         "Data": "2023-04-30",
@@ -15615,7 +15588,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Monumento"
+        ]
       }
     },
     {
@@ -15638,7 +15613,9 @@
         "Strumento": "Android HUAWEI FIG-LX1",
         "Autore": "",
         "Tag primario": "",
-        "Altri tag": ""
+        "Altri tag": [
+          "Segnaletica"
+        ]
       }
     }
   ]
