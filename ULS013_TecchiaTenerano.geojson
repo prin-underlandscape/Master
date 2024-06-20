@@ -4,7 +4,7 @@
     "Nome": "ULS013_TecchiaTenerano",
     "Descrizione": "Scheda sito della Tecchia di Tenerano",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls013_tecchiatenerano_1041655",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/casi-studio/tecchia-di-tenerano?authuser=0"
   },
   "features": [
     {
@@ -25,7 +25,7 @@
         "Provincia": "Massa Carrara ",
         "Comune": "Fivizzano",
         "Toponimo": "Tenerano",
-        "Microtoponimo": "",
+        "Microtoponimo": "Tecchia",
         "Altitudine": 554,
         "Strade d'accesso": "sentiero CAI 46",
         "Altri elementi di localizzazione": "Sul versante SW sul torrente Bardinello. ",
@@ -41,9 +41,9 @@
         "Accessibilità": "Facile",
         "Copertura rete mobile": "Assente",
         "Copertura GPS": "Completa",
-        "Foto": "",
-        "Link": "",
-        "Bibliografia": "",
+        "Foto": "https://i.postimg.cc/g27MFjWd/IMG-20230613-092852.jpg",
+        "Link": "https://sites.google.com/view/prin-underlandscape/casi-studio/tecchia-di-tenerano?authuser=0",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "Strumento": ""
       },
       "type": "Feature"
