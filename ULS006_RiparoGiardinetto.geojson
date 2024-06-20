@@ -4,7 +4,7 @@
     "Nome": "ULS006_RiparoGiardinetto",
     "Descrizione": "Scheda sito per il riparo presso Giardinetto",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls006_riparogiardinetto_1041670",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -28,14 +28,14 @@
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
         "Data": "20/05/2023",
-        "Bibliografia": "Atlante 1992, p. 28",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "ulsp_type": "Sito",
         "Titolo": "Riparo di Giardinetto",
         "Altitudine": "280",
         "Definizione": "Riparo sotto roccia",
         "Reperti ceramici": "SI",
         "Sicurezza": "",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/gJ2Jj2Hw/IMG-20230520-132437.jpg",
         "Link": "",
         "Strumento": "",
         "Ora": ""
