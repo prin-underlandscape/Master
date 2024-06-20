@@ -30,7 +30,7 @@
           "opacity": 0.3,
           "weight": 6
         },
-        "Tipologia": ""
+        "Tipologia": "Naturalistico"
       },
       "geometry": {
         "type": "LineString",
