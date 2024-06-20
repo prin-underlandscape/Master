@@ -266,30 +266,6 @@
     {
       "type": "Feature",
       "properties": {
-        "ulsp_type": "POI",
-        "Titolo": "SVOLTA",
-        "Foto": "",
-        "Descrizione": "Giunta",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "",
-        "Altri tag": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.1454587,
-          44.1546232,
-          847.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "ulsp_type": "Percorso",
         "Titolo": "Aiola-Eremo di San Giorgio",
         "Provincia": "Lucca",
@@ -2887,7 +2863,9 @@
               10.1454587,
               44.1546232,
               847.8
-            ],
+            ]
+          ],
+          [
             [
               10.1454461,
               44.1545478,
