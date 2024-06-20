@@ -4,7 +4,7 @@
     "Nome": "ULS003_RiparoPiella",
     "Descrizione": "SCheda sito per il riparo vicino alla Buca della Piella",
     "umapKey": "https://umap.openstreetmap.fr/it/map/uls003_riparopiella_1041676",
-    "Ultimo aggiornamento": "01-05-2024"
+    "WebPageURL": ""
   },
   "features": [
     {
@@ -28,14 +28,14 @@
         "Copertura rete mobile": "Parziale",
         "Copertura GPS": "Parziale",
         "Data": "30/04/2023",
-        "Bibliografia": "",
+        "Bibliografia": "https://sites.google.com/view/prin-underlandscape/bibliografia?authuser=0",
         "ulsp_type": "Sito",
         "Titolo": "Riparo vicino Piella",
         "Altitudine": "390",
         "Definizione": "Riparo sotto roccia",
         "Reperti ceramici": "NO",
         "Sicurezza": "",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/4dPSFhz5/IMG-20230430-105626.jpg",
         "Link": "",
         "Strumento": "",
         "Ora": ""
