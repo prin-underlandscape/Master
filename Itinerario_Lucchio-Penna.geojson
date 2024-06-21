@@ -4,14 +4,14 @@
     "Nome": "Itinerario_Lucchio-Penna",
     "Descrizione": "Percorso ad anello che da Lucchio raggiunge la cima della Penna di Lucchio e torna in paese",
     "umapKey": "https://umap.openstreetmap.fr/it/map/mappa-senza-nome_1084939?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": ""
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
     {
       "type": "Feature",
       "id": "Q1ODg",
       "properties": {
-        "ulsp_type": "Percorso",
+        "ulsp_type": "Itinerario",
         "Titolo": "Itinerario Lucchio-Penna di Lucchio",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
@@ -24,17 +24,13 @@
         "Dislivello in salita": "574",
         "Dislivello in discesa": "570",
         "Segnaletica": "",
-        "Copertura GPS": "",
-        "Copertura rete mobile": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "Green",
           "opacity": 0.3,
           "weight": 6
-        }
+        },
+        "Tipologia": "Naturalistico"
       },
       "geometry": {
         "type": "LineString",
