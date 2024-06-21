@@ -4,7 +4,7 @@
     "Nome": "Itinerario_Antro_Ugola",
     "Descrizione": "Breve percorso che porta alla cavità chiamata Antro dell'Ugola",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_antro_ugola_1084937?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": ""
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
     {
@@ -14,24 +14,20 @@
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
         "Descrizione": "Breve percorso che porta alla cavità chiamata Antro dell'Ugola. Si percorre nella prima parte il sentiero CAI 386, per poi immettersi su una traccia che sale lungo il versante, fino ad arrivare al sito ipogeo.",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Data": "",
-        "ulsp_type": "Percorso",
+        "ulsp_type": "Itinerario",
         "Titolo": "Itinerario per Antro dell'Ugola",
         "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva",
         "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
         "Difficoltà": "Facile",
         "Lunghezza": "0.35",
-        "Durata": "00:10:00",
+        "Durata": "00:15:00",
         "Dislivello in salita": "30",
         "Dislivello in discesa": "10",
-        "Segnaletica": "",
-        "Strumento": "",
-        "Ora": "",
+        "Segnaletica": "Assente",
         "_umap_options": {
           "popupTemplate": "Default"
-        }
+        },
+        "Tipologia": "Naturalistico"
       },
       "geometry": {
         "type": "LineString",
