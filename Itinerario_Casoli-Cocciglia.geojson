@@ -4,7 +4,7 @@
     "Nome": "Itinerario_Casoli-Cocciglia",
     "Descrizione": "Percorso che collega gli abitati di Casoli e Cocciglia, passando per Ponte Nero",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_casoli-cocciglia_1084947?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": ""
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
     {
@@ -13,10 +13,7 @@
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
         "Descrizione": "Percorso che collega il paese di Casoli e il paese di Cocciglia, passando per Ponte Nero",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Data": "",
-        "ulsp_type": "Percorso",
+        "ulsp_type": "Itinerario",
         "Titolo": "Itinerario Casoli-Cocciglia",
         "Punto d'accesso": "Dal centro del paese di Casoli",
         "Foto accesso": "",
@@ -26,14 +23,13 @@
         "Dislivello in salita": "118",
         "Dislivello in discesa": "250",
         "Segnaletica": "",
-        "Strumento": "",
-        "Ora": "",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "DarkGreen",
           "opacity": 0.3,
           "weight": 6
-        }
+        },
+        "Tipologia": "Storico-archeologico"
       },
       "geometry": {
         "type": "LineString",
