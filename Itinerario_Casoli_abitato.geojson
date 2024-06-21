@@ -4,7 +4,7 @@
     "Nome": "Itinerario_Casoli_abitato",
     "Descrizione": "Percorso di visita all'interno e nei dintorni dell'abitato di Casoli",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_casoli_abitato_1084925?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": ""
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
     {
@@ -13,10 +13,7 @@
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
         "Descrizione": "Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Data": "",
-        "ulsp_type": "Percorso",
+        "ulsp_type": "Itinerario",
         "Titolo": "Itinerario nell'abitato di Casoli",
         "Punto d'accesso": "Parcheggio di Casoli",
         "Foto accesso": "",
@@ -25,15 +22,14 @@
         "Durata": "01:00:00",
         "Dislivello in salita": "120",
         "Dislivello in discesa": "118",
-        "Segnaletica": "",
-        "Strumento": "",
-        "Ora": "",
+        "Segnaletica": "Congruente",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "DarkViolet",
           "opacity": 0.3,
           "weight": 6
-        }
+        },
+        "Tipologia": "Storico-archeologico"
       },
       "geometry": {
         "type": "LineString",

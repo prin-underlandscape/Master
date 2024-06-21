@@ -4,7 +4,7 @@
     "Nome": "Itinerario_Casoli-Lucchio",
     "Descrizione": "Percorso ad anello che collega gli abitati di Lucchio e Casoli",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_casoli-lucchio_1084935?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": ""
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
     {
@@ -14,10 +14,7 @@
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
         "Descrizione": "Percorso ad anello che collega i paesi di Lucchio e Casoli, attraverso un sentiero per lo più di versante che gira intorno al complesso della Penna di Lucchio-Monte Memoriante, riprendendo l'antica mulattiera, attualmente i sentieri CAI 386 e 388.",
-        "Copertura rete mobile": "",
-        "Copertura GPS": "",
-        "Data": "",
-        "ulsp_type": "Percorso",
+        "ulsp_type": "Itinerario",
         "Titolo": "Itinerario Casoli-Lucchio",
         "Punto d'accesso": "1. Via Debbio, accesso al sentiero CAI 386 poco dopo edicola votiva;\n2. Dal parcheggio di Casoli, accesso sentiero CAI 388;\n3. Dalla piazza di Lucchio, accesso sentiero CAI 386;\n4. Dalla Fontana Vecchia, prima del parcheggio di Lucchio, accesso sentiero CAI 388",
         "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
@@ -26,15 +23,14 @@
         "Durata": "04:45:00",
         "Dislivello in salita": "881",
         "Dislivello in discesa": "849",
-        "Segnaletica": "",
-        "Strumento": "",
-        "Ora": "",
+        "Segnaletica": "Congruente",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "Red",
           "opacity": 0.3,
           "weight": 6
-        }
+        },
+        "Tipologia": "Naturalistico"
       },
       "geometry": {
         "type": "LineString",
