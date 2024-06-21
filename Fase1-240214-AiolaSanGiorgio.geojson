@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Fase1-240214-AiolaSanGiorgio",
     "Descrizione": "Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1066578",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1085602",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
   },
   "features": [
@@ -260,6 +260,30 @@
           10.1379638,
           44.1620211,
           369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "POI",
+        "Titolo": "SVOLTA",
+        "Foto": "",
+        "Descrizione": "Giunta",
+        "Altitudine": "",
+        "Autore": "",
+        "Strumento": "",
+        "Data": "",
+        "Ora": "",
+        "Tag primario": "",
+        "Altri tag": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1454587,
+          44.1546232,
+          847.8
         ]
       }
     },
@@ -2863,9 +2887,7 @@
               10.1454587,
               44.1546232,
               847.8
-            ]
-          ],
-          [
+            ],
             [
               10.1454461,
               44.1545478,
