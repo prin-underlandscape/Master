@@ -4,14 +4,14 @@
     "Nome": "Itinerario_BucaPiella",
     "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_bucapiella_1084946?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
-    "WebPageURL": ""
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
     {
       "type": "Feature",
       "id": "KXOTg",
       "properties": {
-        "ulsp_type": "Percorso",
+        "ulsp_type": "Itinerario",
         "Titolo": "Itinerario per Buca La Piella",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
@@ -23,18 +23,14 @@
         "Durata": "00:20:00",
         "Dislivello in salita": "60",
         "Dislivello in discesa": "35",
-        "Segnaletica": "",
-        "Copertura GPS": "",
-        "Copertura rete mobile": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
+        "Segnaletica": "Assente",
         "_umap_options": {
           "popupTemplate": "Default",
           "weight": 6,
           "opacity": 0.3,
           "color": "Black"
-        }
+        },
+        "Tipologia": "Naturalistico"
       },
       "geometry": {
         "type": "LineString",
