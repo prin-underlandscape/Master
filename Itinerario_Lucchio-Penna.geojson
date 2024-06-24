@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Itinerario_Lucchio-Penna",
     "Descrizione": "Percorso ad anello che da Lucchio raggiunge la cima della Penna di Lucchio e torna in paese",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/mappa-senza-nome_1084939?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/mappa-senza-nome_1084939",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
