@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Itinerario_Antro_Ugola",
     "Descrizione": "Breve percorso che porta alla cavità chiamata Antro dell'Ugola",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_antro_ugola_1084937?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_antro_ugola_1084937",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [

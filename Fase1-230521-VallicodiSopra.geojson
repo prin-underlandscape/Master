@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Fase1-230521-VallicodiSopra",
     "Descrizione": "Sopralluogo per individuare la Buca di Castelvenere, partendo da Vallico di Sopra in direzione Cardoso",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230521-vallicodisopra_1067184?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230521-vallicodisopra_1067184",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/21-maggio-2023-vallico-di-sopra"
   },
   "features": [

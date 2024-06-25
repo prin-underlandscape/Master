@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Fase1-230612-EquiTerme",
     "Descrizione": "Ricognizione a Equi terme per localizzare le grotte lungo il Solco d'Equi",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230612-equiterme_1041688",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/12-giugno-2023-solco-dequi"
   },
   "features": [

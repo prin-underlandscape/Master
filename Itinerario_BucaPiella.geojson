@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Itinerario_BucaPiella",
     "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_bucapiella_1084946?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_bucapiella_1084946",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [

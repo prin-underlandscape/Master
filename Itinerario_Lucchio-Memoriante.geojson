@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Itinerario_Lucchio-Memoriante",
     "Descrizione": "Percorso ad anello che da Lucchio raggiunge la cima del Monte Memoriante e ritorna in paese.",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_lucchio-memoriante_1084943?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_lucchio-memoriante_1084943",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [

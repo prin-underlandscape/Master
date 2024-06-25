@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Fase1-230613-Gabellaccia1",
     "Descrizione": "Ricognizione per localizzare la grotta della Gabellaccia, al Passo della Gabellaccia (1^ tentativo)",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia_1041687",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/13-giugno-2023-passo-della-gabellaccia"
   },
   "features": [

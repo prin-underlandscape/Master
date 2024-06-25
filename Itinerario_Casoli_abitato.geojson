@@ -3,7 +3,7 @@
   "properties": {
     "Nome": "Itinerario_Casoli_abitato",
     "Descrizione": "Percorso di visita all'interno e nei dintorni dell'abitato di Casoli",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_casoli_abitato_1084925?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_casoli_abitato_1084925",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
