@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ITN000",
+    "Nome": "itn000",
     "Descrizione": "Bagni di Lucca Heritage itinerary ",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
@@ -199,7 +199,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Agriturismo Fanny Azienda Agricola",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Azienda agricola e agriturismo",
         "Altitudine": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
@@ -374,7 +374,7 @@
         },
         "Titolo": "Buca della Piella",
         "Altitudine": "400",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/d0XYVD4S/Rocca-di-Lucchio-1.jpg",
         "Tag primario": "Grotta",
         "Altri tag": [
           ""
@@ -403,7 +403,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Canyon Park Canyon Avventura",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Centro servizi turistici outdoor, ecolab, mindfulness",
         "Altitudine": "",
         "Tag primario": "Svago",
         "Altri tag": [
@@ -630,7 +630,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Opposto bar",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Punto di ristoro",
         "Altitudine": "",
         "Tag primario": "Ristoro",
         "Altri tag": [
@@ -695,7 +695,7 @@
         },
         "Titolo": "Riparo vicino Piella",
         "Altitudine": "390",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/wTHnqrF3/riparo2.jpg",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
@@ -719,7 +719,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Rocca di Lucchio",
         "Altitudine": "",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/d0XYVD4S/Rocca-di-Lucchio-1.jpg",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "MediumBlue",
@@ -837,8 +837,10 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Tag primario": "",
-        "Altri tag": "",
+        "Tag primario": "Segnaletica",
+        "Altri tag": [
+          "Segnaletica"
+        ],
         "Link": ""
       },
       "geometry": {
