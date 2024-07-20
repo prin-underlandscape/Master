@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "itn000",
+    "Nome": "ITN000",
     "Descrizione": "Bagni di Lucca Heritage itinerary ",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
@@ -50,7 +50,7 @@
         },
         "Titolo": "Chiesa di Sant'Andrea de Lacu",
         "Altitudine": "577",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/ncXGqgL9/IMG-20230430-162452.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -80,7 +80,7 @@
         },
         "Titolo": "Castello di Casoli",
         "Altitudine": "540",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/65hGSNpm/IMG-20210823-223446.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -104,7 +104,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Cappella della Madonna di Col del Piano",
         "Altitudine": "590",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/mDQrHQc5/BDL-CAS-21-UT38-6.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -140,7 +140,7 @@
         },
         "Titolo": "Cappella della Madonna di Castello",
         "Altitudine": "515",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/FKVy9QT8/IMG-20230430-175903.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -606,7 +606,7 @@
           "iconUrl": "/uploads/pictogram/monument.svg"
         },
         "Titolo": "Metato",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/yNPM25Kc/IMG-20230430-171741.jpg",
         "Altitudine": "",
         "Tag primario": "Monumento",
         "Altri tag": [
