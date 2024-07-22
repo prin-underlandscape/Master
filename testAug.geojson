@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "provaAug",
-    "Descrizione": "Bagni di Lucca Heritage Itinerary",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/mappa-senza-nome_1090911",
+    "Nome": "ITN000",
+    "Descrizione": "Bagni di Lucca Heritage itinerary ",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
   },
   "features": [
@@ -11,7 +11,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -21,12 +20,12 @@
         },
         "Titolo": " Lago di Casoli",
         "Altitudine": "550",
-        "Autore": "",
+        "Foto": "",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +41,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -50,13 +48,14 @@
           "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/monument.svg"
         },
-        "Titolo": "Chiesa di Sant'Andrea de Lacu e edificio residenziale",
+        "Titolo": "Chiesa di Sant'Andrea de Lacu",
         "Altitudine": "577",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/ncXGqgL9/IMG-20230430-162452.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
-        ]
+        ],
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -72,7 +71,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -82,15 +80,12 @@
         },
         "Titolo": "Castello di Casoli",
         "Altitudine": "540",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
+        "Foto": "https://i.postimg.cc/65hGSNpm/IMG-20210823-223446.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -106,14 +101,10 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "Titolo": "Cappella della Madonna di Col del Piano",
         "Altitudine": "590",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
+        "Foto": "https://i.postimg.cc/mDQrHQc5/BDL-CAS-21-UT38-6.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -124,7 +115,7 @@
           "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/monument.svg"
         },
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -140,7 +131,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -150,15 +140,12 @@
         },
         "Titolo": "Cappella della Madonna di Castello",
         "Altitudine": "515",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
+        "Foto": "https://i.postimg.cc/FKVy9QT8/IMG-20230430-175903.jpg",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -174,14 +161,10 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "Titolo": "Antro dell'Ugola",
         "Altitudine": "380",
         "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
         "Tag primario": "Grotta",
         "Altri tag": [
           ""
@@ -192,7 +175,7 @@
           "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/star.svg"
         },
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -216,17 +199,13 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Agriturismo Fanny Azienda Agricola",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Azienda agricola e agriturismo",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": "https://www.agriturismofanny.it/"
       },
       "geometry": {
         "type": "Point",
@@ -250,16 +229,12 @@
         "Titolo": "Balzo Rotondo",
         "Foto": "",
         "Descrizione": "",
-        "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
+        "Altitudine": "1054 ",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -280,19 +255,15 @@
           "iconUrl": "/uploads/pictogram/hotel.svg"
         },
         "ulsp_type": "Risorsa",
-        "Titolo": "BeB Casa Natalie",
+        "Titolo": "B&B Casa Natalie",
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -315,17 +286,13 @@
         "ulsp_type": "Risorsa",
         "Titolo": "BeB La Margine - Azienda Agricola",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": " Corso Umberto, n.5, 55022 Casoli LU",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -346,19 +313,15 @@
           "iconUrl": "/uploads/pictogram/hotel.svg"
         },
         "ulsp_type": "Risorsa",
-        "Titolo": "beB La Menata",
+        "Titolo": "B&B La Menata",
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -383,15 +346,11 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": "https://www.valdilimahouse.it/"
       },
       "geometry": {
         "type": "Point",
@@ -406,7 +365,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -416,15 +374,12 @@
         },
         "Titolo": "Buca della Piella",
         "Altitudine": "400",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
+        "Foto": "https://i.postimg.cc/QCdY5Y85/20230430-1117172748351079832000741-large.jpg",
         "Tag primario": "Grotta",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -448,17 +403,13 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Canyon Park Canyon Avventura",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Centro servizi turistici outdoor, ecolab, mindfulness",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Svago",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": "https://www.canyonpark.it/"
       },
       "geometry": {
         "type": "Point",
@@ -473,25 +424,21 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "",
-        "Data": "",
         "ulsp_type": "Risorsa",
         "Titolo": "Chiesa di San Pietro",
         "Altitudine": "",
         "Foto": "",
-        "Strumento": "",
-        "Ora": "",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "MediumBlue",
           "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/museum.svg"
         },
-        "Autore": "",
         "Tag primario": "Museo",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -517,15 +464,11 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -540,25 +483,21 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "",
-        "Data": "",
         "ulsp_type": "Risorsa",
         "Titolo": "Fonte con lavatoio",
         "Altitudine": "",
         "Foto": "",
-        "Strumento": "",
-        "Ora": "",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "Red",
           "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/government.svg"
         },
-        "Autore": "",
         "Tag primario": "Servizi",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -574,7 +513,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro",
-        "Data": "20/05/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -585,14 +523,11 @@
         "Titolo": "Grotta di Ponte Nero 2",
         "Foto": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Ora": "",
         "Tag primario": "Grotta",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -608,19 +543,16 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "",
-        "Data": "",
         "ulsp_type": "Risorsa",
         "Titolo": "Inizio di Escursione verso Cocciglia",
         "Foto": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Ora": "",
         "_umap_options": {
           "popupTemplate": "Default"
         },
         "Tag primario": "Segnaletica",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +568,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -647,9 +578,6 @@
         "Titolo": "Insediamento ecclesiastico",
         "Altitudine": "495",
         "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -670,7 +598,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -679,15 +606,13 @@
           "iconUrl": "/uploads/pictogram/monument.svg"
         },
         "Titolo": "Metato",
-        "Foto": "",
+        "Foto": "https://i.postimg.cc/yNPM25Kc/IMG-20230430-171741.jpg",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Ora": "",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
-        ]
+        ],
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -705,12 +630,8 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Opposto bar",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Punto di ristoro",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Ristoro",
         "Altri tag": [
           ""
@@ -746,10 +667,6 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
@@ -769,7 +686,6 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.",
-        "Data": "30/04/2023",
         "ulsp_type": "Risorsa",
         "_umap_options": {
           "popupTemplate": "Default",
@@ -779,10 +695,7 @@
         },
         "Titolo": "Riparo vicino Piella",
         "Altitudine": "390",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
-        "Autore": "",
+        "Foto": "https://i.postimg.cc/wTHnqrF3/riparo2.jpg",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
@@ -803,20 +716,16 @@
       "type": "Feature",
       "properties": {
         "Descrizione": "",
-        "Data": "",
         "ulsp_type": "Risorsa",
         "Titolo": "Rocca di Lucchio",
         "Altitudine": "",
-        "Foto": "",
-        "Strumento": "",
-        "Ora": "",
+        "Foto": "https://i.postimg.cc/d0XYVD4S/Rocca-di-Lucchio-1.jpg",
         "_umap_options": {
           "popupTemplate": "Default",
           "color": "MediumBlue",
           "iconClass": "Drop",
           "iconUrl": "/uploads/pictogram/monument.svg"
         },
-        "Autore": "",
         "Tag primario": "Monumento",
         "Altri tag": [
           ""
@@ -845,17 +754,13 @@
         "ulsp_type": "Risorsa",
         "Titolo": "T-rafting Val di Lima",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Attività di servizi turistici outdoor",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Svago",
         "Altri tag": [
           ""
         ],
-        "Link": "https://sites.google.com/view/prin-underlandscape"
+        "Link": "https://sites.google.com/view/prin-underlandscape; https://www.t-rafting.com/val-di-lima-outdoor/"
       },
       "geometry": {
         "type": "Point",
@@ -880,10 +785,6 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
           ""
@@ -910,14 +811,11 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Segnaletica",
         "Altri tag": [
           ""
-        ]
+        ],
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -939,12 +837,11 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
-        "Tag primario": "",
-        "Altri tag": ""
+        "Tag primario": "Segnaletica",
+        "Altri tag": [
+          "Segnaletica"
+        ],
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -966,12 +863,9 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Servizi",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -993,12 +887,9 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Segnaletica",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -1047,12 +938,9 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Segnaletica",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -1074,12 +962,9 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Segnaletica",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -1098,16 +983,13 @@
           "iconClass": "Default"
         },
         "ulsp_type": "Risorsa",
-        "Titolo": "Deviazione Penna di Lucchi",
+        "Titolo": "Deviazione Penna di Lucchio",
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Segnaletica",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -1117,6 +999,267 @@
         ]
       },
       "id": "c3NzE"
+    },
+    {
+      "type": "Feature",
+      "id": "KXOTg",
+      "properties": {
+        "ulsp_type": "Itinerario",
+        "Titolo": "Itinerario per Buca La Piella",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva\n",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.",
+        "Difficoltà": "Media difficoltà",
+        "Lunghezza": "0.90",
+        "Durata": "00:20:00",
+        "Dislivello in salita": "60",
+        "Dislivello in discesa": "35",
+        "Segnaletica": "Assente",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "weight": 6,
+          "opacity": 0.3,
+          "color": "Black"
+        },
+        "Tipologia": "Naturalistico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.682943370186207,
+            44.041642027231084,
+            0
+          ],
+          [
+            10.683075,
+            44.041258,
+            0
+          ],
+          [
+            10.683081,
+            44.040964,
+            0
+          ],
+          [
+            10.683139,
+            44.040655,
+            0
+          ],
+          [
+            10.683337,
+            44.040393,
+            0
+          ],
+          [
+            10.683363,
+            44.04025,
+            0
+          ],
+          [
+            10.683555,
+            44.038422,
+            0
+          ],
+          [
+            10.683619,
+            44.038151,
+            0
+          ],
+          [
+            10.683657,
+            44.038095,
+            357.5
+          ],
+          [
+            10.683709,
+            44.038031,
+            355.75
+          ],
+          [
+            10.683726,
+            44.037989,
+            0
+          ],
+          [
+            10.683737,
+            44.037913,
+            0
+          ],
+          [
+            10.683759,
+            44.037826,
+            0
+          ],
+          [
+            10.683762,
+            44.037755,
+            0
+          ],
+          [
+            10.683775,
+            44.037662,
+            0
+          ],
+          [
+            10.683796,
+            44.037556,
+            0
+          ],
+          [
+            10.683796,
+            44.037471,
+            0
+          ],
+          [
+            10.683773,
+            44.0374,
+            0
+          ],
+          [
+            10.683761,
+            44.037243,
+            0
+          ],
+          [
+            10.683762,
+            44.037146,
+            0
+          ],
+          [
+            10.6838,
+            44.036978,
+            0
+          ],
+          [
+            10.683832,
+            44.036853,
+            0
+          ],
+          [
+            10.68384,
+            44.03674,
+            0
+          ],
+          [
+            10.683825,
+            44.036621,
+            0
+          ],
+          [
+            10.683841,
+            44.036476,
+            0
+          ],
+          [
+            10.683863,
+            44.036413,
+            0
+          ],
+          [
+            10.683957,
+            44.036296,
+            0
+          ],
+          [
+            10.684091,
+            44.036135,
+            0
+          ],
+          [
+            10.684193,
+            44.035987,
+            0
+          ],
+          [
+            10.684248,
+            44.035856,
+            0
+          ],
+          [
+            10.684243,
+            44.035769,
+            0
+          ],
+          [
+            10.684215,
+            44.035714,
+            0
+          ],
+          [
+            10.684185,
+            44.035608,
+            0
+          ],
+          [
+            10.684183,
+            44.035519,
+            0
+          ],
+          [
+            10.684143,
+            44.035454,
+            0
+          ],
+          [
+            10.684096,
+            44.035452,
+            0
+          ],
+          [
+            10.684061,
+            44.035483,
+            0
+          ],
+          [
+            10.684029,
+            44.035585,
+            0
+          ],
+          [
+            10.684009,
+            44.035717,
+            0
+          ],
+          [
+            10.684008,
+            44.035885,
+            0
+          ],
+          [
+            10.683973,
+            44.03602,
+            0
+          ],
+          [
+            10.683907,
+            44.036142,
+            0
+          ],
+          [
+            10.683803,
+            44.036299,
+            0
+          ],
+          [
+            10.683732,
+            44.036393,
+            0
+          ],
+          [
+            10.683598,
+            44.036495,
+            0
+          ],
+          [
+            10.6835,
+            44.03659,
+            0
+          ]
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5017,572 +5160,6 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Descrizione": "Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.",
-        "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario nell'abitato di Casoli",
-        "Punto d'accesso": "Parcheggio di Casoli",
-        "Foto accesso": "",
-        "Difficoltà": "Facile",
-        "Lunghezza": "3,5",
-        "Durata": "01:00:00",
-        "Dislivello in salita": "120",
-        "Dislivello in discesa": "118",
-        "Segnaletica": "Congruente",
-        "_umap_options": {
-          "popupTemplate": "Default",
-          "color": "DarkViolet",
-          "opacity": 0.3,
-          "weight": 6
-        },
-        "Tipologia": "Storico-archeologico"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.670694,
-            44.039829,
-            0
-          ],
-          [
-            10.670503,
-            44.039783,
-            0
-          ],
-          [
-            10.670211,
-            44.039644,
-            0
-          ],
-          [
-            10.670051,
-            44.039642,
-            0
-          ],
-          [
-            10.669858,
-            44.039625,
-            0
-          ],
-          [
-            10.669806,
-            44.039655,
-            0
-          ],
-          [
-            10.66979,
-            44.039634,
-            0
-          ],
-          [
-            10.669797,
-            44.039552,
-            0
-          ],
-          [
-            10.669818,
-            44.039533,
-            0
-          ],
-          [
-            10.67003,
-            44.039475,
-            0
-          ],
-          [
-            10.670051,
-            44.039454,
-            0
-          ],
-          [
-            10.670034,
-            44.039442,
-            0
-          ],
-          [
-            10.669956,
-            44.039441,
-            0
-          ],
-          [
-            10.66989,
-            44.039429,
-            0
-          ],
-          [
-            10.669802,
-            44.039341,
-            0
-          ],
-          [
-            10.669746,
-            44.039323,
-            0
-          ],
-          [
-            10.669638,
-            44.039301,
-            0
-          ],
-          [
-            10.669581,
-            44.039243,
-            0
-          ],
-          [
-            10.669786,
-            44.039151,
-            0
-          ],
-          [
-            10.670027,
-            44.039146,
-            0
-          ],
-          [
-            10.670109,
-            44.039127,
-            0
-          ],
-          [
-            10.670259,
-            44.039041,
-            0
-          ],
-          [
-            10.670377,
-            44.039034,
-            0
-          ],
-          [
-            10.67082,
-            44.039038,
-            0
-          ],
-          [
-            10.670918,
-            44.039028,
-            0
-          ],
-          [
-            10.671014,
-            44.038995,
-            0
-          ],
-          [
-            10.671088,
-            44.038946,
-            0
-          ],
-          [
-            10.671179,
-            44.038901,
-            0
-          ],
-          [
-            10.671194,
-            44.038883,
-            0
-          ],
-          [
-            10.671312,
-            44.038817,
-            0
-          ],
-          [
-            10.671354,
-            44.038709,
-            0
-          ],
-          [
-            10.671355,
-            44.038677,
-            0
-          ],
-          [
-            10.671465,
-            44.038589,
-            0
-          ],
-          [
-            10.671387,
-            44.038498,
-            0
-          ],
-          [
-            10.671383,
-            44.038424,
-            0
-          ],
-          [
-            10.671417,
-            44.038319,
-            0
-          ],
-          [
-            10.671544,
-            44.038119,
-            0
-          ],
-          [
-            10.672024,
-            44.037892,
-            0
-          ],
-          [
-            10.672083,
-            44.037859,
-            0
-          ],
-          [
-            10.672071,
-            44.037819,
-            0
-          ],
-          [
-            10.672136,
-            44.037775,
-            0
-          ],
-          [
-            10.672538,
-            44.037656,
-            0
-          ],
-          [
-            10.673212,
-            44.037611,
-            0
-          ],
-          [
-            10.673414,
-            44.037604,
-            0
-          ],
-          [
-            10.673886,
-            44.037433,
-            0
-          ],
-          [
-            10.674151,
-            44.037404,
-            0
-          ],
-          [
-            10.674425,
-            44.037392,
-            0
-          ],
-          [
-            10.674902,
-            44.037365,
-            0
-          ],
-          [
-            10.675184,
-            44.037325,
-            0
-          ],
-          [
-            10.675409,
-            44.037321,
-            0
-          ],
-          [
-            10.675586,
-            44.037294,
-            0
-          ],
-          [
-            10.675648,
-            44.037255,
-            0
-          ],
-          [
-            10.675597,
-            44.03719,
-            0
-          ],
-          [
-            10.675409,
-            44.037186,
-            0
-          ],
-          [
-            10.674945,
-            44.037213,
-            0
-          ],
-          [
-            10.674704,
-            44.037186,
-            0
-          ],
-          [
-            10.674465,
-            44.037093,
-            0
-          ],
-          [
-            10.674036,
-            44.036978,
-            0
-          ],
-          [
-            10.673812,
-            44.036913,
-            0
-          ],
-          [
-            10.673698,
-            44.036894,
-            0
-          ],
-          [
-            10.673493,
-            44.036817,
-            0
-          ],
-          [
-            10.673416,
-            44.036785,
-            0
-          ],
-          [
-            10.6734,
-            44.036751,
-            0
-          ],
-          [
-            10.673411,
-            44.036706,
-            0
-          ],
-          [
-            10.673463,
-            44.036688,
-            0
-          ],
-          [
-            10.67406,
-            44.036767,
-            0
-          ],
-          [
-            10.67428,
-            44.036758,
-            0
-          ],
-          [
-            10.6745,
-            44.036738,
-            0
-          ],
-          [
-            10.675042,
-            44.036642,
-            0
-          ],
-          [
-            10.675946,
-            44.036404,
-            0
-          ],
-          [
-            10.677189,
-            44.03641,
-            0
-          ],
-          [
-            10.677327,
-            44.03638,
-            0
-          ],
-          [
-            10.677642,
-            44.036063,
-            0
-          ],
-          [
-            10.677515,
-            44.035937,
-            0
-          ],
-          [
-            10.677551,
-            44.035732,
-            0
-          ],
-          [
-            10.677383,
-            44.035581,
-            0
-          ],
-          [
-            10.676825,
-            44.035213,
-            0
-          ],
-          [
-            10.676621,
-            44.035119,
-            0
-          ],
-          [
-            10.676542,
-            44.034963,
-            0
-          ],
-          [
-            10.676356,
-            44.034939,
-            0
-          ],
-          [
-            10.676152,
-            44.034878,
-            0
-          ],
-          [
-            10.675825,
-            44.034932,
-            0
-          ],
-          [
-            10.675761,
-            44.035043,
-            0
-          ],
-          [
-            10.675696,
-            44.035151,
-            0
-          ],
-          [
-            10.675648,
-            44.035259,
-            0
-          ],
-          [
-            10.675664,
-            44.035391,
-            0
-          ],
-          [
-            10.675862,
-            44.035429,
-            0
-          ],
-          [
-            10.675986,
-            44.035329,
-            0
-          ],
-          [
-            10.67598,
-            44.035225,
-            0
-          ],
-          [
-            10.675873,
-            44.035163,
-            0
-          ],
-          [
-            10.675755,
-            44.035113,
-            0
-          ],
-          [
-            10.675824,
-            44.034933,
-            0
-          ],
-          [
-            10.676153,
-            44.03488,
-            0
-          ],
-          [
-            10.67636,
-            44.034939,
-            0
-          ],
-          [
-            10.676541,
-            44.034965,
-            0
-          ],
-          [
-            10.676494,
-            44.034894,
-            0
-          ],
-          [
-            10.676442,
-            44.034812,
-            0
-          ],
-          [
-            10.676407,
-            44.034681,
-            0
-          ],
-          [
-            10.676407,
-            44.034542,
-            0
-          ],
-          [
-            10.676619,
-            44.033709,
-            0
-          ],
-          [
-            10.677009,
-            44.033036,
-            0
-          ],
-          [
-            10.676919,
-            44.032583,
-            0
-          ],
-          [
-            10.677079,
-            44.032381,
-            0
-          ],
-          [
-            10.677385,
-            44.032161,
-            0
-          ],
-          [
-            10.677449,
-            44.032,
-            0
-          ],
-          [
-            10.677482,
-            44.031857,
-            0
-          ],
-          [
-            10.677462,
-            44.031759,
-            0
-          ]
-        ]
-      },
-      "id": "Y2MzI"
-    },
-    {
-      "type": "Feature",
       "id": "A5ODE",
       "properties": {
         "Provincia": "Lucca",
@@ -5609,6 +5186,1276 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            10.705120160756245,
+            44.01997483606837,
+            0
+          ],
+          [
+            10.705124037304069,
+            44.019974305093854,
+            0
+          ],
+          [
+            10.705154126699261,
+            44.01993833155991,
+            0
+          ],
+          [
+            10.705150619346352,
+            44.01978103005625,
+            0
+          ],
+          [
+            10.70527337669449,
+            44.01951089527721,
+            0
+          ],
+          [
+            10.705380812448709,
+            44.019448505251525,
+            0
+          ],
+          [
+            10.705702012126267,
+            44.01949974472426,
+            0
+          ],
+          [
+            10.70586150437995,
+            44.019502134128636,
+            0
+          ],
+          [
+            10.705959894855866,
+            44.01948580652987,
+            0
+          ],
+          [
+            10.70611551056174,
+            44.01957089583571,
+            0
+          ],
+          [
+            10.706210947477429,
+            44.019672710803626,
+            0
+          ],
+          [
+            10.706340904128592,
+            44.01976828662503,
+            0
+          ],
+          [
+            10.706644936237156,
+            44.019871959668365,
+            0
+          ],
+          [
+            10.706888604958062,
+            44.02003948217959,
+            0
+          ],
+          [
+            10.707218111523947,
+            44.020207933419115,
+            0
+          ],
+          [
+            10.707383510898154,
+            44.02031837557968,
+            0
+          ],
+          [
+            10.707783533714842,
+            44.020583462474185,
+            0
+          ],
+          [
+            10.708033478751286,
+            44.020825849353315,
+            0
+          ],
+          [
+            10.708157343684622,
+            44.02092155605734,
+            0
+          ],
+          [
+            10.708315912950512,
+            44.02105044792087,
+            0
+          ],
+          [
+            10.708388275176723,
+            44.02113646416822,
+            0
+          ],
+          [
+            10.70852635411857,
+            44.02130000088693,
+            0
+          ],
+          [
+            10.708642650553553,
+            44.021573446016,
+            0
+          ],
+          [
+            10.708643388943614,
+            44.021776803420465,
+            0
+          ],
+          [
+            10.708740856431973,
+            44.021938745502126,
+            0
+          ],
+          [
+            10.70867717028927,
+            44.02233603268621,
+            0
+          ],
+          [
+            10.708617545291396,
+            44.022683673380335,
+            0
+          ],
+          [
+            10.70863452826285,
+            44.02294702411846,
+            0
+          ],
+          [
+            10.708709474854281,
+            44.023097547654075,
+            0
+          ],
+          [
+            10.708784975238254,
+            44.023282582235005,
+            0
+          ],
+          [
+            10.708854937696755,
+            44.023463501428274,
+            0
+          ],
+          [
+            10.709007969037687,
+            44.02372074288183,
+            0
+          ],
+          [
+            10.709330460897556,
+            44.023976390402616,
+            0
+          ],
+          [
+            10.709392485662873,
+            44.02411868179555,
+            0
+          ],
+          [
+            10.709432358726293,
+            44.0242609728469,
+            0
+          ],
+          [
+            10.709359442707878,
+            44.02448104546122,
+            0
+          ],
+          [
+            10.709388978310415,
+            44.0246849238245,
+            0
+          ],
+          [
+            10.709418513912953,
+            44.024805976270954,
+            0
+          ],
+          [
+            10.709492352919295,
+            44.02499498749126,
+            0
+          ],
+          [
+            10.709587789834622,
+            44.02516249552646,
+            0
+          ],
+          [
+            10.709607541769191,
+            44.025247709417265,
+            0
+          ],
+          [
+            10.709580775129016,
+            44.02539530701809,
+            0
+          ],
+          [
+            10.709655352525422,
+            44.02547335308315,
+            0
+          ],
+          [
+            10.709728637739591,
+            44.02557900711685,
+            0
+          ],
+          [
+            10.709836627285974,
+            44.025588298291204,
+            0
+          ],
+          [
+            10.709868378058694,
+            44.02568997019476,
+            0
+          ],
+          [
+            10.709885176433037,
+            44.02587632398876,
+            0
+          ],
+          [
+            10.709906405146947,
+            44.02595529853169,
+            0
+          ],
+          [
+            10.70990289779456,
+            44.02630955447536,
+            0
+          ],
+          [
+            10.710033039042813,
+            44.02644135466563,
+            0
+          ],
+          [
+            10.710148043295618,
+            44.026545281498244,
+            0
+          ],
+          [
+            10.710207114500694,
+            44.02665358819446,
+            0
+          ],
+          [
+            10.71019825381993,
+            44.02678737854598,
+            0
+          ],
+          [
+            10.710242557223737,
+            44.0268978084499,
+            0
+          ],
+          [
+            10.710256032841938,
+            44.027005981773506,
+            0
+          ],
+          [
+            10.710260463182319,
+            44.027044738302976,
+            0
+          ],
+          [
+            10.710239603663483,
+            44.027129285850165,
+            0
+          ],
+          [
+            10.710194377271648,
+            44.02737549505094,
+            0
+          ],
+          [
+            10.710191792906425,
+            44.027389033209175,
+            0
+          ],
+          [
+            10.710280399714026,
+            44.027555738119815,
+            0
+          ],
+          [
+            10.71029442912523,
+            44.027584407069945,
+            0
+          ],
+          [
+            10.71031178129172,
+            44.027707046311164,
+            0
+          ],
+          [
+            10.710443953113064,
+            44.02788861563094,
+            0
+          ],
+          [
+            10.710525176020024,
+            44.027960818480715,
+            0
+          ],
+          [
+            10.710617474777942,
+            44.028008599730015,
+            0
+          ],
+          [
+            10.710718634216628,
+            44.02806752988444,
+            0
+          ],
+          [
+            10.710940889625684,
+            44.02812433637422,
+            0
+          ],
+          [
+            10.711223693019946,
+            44.02830271901629,
+            0
+          ],
+          [
+            10.711371371032616,
+            44.02844340732853,
+            0
+          ],
+          [
+            10.711431180627747,
+            44.02856020491898,
+            0
+          ],
+          [
+            10.71149985090363,
+            44.02881768970314,
+            0
+          ],
+          [
+            10.711591411271487,
+            44.02899660115227,
+            0
+          ],
+          [
+            10.711754780073637,
+            44.029229530309216,
+            0
+          ],
+          [
+            10.711753857085421,
+            44.02932787789938,
+            0
+          ],
+          [
+            10.711778408555666,
+            44.029365438408185,
+            0
+          ],
+          [
+            10.71184615584334,
+            44.02948130512445,
+            0
+          ],
+          [
+            10.7119214716298,
+            44.02958111224104,
+            0
+          ],
+          [
+            10.712072103202724,
+            44.02972869905225,
+            0
+          ],
+          [
+            10.71217030908115,
+            44.029773293556,
+            0
+          ],
+          [
+            10.71231577192363,
+            44.029880001696625,
+            0
+          ],
+          [
+            10.712494462318963,
+            44.03023516322861,
+            0
+          ],
+          [
+            10.712576423616202,
+            44.03045773534672,
+            0
+          ],
+          [
+            10.712744407355611,
+            44.030633854730404,
+            0
+          ],
+          [
+            10.712896146513424,
+            44.030766043463636,
+            0
+          ],
+          [
+            10.712999521122503,
+            44.030820192981025,
+            0
+          ],
+          [
+            10.713169350836866,
+            44.03125975781464,
+            0
+          ],
+          [
+            10.713182641858005,
+            44.031397784747035,
+            0
+          ],
+          [
+            10.713221038141299,
+            44.03152625567987,
+            0
+          ],
+          [
+            10.713286016466874,
+            44.03164517067531,
+            0
+          ],
+          [
+            10.713308352767084,
+            44.03178200225658,
+            0
+          ],
+          [
+            10.71339714417162,
+            44.031936883013586,
+            0
+          ],
+          [
+            10.713400097731872,
+            44.03206216758043,
+            0
+          ],
+          [
+            10.713426495177233,
+            44.0321918315201,
+            0
+          ],
+          [
+            10.713349702610634,
+            44.03236170810419,
+            0
+          ],
+          [
+            10.713267187520463,
+            44.03246934059357,
+            0
+          ],
+          [
+            10.713197778854509,
+            44.03264187068754,
+            0
+          ],
+          [
+            10.713194825294256,
+            44.032739018180955,
+            0
+          ],
+          [
+            10.713311490924262,
+            44.03304532371591,
+            0
+          ],
+          [
+            10.713333642626166,
+            44.033219975556584,
+            0
+          ],
+          [
+            10.71339640578155,
+            44.033348177112074,
+            0
+          ],
+          [
+            10.713441262978503,
+            44.03357418808221,
+            0
+          ],
+          [
+            10.71341855748345,
+            44.03361254217695,
+            0
+          ],
+          [
+            10.713404528072246,
+            44.03370597211864,
+            0
+          ],
+          [
+            10.713384591540535,
+            44.03374684767181,
+            0
+          ],
+          [
+            10.713261095803027,
+            44.03388208185043,
+            0
+          ],
+          [
+            10.713231560200489,
+            44.033964894384056,
+            0
+          ],
+          [
+            10.71314609155007,
+            44.03427291883322,
+            0
+          ],
+          [
+            10.713141661209695,
+            44.034395544235,
+            0
+          ],
+          [
+            10.713262757180084,
+            44.034392890008206,
+            0
+          ],
+          [
+            10.713323305165279,
+            44.034358915894806,
+            0
+          ],
+          [
+            10.71334767203737,
+            44.03435679251207,
+            0
+          ],
+          [
+            10.713150521890453,
+            44.034518169383034,
+            0
+          ],
+          [
+            10.713098834586019,
+            44.034623276450816,
+            0
+          ],
+          [
+            10.713118771117728,
+            44.03485153863274,
+            0
+          ],
+          [
+            10.713216792399225,
+            44.035136997834236,
+            0
+          ],
+          [
+            10.713397144171608,
+            44.035377069151004,
+            0
+          ],
+          [
+            10.713689362039817,
+            44.03582496080124,
+            0
+          ],
+          [
+            10.713688808246628,
+            44.03592648243688,
+            0
+          ],
+          [
+            10.713600939829089,
+            44.03598965136739,
+            0
+          ],
+          [
+            10.713529869786118,
+            44.03607551323104,
+            0
+          ],
+          [
+            10.713582480077502,
+            44.03613350641163,
+            0
+          ],
+          [
+            10.713437017235023,
+            44.0362805460775,
+            0
+          ],
+          [
+            10.71315052189044,
+            44.03639945153325,
+            0
+          ],
+          [
+            10.71296444759447,
+            44.03649977782594,
+            0
+          ],
+          [
+            10.712782988236402,
+            44.03660992422152,
+            0
+          ],
+          [
+            10.71269179706358,
+            44.03673400455444,
+            0
+          ],
+          [
+            10.71256627075281,
+            44.03681097404215,
+            0
+          ],
+          [
+            10.712166801728536,
+            44.036805134981066,
+            0
+          ],
+          [
+            10.711816804838971,
+            44.036788944855175,
+            0
+          ],
+          [
+            10.710696851709919,
+            44.03669989907705,
+            0
+          ],
+          [
+            10.710345747234795,
+            44.03666831499878,
+            0
+          ],
+          [
+            10.710204345537663,
+            44.0365459597131,
+            0
+          ],
+          [
+            10.71005629832996,
+            44.03634079507707,
+            0
+          ],
+          [
+            10.709901051819138,
+            44.03618048482825,
+            0
+          ],
+          [
+            10.709793246869884,
+            44.03610139120136,
+            0
+          ],
+          [
+            10.709430697348775,
+            44.035832525163514,
+            0
+          ],
+          [
+            10.708001543381153,
+            44.03532212754218,
+            0
+          ],
+          [
+            10.70722734139973,
+            44.03511642782997,
+            0
+          ],
+          [
+            10.706754402564135,
+            44.03522193196602,
+            0
+          ],
+          [
+            10.706546545761315,
+            44.03523480478381,
+            0
+          ],
+          [
+            10.706335366203195,
+            44.03506015888108,
+            0
+          ],
+          [
+            10.706134524105964,
+            44.03514350060708,
+            0
+          ],
+          [
+            10.706099819772986,
+            44.03528895021752,
+            0
+          ],
+          [
+            10.705974662657159,
+            44.035604134052605,
+            0
+          ],
+          [
+            10.70589823928569,
+            44.03572131565594,
+            0
+          ],
+          [
+            10.705874610803662,
+            44.0357759914781,
+            0
+          ],
+          [
+            10.7057479769078,
+            44.03601008835981,
+            0
+          ],
+          [
+            10.705726563595848,
+            44.03621989889588,
+            0
+          ],
+          [
+            10.705838798885585,
+            44.03643926357441,
+            0
+          ],
+          [
+            10.706021919621302,
+            44.036642039156035,
+            0
+          ],
+          [
+            10.705990907238634,
+            44.03683313592773,
+            0
+          ],
+          [
+            10.705973924267175,
+            44.036930011139056,
+            0
+          ],
+          [
+            10.705963217611263,
+            44.036988932423036,
+            0
+          ],
+          [
+            10.705921129377641,
+            44.03710345718347,
+            0
+          ],
+          [
+            10.70567321491386,
+            44.03739381560731,
+            0
+          ],
+          [
+            10.70520876756401,
+            44.037924897123645,
+            0
+          ],
+          [
+            10.705029338778619,
+            44.03801248132427,
+            0
+          ],
+          [
+            10.704251814041903,
+            44.03880524515398,
+            0
+          ],
+          [
+            10.704022174732202,
+            44.039041984086936,
+            0
+          ],
+          [
+            10.703882619010228,
+            44.039089225599355,
+            0
+          ],
+          [
+            10.70345287599336,
+            44.03903879926452,
+            0
+          ],
+          [
+            10.703218806343276,
+            44.039130628242205,
+            0
+          ],
+          [
+            10.703181886840111,
+            44.03928880730357,
+            0
+          ],
+          [
+            10.703151059054616,
+            44.039411156926974,
+            0
+          ],
+          [
+            10.703182625230168,
+            44.03963754286986,
+            0
+          ],
+          [
+            10.703205146127099,
+            44.039980703033045,
+            0
+          ],
+          [
+            10.703140167801525,
+            44.04022380678735,
+            0
+          ],
+          [
+            10.702940802484422,
+            44.04045735530618,
+            0
+          ],
+          [
+            10.702659475870284,
+            44.04070735735955,
+            0
+          ],
+          [
+            10.7025069983222,
+            44.04080210308499,
+            0
+          ],
+          [
+            10.702347690665608,
+            44.04082094605601,
+            0
+          ],
+          [
+            10.702270898099012,
+            44.0407997145408,
+            0
+          ],
+          [
+            10.702214595857109,
+            44.04078883338467,
+            0
+          ],
+          [
+            10.702034613278716,
+            44.040769990406744,
+            0
+          ],
+          [
+            10.701832848194355,
+            44.040780075380816,
+            0
+          ],
+          [
+            10.701566289381487,
+            44.040932145990894,
+            0
+          ],
+          [
+            10.701514786674066,
+            44.04103750707641,
+            0
+          ],
+          [
+            10.701465499137838,
+            44.04113968326168,
+            0
+          ],
+          [
+            10.701398859434612,
+            44.04124530936844,
+            0
+          ],
+          [
+            10.70125284279958,
+            44.04143984137878,
+            0
+          ],
+          [
+            10.701201709287693,
+            44.04171266282202,
+            0
+          ],
+          [
+            10.701091689168253,
+            44.04199450622322,
+            0
+          ],
+          [
+            10.700977238708434,
+            44.04210066158228,
+            0
+          ],
+          [
+            10.700783780511836,
+            44.042205224425004,
+            0
+          ],
+          [
+            10.700457781298866,
+            44.04228510606629,
+            0
+          ],
+          [
+            10.700228141989164,
+            44.04230872553427,
+            0
+          ],
+          [
+            10.69982018147916,
+            44.042363129891,
+            0
+          ],
+          [
+            10.699655520495034,
+            44.04241461494355,
+            0
+          ],
+          [
+            10.699286694658388,
+            44.04254253122065,
+            0
+          ],
+          [
+            10.699109111848149,
+            44.04252581188892,
+            0
+          ],
+          [
+            10.698912330896265,
+            44.04242310731904,
+            0
+          ],
+          [
+            10.698450837106666,
+            44.04232226028134,
+            0
+          ],
+          [
+            10.698286914512598,
+            44.04239126090463,
+            0
+          ],
+          [
+            10.698130375819169,
+            44.04248892318792,
+            0
+          ],
+          [
+            10.698060228763149,
+            44.042529261910126,
+            0
+          ],
+          [
+            10.697608334044382,
+            44.042735201274354,
+            0
+          ],
+          [
+            10.697355804642717,
+            44.042805262956726,
+            0
+          ],
+          [
+            10.696984025244891,
+            44.04285064377687,
+            0
+          ],
+          [
+            10.696745525255354,
+            44.04287850917244,
+            0
+          ],
+          [
+            10.696298799266035,
+            44.042859136089874,
+            0
+          ],
+          [
+            10.696141522183535,
+            44.04275085900602,
+            0
+          ],
+          [
+            10.69601119633736,
+            44.042712908903496,
+            0
+          ],
+          [
+            10.695882347271302,
+            44.04271635891382,
+            0
+          ],
+          [
+            10.695565947129156,
+            44.04288355148105,
+            0
+          ],
+          [
+            10.695523120505475,
+            44.04287054763163,
+            0
+          ],
+          [
+            10.695243639866499,
+            44.042790932164806,
+            0
+          ],
+          [
+            10.695109991265031,
+            44.04270972427841,
+            0
+          ],
+          [
+            10.694987418513392,
+            44.042621350865694,
+            0
+          ],
+          [
+            10.694893642976469,
+            44.04254783894399,
+            0
+          ],
+          [
+            10.694770331835889,
+            44.042529261910104,
+            0
+          ],
+          [
+            10.694802082608609,
+            44.0426667318229,
+            0
+          ],
+          [
+            10.694727505211066,
+            44.04274873592591,
+            0
+          ],
+          [
+            10.69457982719838,
+            44.04284215146266,
+            0
+          ],
+          [
+            10.69436347891098,
+            44.042794912940685,
+            0
+          ],
+          [
+            10.694285209564265,
+            44.042869220708056,
+            0
+          ],
+          [
+            10.694025296261964,
+            44.042846928387625,
+            0
+          ],
+          [
+            10.693812639923719,
+            44.04275775902204,
+            0
+          ],
+          [
+            10.693232265333922,
+            44.042579419888234,
+            0
+          ],
+          [
+            10.692802522317054,
+            44.04207624586652,
+            0
+          ],
+          [
+            10.692417821094043,
+            44.04183314971314,
+            0
+          ],
+          [
+            10.692028689530657,
+            44.041587929438656,
+            0
+          ],
+          [
+            10.691913500680773,
+            44.04155183632555,
+            0
+          ],
+          [
+            10.691296206587811,
+            44.04136234712102,
+            0
+          ],
+          [
+            10.690883446542397,
+            44.04128591432917,
+            0
+          ],
+          [
+            10.690518681851099,
+            44.04088278279894,
+            0
+          ],
+          [
+            10.68995972057313,
+            44.04046292861175,
+            0
+          ],
+          [
+            10.689060361475969,
+            44.04003192475844,
+            0
+          ],
+          [
+            10.688647786028069,
+            44.03993226794086,
+            0
+          ],
+          [
+            10.688216935426107,
+            44.039836459231196,
+            0
+          ],
+          [
+            10.687715937768118,
+            44.03966793106955,
+            0
+          ],
+          [
+            10.687269950169854,
+            44.0396063584563,
+            0
+          ],
+          [
+            10.686701389821073,
+            44.039521961408305,
+            0
+          ],
+          [
+            10.686439261348582,
+            44.03959043449419,
+            0
+          ],
+          [
+            10.68597998272918,
+            44.03971941846428,
+            0
+          ],
+          [
+            10.685794646823279,
+            44.039766394037954,
+            0
+          ],
+          [
+            10.685497260225263,
+            44.039812440679945,
+            0
+          ],
+          [
+            10.685359735075968,
+            44.039708006313624,
+            0
+          ],
+          [
+            10.685250453346587,
+            44.0395195728108,
+            0
+          ],
+          [
+            10.685206149942784,
+            44.03938103399408,
+            0
+          ],
+          [
+            10.685137479666892,
+            44.03916207830712,
+            0
+          ],
+          [
+            10.684654203370426,
+            44.03869682796117,
+            0
+          ],
+          [
+            10.684543444860925,
+            44.0385896048877,
+            0
+          ],
+          [
+            10.684372138366227,
+            44.03834171713837,
+            0
+          ],
+          [
+            10.684146191006839,
+            44.03812089976882,
+            0
+          ],
+          [
+            10.683923197207708,
+            44.03799881288913,
+            0
+          ],
+          [
+            10.683660330345152,
+            44.03809329753977,
+            0
+          ],
+          [
+            10.683617503721479,
+            44.03816017984185,
+            0
+          ],
+          [
+            10.683554740566096,
+            44.03841974615631,
+            0
+          ],
+          [
+            10.683435121375826,
+            44.03956097515293,
+            0
+          ],
+          [
+            10.683337653887465,
+            44.04039220066975,
+            0
+          ],
+          [
+            10.68313976535049,
+            44.04065759588824,
+            0
+          ],
+          [
+            10.683096384931995,
+            44.04088464055595,
+            0
+          ],
+          [
+            10.68308069414542,
+            44.040966514425314,
+            0
+          ],
+          [
+            10.683072941049751,
+            44.04126322332501,
+            0
+          ],
           [
             10.682944204503244,
             44.04164232169595,
@@ -7760,264 +8607,569 @@
     },
     {
       "type": "Feature",
-      "id": "KXOTg",
       "properties": {
-        "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario per Buca La Piella",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
-        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva\n",
-        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
-        "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.",
-        "Difficoltà": "Media difficoltà",
-        "Lunghezza": "0.90",
-        "Durata": "00:20:00",
-        "Dislivello in salita": "60",
-        "Dislivello in discesa": "35",
-        "Segnaletica": "Assente",
+        "Descrizione": "Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.",
+        "ulsp_type": "Itinerario",
+        "Titolo": "Itinerario nell'abitato di Casoli",
+        "Punto d'accesso": "Parcheggio di Casoli",
+        "Foto accesso": "",
+        "Difficoltà": "Facile",
+        "Lunghezza": "3,5",
+        "Durata": "01:00:00",
+        "Dislivello in salita": "120",
+        "Dislivello in discesa": "118",
+        "Segnaletica": "Congruente",
         "_umap_options": {
           "popupTemplate": "Default",
-          "weight": 6,
+          "color": "DarkViolet",
           "opacity": 0.3,
-          "color": "Black"
+          "weight": 6
         },
-        "Tipologia": "Naturalistico"
+        "Tipologia": "Storico-archeologico"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            10.682943370186207,
-            44.041642027231084,
+            10.670694,
+            44.039829,
             0
           ],
           [
-            10.683075,
-            44.041258,
+            10.670503,
+            44.039783,
             0
           ],
           [
-            10.683081,
-            44.040964,
+            10.670211,
+            44.039644,
             0
           ],
           [
-            10.683139,
-            44.040655,
+            10.670051,
+            44.039642,
             0
           ],
           [
-            10.683337,
-            44.040393,
+            10.669858,
+            44.039625,
             0
           ],
           [
-            10.683363,
-            44.04025,
+            10.669806,
+            44.039655,
             0
           ],
           [
-            10.683555,
-            44.038422,
+            10.66979,
+            44.039634,
             0
           ],
           [
-            10.683619,
-            44.038151,
+            10.669797,
+            44.039552,
             0
           ],
           [
-            10.683657,
-            44.038095,
-            357.5
-          ],
-          [
-            10.683709,
-            44.038031,
-            355.75
-          ],
-          [
-            10.683726,
-            44.037989,
+            10.669818,
+            44.039533,
             0
           ],
           [
-            10.683737,
-            44.037913,
+            10.67003,
+            44.039475,
             0
           ],
           [
-            10.683759,
-            44.037826,
+            10.670051,
+            44.039454,
             0
           ],
           [
-            10.683762,
-            44.037755,
+            10.670034,
+            44.039442,
             0
           ],
           [
-            10.683775,
-            44.037662,
+            10.669956,
+            44.039441,
             0
           ],
           [
-            10.683796,
-            44.037556,
+            10.66989,
+            44.039429,
             0
           ],
           [
-            10.683796,
-            44.037471,
+            10.669802,
+            44.039341,
             0
           ],
           [
-            10.683773,
-            44.0374,
+            10.669746,
+            44.039323,
             0
           ],
           [
-            10.683761,
-            44.037243,
+            10.669638,
+            44.039301,
             0
           ],
           [
-            10.683762,
-            44.037146,
+            10.669581,
+            44.039243,
             0
           ],
           [
-            10.6838,
+            10.669786,
+            44.039151,
+            0
+          ],
+          [
+            10.670027,
+            44.039146,
+            0
+          ],
+          [
+            10.670109,
+            44.039127,
+            0
+          ],
+          [
+            10.670259,
+            44.039041,
+            0
+          ],
+          [
+            10.670377,
+            44.039034,
+            0
+          ],
+          [
+            10.67082,
+            44.039038,
+            0
+          ],
+          [
+            10.670918,
+            44.039028,
+            0
+          ],
+          [
+            10.671014,
+            44.038995,
+            0
+          ],
+          [
+            10.671088,
+            44.038946,
+            0
+          ],
+          [
+            10.671179,
+            44.038901,
+            0
+          ],
+          [
+            10.671194,
+            44.038883,
+            0
+          ],
+          [
+            10.671312,
+            44.038817,
+            0
+          ],
+          [
+            10.671354,
+            44.038709,
+            0
+          ],
+          [
+            10.671355,
+            44.038677,
+            0
+          ],
+          [
+            10.671465,
+            44.038589,
+            0
+          ],
+          [
+            10.671387,
+            44.038498,
+            0
+          ],
+          [
+            10.671383,
+            44.038424,
+            0
+          ],
+          [
+            10.671417,
+            44.038319,
+            0
+          ],
+          [
+            10.671544,
+            44.038119,
+            0
+          ],
+          [
+            10.672024,
+            44.037892,
+            0
+          ],
+          [
+            10.672083,
+            44.037859,
+            0
+          ],
+          [
+            10.672071,
+            44.037819,
+            0
+          ],
+          [
+            10.672136,
+            44.037775,
+            0
+          ],
+          [
+            10.672538,
+            44.037656,
+            0
+          ],
+          [
+            10.673212,
+            44.037611,
+            0
+          ],
+          [
+            10.673414,
+            44.037604,
+            0
+          ],
+          [
+            10.673886,
+            44.037433,
+            0
+          ],
+          [
+            10.674151,
+            44.037404,
+            0
+          ],
+          [
+            10.674425,
+            44.037392,
+            0
+          ],
+          [
+            10.674902,
+            44.037365,
+            0
+          ],
+          [
+            10.675184,
+            44.037325,
+            0
+          ],
+          [
+            10.675409,
+            44.037321,
+            0
+          ],
+          [
+            10.675586,
+            44.037294,
+            0
+          ],
+          [
+            10.675648,
+            44.037255,
+            0
+          ],
+          [
+            10.675597,
+            44.03719,
+            0
+          ],
+          [
+            10.675409,
+            44.037186,
+            0
+          ],
+          [
+            10.674945,
+            44.037213,
+            0
+          ],
+          [
+            10.674704,
+            44.037186,
+            0
+          ],
+          [
+            10.674465,
+            44.037093,
+            0
+          ],
+          [
+            10.674036,
             44.036978,
             0
           ],
           [
-            10.683832,
-            44.036853,
+            10.673812,
+            44.036913,
             0
           ],
           [
-            10.68384,
-            44.03674,
+            10.673698,
+            44.036894,
             0
           ],
           [
-            10.683825,
-            44.036621,
+            10.673493,
+            44.036817,
             0
           ],
           [
-            10.683841,
-            44.036476,
+            10.673416,
+            44.036785,
             0
           ],
           [
-            10.683863,
-            44.036413,
+            10.6734,
+            44.036751,
             0
           ],
           [
-            10.683957,
-            44.036296,
+            10.673411,
+            44.036706,
             0
           ],
           [
-            10.684091,
-            44.036135,
+            10.673463,
+            44.036688,
             0
           ],
           [
-            10.684193,
-            44.035987,
+            10.67406,
+            44.036767,
             0
           ],
           [
-            10.684248,
-            44.035856,
+            10.67428,
+            44.036758,
             0
           ],
           [
-            10.684243,
-            44.035769,
+            10.6745,
+            44.036738,
             0
           ],
           [
-            10.684215,
-            44.035714,
+            10.675042,
+            44.036642,
             0
           ],
           [
-            10.684185,
-            44.035608,
+            10.675946,
+            44.036404,
             0
           ],
           [
-            10.684183,
-            44.035519,
+            10.677189,
+            44.03641,
             0
           ],
           [
-            10.684143,
-            44.035454,
+            10.677327,
+            44.03638,
             0
           ],
           [
-            10.684096,
-            44.035452,
+            10.677642,
+            44.036063,
             0
           ],
           [
-            10.684061,
-            44.035483,
+            10.677515,
+            44.035937,
             0
           ],
           [
-            10.684029,
-            44.035585,
+            10.677551,
+            44.035732,
             0
           ],
           [
-            10.684009,
-            44.035717,
+            10.677383,
+            44.035581,
             0
           ],
           [
-            10.684008,
-            44.035885,
+            10.676825,
+            44.035213,
             0
           ],
           [
-            10.683973,
-            44.03602,
+            10.676621,
+            44.035119,
             0
           ],
           [
-            10.683907,
-            44.036142,
+            10.676542,
+            44.034963,
             0
           ],
           [
-            10.683803,
-            44.036299,
+            10.676356,
+            44.034939,
             0
           ],
           [
-            10.683732,
-            44.036393,
+            10.676152,
+            44.034878,
             0
           ],
           [
-            10.683598,
-            44.036495,
+            10.675825,
+            44.034932,
             0
           ],
           [
-            10.6835,
-            44.03659,
+            10.675761,
+            44.035043,
+            0
+          ],
+          [
+            10.675696,
+            44.035151,
+            0
+          ],
+          [
+            10.675648,
+            44.035259,
+            0
+          ],
+          [
+            10.675664,
+            44.035391,
+            0
+          ],
+          [
+            10.675862,
+            44.035429,
+            0
+          ],
+          [
+            10.675986,
+            44.035329,
+            0
+          ],
+          [
+            10.67598,
+            44.035225,
+            0
+          ],
+          [
+            10.675873,
+            44.035163,
+            0
+          ],
+          [
+            10.675755,
+            44.035113,
+            0
+          ],
+          [
+            10.675824,
+            44.034933,
+            0
+          ],
+          [
+            10.676153,
+            44.03488,
+            0
+          ],
+          [
+            10.67636,
+            44.034939,
+            0
+          ],
+          [
+            10.676541,
+            44.034965,
+            0
+          ],
+          [
+            10.676494,
+            44.034894,
+            0
+          ],
+          [
+            10.676442,
+            44.034812,
+            0
+          ],
+          [
+            10.676407,
+            44.034681,
+            0
+          ],
+          [
+            10.676407,
+            44.034542,
+            0
+          ],
+          [
+            10.676619,
+            44.033709,
+            0
+          ],
+          [
+            10.677009,
+            44.033036,
+            0
+          ],
+          [
+            10.676919,
+            44.032583,
+            0
+          ],
+          [
+            10.677079,
+            44.032381,
+            0
+          ],
+          [
+            10.677385,
+            44.032161,
+            0
+          ],
+          [
+            10.677449,
+            44.032,
+            0
+          ],
+          [
+            10.677482,
+            44.031857,
+            0
+          ],
+          [
+            10.677462,
+            44.031759,
             0
           ]
         ]
-      }
+      },
+      "id": "Y2MzI"
     },
     {
       "type": "Feature",
