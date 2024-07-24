@@ -1,0 +1,1298 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "ITN000",
+    "Descrizione": "Bagni di Lucca Heritage itinerary ",
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
+    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        },
+        "Titolo": " Lago di Casoli",
+        "Altitudine": "550",
+        "Foto": "",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677648,
+          44.034686,
+          0
+        ]
+      },
+      "id": "U0MzU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Titolo": "Chiesa di Sant'Andrea de Lacu",
+        "Altitudine": "577",
+        "Foto": "https://i.postimg.cc/ncXGqgL9/IMG-20230430-162452.jpg",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67577,
+          44.03523,
+          0
+        ]
+      },
+      "id": "Q1MjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Titolo": "Castello di Casoli",
+        "Altitudine": "540",
+        "Foto": "https://i.postimg.cc/65hGSNpm/IMG-20210823-223446.jpg",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67068,
+          44.039971,
+          0
+        ]
+      },
+      "id": "g3Njk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Cappella della Madonna di Col del Piano",
+        "Altitudine": "590",
+        "Foto": "https://i.postimg.cc/mDQrHQc5/BDL-CAS-21-UT38-6.jpg",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677588,
+          44.031728,
+          0
+        ]
+      },
+      "id": "gzODQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Titolo": "Cappella della Madonna di Castello",
+        "Altitudine": "515",
+        "Foto": "https://i.postimg.cc/FKVy9QT8/IMG-20230430-175903.jpg",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669851,
+          44.039599,
+          0
+        ]
+      },
+      "id": "kzNjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Antro dell'Ugola",
+        "Altitudine": "380",
+        "Foto": "",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          ""
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Sienna",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/star.svg"
+        },
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683202,
+          44.038665,
+          0
+        ]
+      },
+      "id": "U5NDM"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Agriturismo Fanny Azienda Agricola",
+        "Foto": "",
+        "Descrizione": "Azienda agricola e agriturismo",
+        "Altitudine": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://www.agriturismofanny.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67143,
+          44.03674
+        ]
+      },
+      "id": "Q5MjU"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Balzo Rotondo",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "1054 ",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699779,
+          44.033917
+        ]
+      },
+      "id": "g2MTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "B&B Casa Natalie",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67317,
+          44.04417
+        ]
+      },
+      "id": "A0ODE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "BeB La Margine - Azienda Agricola",
+        "Foto": "",
+        "Descrizione": " Corso Umberto, n.5, 55022 Casoli LU",
+        "Altitudine": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67157,
+          44.03854
+        ]
+      },
+      "id": "E1NTg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "B&B La Menata",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71271,
+          44.0295
+        ]
+      },
+      "id": "M0NTk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "BeB Val di Lima House",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://www.valdilimahouse.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65376,
+          44.03582
+        ]
+      },
+      "id": "U4MDE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Sienna",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/star.svg"
+        },
+        "Titolo": "Buca della Piella",
+        "Altitudine": "400",
+        "Foto": "https://underlandscape.cfs.unipi.it/api/v1/t/e1e7af151e77f44df7e149a74165b4a023faf9b1/2eofoxkf/fit_1280",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683496,
+          44.036607,
+          0
+        ]
+      },
+      "id": "U0NzY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/pitch.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Canyon Park Canyon Avventura",
+        "Foto": "",
+        "Descrizione": "Centro servizi turistici outdoor, ecolab, mindfulness",
+        "Altitudine": "",
+        "Tag primario": "Svago",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://www.canyonpark.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.66023,
+          44.03695
+        ]
+      },
+      "id": "c2ODc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Chiesa di San Pietro",
+        "Altitudine": "",
+        "Foto": "",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/museum.svg"
+        },
+        "Tag primario": "Museo",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716965,
+          44.037165,
+          0
+        ]
+      },
+      "id": "k2Mjk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Cresta Monte Memoriante ",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698094,
+          44.029211
+        ]
+      },
+      "id": "c0NjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Fonte con lavatoio",
+        "Altitudine": "",
+        "Foto": "",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Red",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/government.svg"
+        },
+        "Tag primario": "Servizi",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71337,
+          44.034299,
+          0
+        ]
+      },
+      "id": "IxODk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Sienna",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/star.svg"
+        },
+        "Titolo": "Grotta di Ponte Nero 2",
+        "Foto": "",
+        "Altitudine": "",
+        "Tag primario": "Grotta",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662325,
+          44.038316,
+          287.4
+        ]
+      },
+      "id": "A3MzY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Inizio di Escursione verso Cocciglia",
+        "Foto": "",
+        "Altitudine": "",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        },
+        "Tag primario": "Segnaletica",
+        "Altri tag": "",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669211,
+          44.038931,
+          435.66
+        ]
+      },
+      "id": "kxMzk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Titolo": "Insediamento ecclesiastico",
+        "Altitudine": "495",
+        "Foto": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://sites.google.com/view/prin-underlandscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669555,
+          44.039241,
+          0
+        ]
+      },
+      "id": "AxMzc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Titolo": "Metato",
+        "Foto": "https://i.postimg.cc/yNPM25Kc/IMG-20230430-171741.jpg",
+        "Altitudine": "",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677623,
+          44.035917,
+          0
+        ]
+      },
+      "id": "IyNzY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "Opposto bar",
+        "Foto": "",
+        "Descrizione": "Punto di ristoro",
+        "Altitudine": "",
+        "Tag primario": "Ristoro",
+        "Altri tag": [
+          ""
+        ],
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/restaurant.svg"
+        },
+        "Link": "https://sites.google.com/view/prin-underlandscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68349,
+          44.04299
+        ]
+      },
+      "id": "kxMzg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Penna di Lucchio",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://sites.google.com/view/prin-underlandscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70539,
+          44.024154
+        ]
+      },
+      "id": "k5MzI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.",
+        "ulsp_type": "Risorsa",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/mountain.svg"
+        },
+        "Titolo": "Riparo vicino Piella",
+        "Altitudine": "390",
+        "Foto": "https://i.postimg.cc/wTHnqrF3/riparo2.jpg",
+        "Tag primario": "Attrazione naturalistica",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://sites.google.com/view/prin-underlandscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683963,
+          44.035647,
+          0
+        ]
+      },
+      "id": "AwNDc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Descrizione": "",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Rocca di Lucchio",
+        "Altitudine": "",
+        "Foto": "https://i.postimg.cc/d0XYVD4S/Rocca-di-Lucchio-1.jpg",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "MediumBlue",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/monument.svg"
+        },
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://sites.google.com/view/prin-underlandscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.715683,
+          44.037562,
+          0
+        ]
+      },
+      "id": "YzMTA"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/pitch.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "T-rafting Val di Lima",
+        "Foto": "",
+        "Descrizione": "Attività di servizi turistici outdoor",
+        "Altitudine": "",
+        "Tag primario": "Svago",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://sites.google.com/view/prin-underlandscape; https://www.t-rafting.com/val-di-lima-outdoor/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68634,
+          44.0427
+        ]
+      },
+      "id": "cwMDc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/hotel.svg"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Villa delle Rose",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Accoglienza",
+        "Altri tag": [
+          ""
+        ],
+        "Link": "https://sites.google.com/view/prin-underlandscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65263,
+          44.03866
+        ]
+      },
+      "id": "M1MzQ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupTemplate": "Default"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Inizio percorso Ugola e Piella",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Segnaletica",
+        "Altri tag": [
+          ""
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.682913,
+          44.041607
+        ]
+      },
+      "id": "gzMDk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "Titolo": "Lucchio accesso",
+        "ulsp_type": "Risorsa",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Segnaletica",
+        "Altri tag": [
+          "Segnaletica"
+        ],
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713515,
+          44.034218
+        ]
+      },
+      "id": "U0MjY"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "Titolo": "Lucchio parcheggio",
+        "ulsp_type": "Risorsa",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Servizi",
+        "Altri tag": "",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713655,
+          44.035934
+        ]
+      },
+      "id": "Y3MDI"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "Titolo": "Casoli accesso percorso",
+        "ulsp_type": "Sito",
+        "Foto": "",
+        "Descrizione": "Centro per attività culturali",
+        "Altitudine": "200",
+        "Tag primario": "Segnaletica",
+        "Altri tag": "",
+        "Link": "",
+        "Sito": "ULS999",
+        "Provincia": "Trento",
+        "Comune": "Terlago",
+        "Toponimo": "Terlago",
+        "Microtoponimo": "Lago",
+        "Strade d'accesso": "Provinciale",
+        "Altri elementi di localizzazione": "Dietro il cimitero",
+        "Tipologia sito": "Frequentazione antropica",
+        "Definizione": "Corpo di fabbrica",
+        "Cronologia iniziale": "Tarda età moderna (1600-1789 d.C.)",
+        "Cronologia finale": "Età subattuale (2000-oggi)",
+        "Reperti ceramici": "NO",
+        "Reperti geologici": "SI",
+        "Reperti organici": "SI",
+        "Altri manufatti": "Sedie",
+        "Sicurezza": "Ottime",
+        "Accessibilità": "Facile",
+        "Copertura GPS": "Parziale",
+        "Copertura rete mobile": "Completa",
+        "Bibliografia": "",
+        "Strumento": "Leica",
+        "Data": "4/4/2024",
+        "Ora": "14:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.672531,
+          44.037658
+        ]
+      },
+      "id": "g1NjE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "Titolo": "Casoli parcheggio",
+        "ulsp_type": "QRtag",
+        "Foto": "",
+        "Descrizione": "Un QRcode",
+        "fid": "121212",
+        "Testo": "Un QR tag con un testo poco interessante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.671866,
+          44.038059
+        ]
+      },
+      "id": "YzNTA"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "Titolo": "Deviazione per Memoriante",
+        "ulsp_type": "Percorso",
+        "Descrizione": "La deviazione",
+        "Provincia": "Trento",
+        "Comune": "Terlago",
+        "Punto d'accesso": "Strada",
+        "Foto accesso": "",
+        "Difficoltà": "Facile",
+        "Lunghezza": "2",
+        "Durata": "2:00",
+        "Dislivello in salita": "150",
+        "Dislivello in discesa": "100",
+        "Segnaletica": "Congruente",
+        "Copertura GPS": "Assente",
+        "Copertura rete mobile": "Completa",
+        "Strumento": "Voigtlander",
+        "Data": "15/01/2020",
+        "Ora": "15:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.695523,
+          44.042867
+        ]
+      },
+      "id": "YzNzE"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "Titolo": "Deviazione percorso di costa",
+        "ulsp_type": "POI",
+        "Foto": "",
+        "Descrizione": "Un POI di prova",
+        "Altitudine": "111",
+        "Tag primario": "Ristoro",
+        "Altri tag": [
+          "Accoglienza"
+        ],
+        "Autore": "Augusto Ciuffoletti",
+        "Strumento": "Rolleiflex",
+        "Data": "12/12/2012",
+        "Ora": "12:12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701585,
+          44.02112
+        ]
+      },
+      "id": "Q0MDg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "DeepPink",
+          "iconClass": "Default"
+        },
+        "ulsp_type": "Risorsa",
+        "Titolo": "Deviazione Penna di Lucchio",
+        "Foto": "",
+        "Descrizione": "",
+        "Altitudine": "",
+        "Tag primario": "Segnaletica",
+        "Altri tag": "",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70504,
+          44.02007
+        ]
+      },
+      "id": "c3NzE"
+    },
+    {
+      "type": "Feature",
+      "id": "KXOTg",
+      "properties": {
+        "ulsp_type": "Itinerario",
+        "Titolo": "Itinerario per Buca La Piella",
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva\n",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.",
+        "Difficoltà": "Media difficoltà",
+        "Lunghezza": "0.90",
+        "Durata": "00:20:00",
+        "Dislivello in salita": "60",
+        "Dislivello in discesa": "35",
+        "Segnaletica": "Assente",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "weight": 6,
+          "opacity": 0.3,
+          "color": "Black"
+        },
+        "Tipologia": "Naturalistico"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.682943370186207,
+            44.041642027231084,
+            0
+          ],
+          [
+            10.683075,
+            44.041258,
+            0
+          ],
+          [
+            10.683081,
+            44.040964,
+            0
+          ],
+          [
+            10.683139,
+            44.040655,
+            0
+          ],
+          [
+            10.683337,
+            44.040393,
+            0
+          ],
+          [
+            10.683363,
+            44.04025,
+            0
+          ],
+          [
+            10.683555,
+            44.038422,
+            0
+          ],
+          [
+            10.683619,
+            44.038151,
+            0
+          ],
+          [
+            10.683657,
+            44.038095,
+            357.5
+          ],
+          [
+            10.683709,
+            44.038031,
+            355.75
+          ],
+          [
+            10.683726,
+            44.037989,
+            0
+          ],
+          [
+            10.683737,
+            44.037913,
+            0
+          ],
+          [
+            10.683759,
+            44.037826,
+            0
+          ],
+          [
+            10.683762,
+            44.037755,
+            0
+          ],
+          [
+            10.683775,
+            44.037662,
+            0
+          ],
+          [
+            10.683796,
+            44.037556,
+            0
+          ],
+          [
+            10.683796,
+            44.037471,
+            0
+          ],
+          [
+            10.683773,
+            44.0374,
+            0
+          ],
+          [
+            10.683761,
+            44.037243,
+            0
+          ],
+          [
+            10.683762,
+            44.037146,
+            0
+          ],
+          [
+            10.6838,
+            44.036978,
+            0
+          ],
+          [
+            10.683832,
+            44.036853,
+            0
+          ],
+          [
+            10.68384,
+            44.03674,
+            0
+          ],
+          [
+            10.683825,
+            44.036621,
+            0
+          ],
+          [
+            10.683841,
+            44.036476,
+            0
+          ],
+          [
+            10.683863,
+            44.036413,
+            0
+          ],
+          [
+            10.683957,
+            44.036296,
+            0
+          ],
+          [
+            10.684091,
+            44.036135,
+            0
+          ],
+          [
+            10.684193,
+            44.035987,
+            0
+          ],
+          [
+            10.684248,
+            44.035856,
+            0
+          ],
+          [
+            10.684243,
+            44.035769,
+            0
+          ],
+          [
+            10.684215,
+            44.035714,
+            0
+          ],
+          [
+            10.684185,
+            44.035608,
+            0
+          ],
+          [
+            10.684183,
+            44.035519,
+            0
+          ],
+          [
+            10.684143,
+            44.035454,
+            0
+          ],
+          [
+            10.684096,
+            44.035452,
+            0
+          ],
+          [
+            10.684061,
+            44.035483,
+            0
+          ],
+          [
+            10.684029,
+            44.035585,
+            0
+          ],
+          [
+            10.684009,
+            44.035717,
+            0
+          ],
+          [
+            10.684008,
+            44.035885,
+            0
+          ],
+          [
+            10.683973,
+            44.03602,
+            0
+          ],
+          [
+            10.683907,
+            44.036142,
+            0
+          ],
+          [
+            10.683803,
+            44.036299,
+            0
+          ],
+          [
+            10.683732,
+            44.036393,
+            0
+          ],
+          [
+            10.683598,
+            44.036495,
+            0
+          ],
+          [
+            10.6835,
+            44.03659,
+            0
+          ]
+        ]
+      }
+    }
+  ]
+}
