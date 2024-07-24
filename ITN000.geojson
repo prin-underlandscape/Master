@@ -344,7 +344,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "BeB Val di Lima House",
         "Foto": "",
-        "Descrizione": "",
+        "Descrizione": "Bed and Breakfast in Val di Lima (Casoli); offre pacchetti vacanza outdoor in collaborazione con Rockonda Srl",
         "Altitudine": "",
         "Tag primario": "Accoglienza",
         "Altri tag": [
@@ -403,7 +403,7 @@
         "ulsp_type": "Risorsa",
         "Titolo": "Canyon Park Canyon Avventura",
         "Foto": "",
-        "Descrizione": "Centro servizi turistici outdoor, ecolab, mindfulness",
+        "Descrizione": "Centro servizi turistici outdoor, ecolab, mindfulness e pacchetti vacanza sportivi e naturalistici",
         "Altitudine": "",
         "Tag primario": "Svago",
         "Altri tag": [
@@ -463,7 +463,7 @@
         "Titolo": "Cresta Monte Memoriante ",
         "Foto": "",
         "Descrizione": "",
-        "Altitudine": "",
+        "Altitudine": "1148",
         "Tag primario": "Attrazione naturalistica",
         "Altri tag": [
           ""
@@ -911,12 +911,9 @@
         "Foto": "",
         "Descrizione": "",
         "Altitudine": "",
-        "Autore": "",
-        "Strumento": "",
-        "Data": "",
-        "Ora": "",
         "Tag primario": "Servizi",
-        "Altri tag": ""
+        "Altri tag": "",
+        "Link": ""
       },
       "geometry": {
         "type": "Point",
@@ -8614,7 +8611,7 @@
         "ulsp_type": "Itinerario",
         "Titolo": "Itinerario nell'abitato di Casoli",
         "Punto d'accesso": "Parcheggio di Casoli",
-        "Foto accesso": "",
+        "Foto accesso": "https://i.postimg.cc/k5WC17nV/BDL-CAS-21-UT54-4.jpg",
         "Difficoltà": "Facile",
         "Lunghezza": "3,5",
         "Durata": "01:00:00",
