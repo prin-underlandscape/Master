@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ITN000",
+    "Nome": "testAug2",
     "Descrizione": "Bagni di Lucca Heritage itinerary ",
     "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
     "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
@@ -18,8 +18,6 @@
         "Foto": "",
         "Descrizione": "Centro per attività culturali",
         "Altitudine": "200",
-        "Tag primario": "Segnaletica",
-        "Altri tag": "",
         "Link": "",
         "Sito": "ULS999",
         "Provincia": "Trento",
@@ -42,8 +40,8 @@
         "Copertura rete mobile": "Completa",
         "Bibliografia": "",
         "Strumento": "Leica",
-        "Data": "4/4/2024",
-        "Ora": "14:14"
+        "Data": "",
+        "Ora": ""
       },
       "geometry": {
         "type": "Point",
@@ -93,8 +91,8 @@
         ],
         "Autore": "Augusto Ciuffoletti",
         "Strumento": "Rolleiflex",
-        "Data": "12/12/2012",
-        "Ora": "12:12"
+        "Data": "",
+        "Ora": ""
       },
       "geometry": {
         "type": "Point",
