@@ -1,9 +1,10 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ultima-post",
+    "Nome": "Mulini_Montefegatesi",
     "Descrizione": "",
-    "umapKey": ""
+    "umapKey": "https://umap.openstreetmap.fr/it/map/itinerario_mulini-montefegatesi_1111005",
+    "WebPageURL": ""
   },
   "features": [
     {
