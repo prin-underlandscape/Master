@@ -6115,6 +6115,31 @@
           "Monumento"
         ]
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.592490926916895,
+          44.05696399173422
+        ]
+      },
+      "properties": {
+        "ulsp_type": "POI",
+        "Foto": "",
+        "Titolo": "Mulino di Amerigo Bartoli",
+        "Descrizione": "Mulino di Amerigo Bartoli \n\nBartoli Amerigo, ereditò il mulino da suo nonno Carli Amerigo.\n\nOggi di questo fabbricato si riesce a distinguere ben poco, tutto è franato e sommerso dalla vegetazione. \n\nAveva due macine, una pietra arenaria e l’altra in pietra granitica entrambe queste sono integre e al loro posto, sotto le macerie.\n\nAccanto è presente un metato per seccare le castagne. \n\nC’era poi la legnaia, un gallinaio, il magazzino, una stalla, una tettoia esterna per il carico e scarico delle some.\n\nL'acqua si poteva indirizzare in due diverse gore: \n-una entrava in una tromba costituita da anelli in pietra di 30 cm di altezza svuotati all’interno con un foro di 60 cm\n- l’altra alimentava un ruotone idraulico affiancato al muro.\n\nNel 1944 il ruotone andò in rovina e venne sostituito da un altro ritrecine e aggiunta una tromba, gemella della prima, ancorata e murata contro il muro esterno. \n\nQui segue un’ampia ansa, che lascia spazio fertile per coltivare un orto, irrigato con un’apposita deviazione del gorile che gli permetteva l’acqua necessaria. \n\nQuesto mulino finì la sua attività nel 1961.\n\nFONTE: Serafini,G. (2021). I mulini idraulici nel comune di Bagni di Lucca. Visita guidata agli 84 vecchi mulini. Autopubblicato.",
+        "Altitudine": 660,
+        "Data": "2024-08-31",
+        "Ora": "08:50:03Z",
+        "Strumento": "iPhone15,4",
+        "Autore": "Maria",
+        "Tag primario": "Monumento",
+        "Altri tag": [
+          "Monumento"
+        ]
+      }
     }
   ]
 }
+
