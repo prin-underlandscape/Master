@@ -1,14 +1,22 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "Nome": "ITN000",
-    "Descrizione": "Bagni di Lucca Heritage itinerary ",
-    "umapKey": "https://umap.openstreetmap.fr/it/map/itn000_1050205",
-    "WebPageURL": "https://sites.google.com/view/prin-underlandscape/itinerari/val-di-lima?authuser=0"
+    "Nome": "itn019",
+    "Descrizione": "",
+    "umapKey": "",
+    "WebPageURL": ""
   },
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677648,
+          44.034686,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.",
         "ulsp_type": "Risorsa",
@@ -27,18 +35,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677648,
-          44.034686,
-          0
-        ]
-      },
       "id": "U0MzU"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67577,
+          44.03523,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale",
         "ulsp_type": "Risorsa",
@@ -57,18 +65,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67577,
-          44.03523,
-          0
-        ]
-      },
       "id": "Q1MjE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67068,
+          44.039971,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali",
         "ulsp_type": "Risorsa",
@@ -87,18 +95,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67068,
-          44.039971,
-          0
-        ]
-      },
       "id": "g3Njk"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677588,
+          44.031728,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.",
         "ulsp_type": "Risorsa",
@@ -117,18 +125,18 @@
         },
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677588,
-          44.031728,
-          0
-        ]
-      },
       "id": "gzODQ"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669851,
+          44.039599,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.",
         "ulsp_type": "Risorsa",
@@ -147,18 +155,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.669851,
-          44.039599,
-          0
-        ]
-      },
       "id": "kzNjE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683202,
+          44.038665,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.",
         "ulsp_type": "Risorsa",
@@ -177,18 +185,17 @@
         },
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683202,
-          44.038665,
-          0
-        ]
-      },
       "id": "U5NDM"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67143,
+          44.03674
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -207,17 +214,17 @@
         ],
         "Link": "https://www.agriturismofanny.it/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67143,
-          44.03674
-        ]
-      },
       "id": "Q5MjU"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699779,
+          44.033917
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -236,17 +243,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.699779,
-          44.033917
-        ]
-      },
       "id": "g2MTg"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67317,
+          44.04417
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -265,17 +272,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67317,
-          44.04417
-        ]
-      },
       "id": "A0ODE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67157,
+          44.03854
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -294,17 +301,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.67157,
-          44.03854
-        ]
-      },
       "id": "E1NTg"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71271,
+          44.0295
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -323,17 +330,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.71271,
-          44.0295
-        ]
-      },
       "id": "M0NTk"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65376,
+          44.03582
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -352,17 +359,18 @@
         ],
         "Link": "https://www.valdilimahouse.it/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.65376,
-          44.03582
-        ]
-      },
       "id": "U4MDE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683496,
+          44.036607,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C",
         "ulsp_type": "Risorsa",
@@ -381,18 +389,17 @@
         ],
         "Link": "https://sites.google.com/view/prin-underlandscape/casi-studio/buca-la-piella"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683496,
-          44.036607,
-          0
-        ]
-      },
       "id": "U0NzY"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.66023,
+          44.03695
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -411,17 +418,18 @@
         ],
         "Link": "https://www.canyonpark.it/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.66023,
-          44.03695
-        ]
-      },
       "id": "c2ODc"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716965,
+          44.037165,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "",
         "ulsp_type": "Risorsa",
@@ -440,18 +448,17 @@
         ],
         "Link": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&code=82679&Chiesa_di_San_Pietro__Lucchio,_Bagni_di_Lucca"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.716965,
-          44.037165,
-          0
-        ]
-      },
       "id": "k2Mjk"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698094,
+          44.029211
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -470,17 +477,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.698094,
-          44.029211
-        ]
-      },
       "id": "c0NjE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71337,
+          44.034299,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "",
         "ulsp_type": "Risorsa",
@@ -499,18 +507,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.71337,
-          44.034299,
-          0
-        ]
-      },
       "id": "IxODk"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662325,
+          44.038316,
+          287.4
+        ]
+      },
       "properties": {
         "Descrizione": "Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro",
         "ulsp_type": "Risorsa",
@@ -529,18 +537,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.662325,
-          44.038316,
-          287.4
-        ]
-      },
       "id": "A3MzY"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669211,
+          44.038931,
+          435.66
+        ]
+      },
       "properties": {
         "Descrizione": "",
         "ulsp_type": "Risorsa",
@@ -554,18 +562,18 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.669211,
-          44.038931,
-          435.66
-        ]
-      },
       "id": "kxMzk"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669555,
+          44.039241,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.",
         "ulsp_type": "Risorsa",
@@ -584,18 +592,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.669555,
-          44.039241,
-          0
-        ]
-      },
       "id": "AxMzc"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677623,
+          44.035917,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
         "ulsp_type": "Risorsa",
@@ -614,18 +622,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.677623,
-          44.035917,
-          0
-        ]
-      },
       "id": "IyNzY"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68349,
+          44.04299
+        ]
+      },
       "properties": {
         "ulsp_type": "Risorsa",
         "Titolo": "Opposto bar",
@@ -644,17 +651,17 @@
         },
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.68349,
-          44.04299
-        ]
-      },
       "id": "kxMzg"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70539,
+          44.024154
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -673,17 +680,18 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.70539,
-          44.024154
-        ]
-      },
       "id": "k5MzI"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683963,
+          44.035647,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.",
         "ulsp_type": "Risorsa",
@@ -696,24 +704,24 @@
         "Titolo": "Riparo vicino Piella",
         "Altitudine": "390",
         "Foto": "https://i.postimg.cc/wTHnqrF3/riparo2.jpg",
-        "Tag primario": "Attrazione naturalistica",
+        "Tag primario": "Grotta",
         "Altri tag": [
           ""
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.683963,
-          44.035647,
-          0
-        ]
-      },
       "id": "AwNDc"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.715683,
+          44.037562,
+          0
+        ]
+      },
       "properties": {
         "Descrizione": "",
         "ulsp_type": "Risorsa",
@@ -732,18 +740,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.715683,
-          44.037562,
-          0
-        ]
-      },
       "id": "YzMTA"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68634,
+          44.0427
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -762,17 +769,17 @@
         ],
         "Link": "https://www.t-rafting.com/val-di-lima-outdoor/"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.68634,
-          44.0427
-        ]
-      },
       "id": "cwMDc"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65263,
+          44.03866
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default",
@@ -791,17 +798,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.65263,
-          44.03866
-        ]
-      },
       "id": "M1MzQ"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.682913,
+          44.041607
+        ]
+      },
       "properties": {
         "_umap_options": {
           "popupTemplate": "Default"
@@ -817,17 +824,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.682913,
-          44.041607
-        ]
-      },
       "id": "gzMDk"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713515,
+          44.034218
+        ]
+      },
       "properties": {
         "_umap_options": {
           "iconClass": "Default"
@@ -843,17 +850,17 @@
         ],
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.713515,
-          44.034218
-        ]
-      },
       "id": "U0MjY"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713655,
+          44.035934
+        ]
+      },
       "properties": {
         "_umap_options": {
           "iconClass": "Default"
@@ -867,17 +874,17 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.713655,
-          44.035934
-        ]
-      },
       "id": "Y3MDI"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.672531,
+          44.037658
+        ]
+      },
       "properties": {
         "_umap_options": {
           "iconClass": "Default"
@@ -891,17 +898,17 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.672531,
-          44.037658
-        ]
-      },
       "id": "g1NjE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.671866,
+          44.038059
+        ]
+      },
       "properties": {
         "_umap_options": {
           "iconClass": "Default"
@@ -915,17 +922,17 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.671866,
-          44.038059
-        ]
-      },
       "id": "YzNTA"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.695523,
+          44.042867
+        ]
+      },
       "properties": {
         "_umap_options": {
           "iconClass": "Default"
@@ -939,17 +946,17 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.695523,
-          44.042867
-        ]
-      },
       "id": "YzNzE"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701585,
+          44.02112
+        ]
+      },
       "properties": {
         "_umap_options": {
           "iconClass": "Default"
@@ -963,17 +970,17 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.701585,
-          44.02112
-        ]
-      },
       "id": "Q0MDg"
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70504,
+          44.02007
+        ]
+      },
       "properties": {
         "_umap_options": {
           "color": "DeepPink",
@@ -988,40 +995,10 @@
         "Altri tag": "",
         "Link": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.70504,
-          44.02007
-        ]
-      },
       "id": "c3NzE"
     },
     {
       "type": "Feature",
-      "id": "KXOTg",
-      "properties": {
-        "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario per Buca La Piella",
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva\n",
-        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
-        "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.",
-        "Difficoltà": "Media difficoltà",
-        "Lunghezza": "0.90",
-        "Durata": "00:20:00",
-        "Dislivello in salita": "60",
-        "Dislivello in discesa": "35",
-        "Segnaletica": "Assente",
-        "_umap_options": {
-          "popupTemplate": "Default",
-          "weight": 6,
-          "opacity": 0.3,
-          "color": "Black"
-        },
-        "Tipologia": "Naturalistico"
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1256,33 +1233,33 @@
             0
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "Q1ODg",
+      },
       "properties": {
         "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario Lucchio-Penna di Lucchio",
+        "Titolo": "Itinerario per Buca La Piella",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
-        "Punto d'accesso": "1. Dalla piazza che si trova appena entrati in paese;\n2. Dalla Fontana Vecchia lungo la strada, prima del parcheggio, accesso sentiero CAI 388.",
-        "Foto accesso": "",
-        "Descrizione": "Percorso ad anello che dal paese di Lucchio raggiunge la cima della Penna di Lucchio, per metà lungo un sentiero di cresta (sentuero CAI 384) e l'altra metà lungo il versante est del rilievo (sentiero CAI 388).",
+        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva\n",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Descrizione": "Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.",
         "Difficoltà": "Media difficoltà",
-        "Lunghezza": "5,30",
-        "Durata": "03:30:00",
-        "Dislivello in salita": "574",
-        "Dislivello in discesa": "570",
-        "Segnaletica": "",
+        "Lunghezza": "0.90",
+        "Durata": "00:20:00",
+        "Dislivello in salita": "60",
+        "Dislivello in discesa": "35",
+        "Segnaletica": "Assente",
         "_umap_options": {
           "popupTemplate": "Default",
-          "color": "Green",
+          "weight": 6,
           "opacity": 0.3,
-          "weight": 6
+          "color": "Black"
         },
         "Tipologia": "Naturalistico"
       },
+      "id": "KXOTg"
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3162,33 +3139,33 @@
             0
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "M4Mjc",
+      },
       "properties": {
         "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario Lucchio-Monte Memoriante",
+        "Titolo": "Itinerario Lucchio-Penna di Lucchio",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
-        "Punto d'accesso": "Piazza di Lucchio, appena entrati in paese",
+        "Punto d'accesso": "1. Dalla piazza che si trova appena entrati in paese;\n2. Dalla Fontana Vecchia lungo la strada, prima del parcheggio, accesso sentiero CAI 388.",
         "Foto accesso": "",
-        "Descrizione": "Percorso ad anello che dal paese di Lucchio raggiunge le cime del Monte Memoriante e del Balzo Rotondo attraverso un sentiero di cresta.",
-        "Difficoltà": "Difficile",
-        "Lunghezza": "6,20",
-        "Durata": "04:30:00",
-        "Dislivello in salita": "745",
-        "Dislivello in discesa": "743",
+        "Descrizione": "Percorso ad anello che dal paese di Lucchio raggiunge la cima della Penna di Lucchio, per metà lungo un sentiero di cresta (sentuero CAI 384) e l'altra metà lungo il versante est del rilievo (sentiero CAI 388).",
+        "Difficoltà": "Media difficoltà",
+        "Lunghezza": "5,30",
+        "Durata": "03:30:00",
+        "Dislivello in salita": "574",
+        "Dislivello in discesa": "570",
         "Segnaletica": "",
         "_umap_options": {
           "popupTemplate": "Default",
-          "color": "Blue",
+          "color": "Green",
           "opacity": 0.3,
           "weight": 6
         },
         "Tipologia": "Naturalistico"
       },
+      "id": "Q1ODg"
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5153,33 +5130,33 @@
             0
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "A5ODE",
+      },
       "properties": {
+        "ulsp_type": "Itinerario",
+        "Titolo": "Itinerario Lucchio-Monte Memoriante",
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
-        "Descrizione": "Percorso ad anello che collega i paesi di Lucchio e Casoli, attraverso un sentiero per lo più di versante che gira intorno al complesso della Penna di Lucchio-Monte Memoriante, riprendendo l'antica mulattiera, attualmente i sentieri CAI 386 e 388.",
-        "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario Casoli-Lucchio",
-        "Punto d'accesso": "1. Via Debbio, accesso al sentiero CAI 386 poco dopo edicola votiva;\n2. Dal parcheggio di Casoli, accesso sentiero CAI 388;\n3. Dalla piazza di Lucchio, accesso sentiero CAI 386;\n4. Dalla Fontana Vecchia, prima del parcheggio di Lucchio, accesso sentiero CAI 388",
-        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
-        "Difficoltà": "Media difficoltà",
-        "Lunghezza": "12,60",
-        "Durata": "04:45:00",
-        "Dislivello in salita": "881",
-        "Dislivello in discesa": "849",
-        "Segnaletica": "Congruente",
+        "Punto d'accesso": "Piazza di Lucchio, appena entrati in paese",
+        "Foto accesso": "",
+        "Descrizione": "Percorso ad anello che dal paese di Lucchio raggiunge le cime del Monte Memoriante e del Balzo Rotondo attraverso un sentiero di cresta.",
+        "Difficoltà": "Difficile",
+        "Lunghezza": "6,20",
+        "Durata": "04:30:00",
+        "Dislivello in salita": "745",
+        "Dislivello in discesa": "743",
+        "Segnaletica": "",
         "_umap_options": {
           "popupTemplate": "Default",
-          "color": "Red",
+          "color": "Blue",
           "opacity": 0.3,
           "weight": 6
         },
         "Tipologia": "Naturalistico"
       },
+      "id": "M4Mjc"
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8004,32 +7981,33 @@
             954
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
-        "Descrizione": "Percorso che collega il paese di Casoli e il paese di Cocciglia, passando per Ponte Nero",
+        "Descrizione": "Percorso ad anello che collega i paesi di Lucchio e Casoli, attraverso un sentiero per lo più di versante che gira intorno al complesso della Penna di Lucchio-Monte Memoriante, riprendendo l'antica mulattiera, attualmente i sentieri CAI 386 e 388.",
         "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario Casoli-Cocciglia",
-        "Punto d'accesso": "Dal centro del paese di Casoli",
-        "Foto accesso": "",
-        "Difficoltà": "Facile",
-        "Lunghezza": "2",
-        "Durata": "00:40:00",
-        "Dislivello in salita": "118",
-        "Dislivello in discesa": "250",
-        "Segnaletica": "",
+        "Titolo": "Itinerario Casoli-Lucchio",
+        "Punto d'accesso": "1. Via Debbio, accesso al sentiero CAI 386 poco dopo edicola votiva;\n2. Dal parcheggio di Casoli, accesso sentiero CAI 388;\n3. Dalla piazza di Lucchio, accesso sentiero CAI 386;\n4. Dalla Fontana Vecchia, prima del parcheggio di Lucchio, accesso sentiero CAI 388",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Difficoltà": "Media difficoltà",
+        "Lunghezza": "12,60",
+        "Durata": "04:45:00",
+        "Dislivello in salita": "881",
+        "Dislivello in discesa": "849",
+        "Segnaletica": "Congruente",
         "_umap_options": {
           "popupTemplate": "Default",
-          "color": "DarkGreen",
+          "color": "Red",
           "opacity": 0.3,
           "weight": 6
         },
-        "Tipologia": "Storico-archeologico"
+        "Tipologia": "Naturalistico"
       },
+      "id": "A5ODE"
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8600,32 +8578,32 @@
           ]
         ]
       },
-      "id": "M4MzU"
-    },
-    {
-      "type": "Feature",
       "properties": {
         "Provincia": "Lucca",
         "Comune": "Bagni di Lucca",
-        "Descrizione": "Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.",
+        "Descrizione": "Percorso che collega il paese di Casoli e il paese di Cocciglia, passando per Ponte Nero",
         "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario nell'abitato di Casoli",
-        "Punto d'accesso": "Parcheggio di Casoli",
-        "Foto accesso": "https://i.postimg.cc/k5WC17nV/BDL-CAS-21-UT54-4.jpg",
+        "Titolo": "Itinerario Casoli-Cocciglia",
+        "Punto d'accesso": "Dal centro del paese di Casoli",
+        "Foto accesso": "",
         "Difficoltà": "Facile",
-        "Lunghezza": "3,5",
-        "Durata": "01:00:00",
-        "Dislivello in salita": "120",
-        "Dislivello in discesa": "118",
-        "Segnaletica": "Congruente",
+        "Lunghezza": "2",
+        "Durata": "00:40:00",
+        "Dislivello in salita": "118",
+        "Dislivello in discesa": "250",
+        "Segnaletica": "",
         "_umap_options": {
           "popupTemplate": "Default",
-          "color": "DarkViolet",
+          "color": "DarkGreen",
           "opacity": 0.3,
           "weight": 6
         },
         "Tipologia": "Storico-archeologico"
       },
+      "id": "M4MzU"
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9166,30 +9144,32 @@
           ]
         ]
       },
+      "properties": {
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Descrizione": "Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.",
+        "ulsp_type": "Itinerario",
+        "Titolo": "Itinerario nell'abitato di Casoli",
+        "Punto d'accesso": "Parcheggio di Casoli",
+        "Foto accesso": "https://i.postimg.cc/k5WC17nV/BDL-CAS-21-UT54-4.jpg",
+        "Difficoltà": "Facile",
+        "Lunghezza": "3,5",
+        "Durata": "01:00:00",
+        "Dislivello in salita": "120",
+        "Dislivello in discesa": "118",
+        "Segnaletica": "Congruente",
+        "_umap_options": {
+          "popupTemplate": "Default",
+          "color": "DarkViolet",
+          "opacity": 0.3,
+          "weight": 6
+        },
+        "Tipologia": "Storico-archeologico"
+      },
       "id": "Y2MzI"
     },
     {
       "type": "Feature",
-      "id": "c4MzU",
-      "properties": {
-        "Provincia": "Lucca",
-        "Comune": "Bagni di Lucca",
-        "Descrizione": "Breve percorso che porta alla cavità chiamata Antro dell'Ugola. Si percorre nella prima parte il sentiero CAI 386, per poi immettersi su una traccia che sale lungo il versante, fino ad arrivare al sito ipogeo.",
-        "ulsp_type": "Itinerario",
-        "Titolo": "Itinerario per Antro dell'Ugola",
-        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva",
-        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
-        "Difficoltà": "Facile",
-        "Lunghezza": "0.35",
-        "Durata": "00:15:00",
-        "Dislivello in salita": "30",
-        "Dislivello in discesa": "10",
-        "Segnaletica": "Assente",
-        "_umap_options": {
-          "popupTemplate": "Default"
-        },
-        "Tipologia": "Naturalistico"
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9299,7 +9279,48 @@
             0
           ]
         ]
-      }
+      },
+      "properties": {
+        "Provincia": "Lucca",
+        "Comune": "Bagni di Lucca",
+        "Descrizione": "Breve percorso che porta alla cavità chiamata Antro dell'Ugola. Si percorre nella prima parte il sentiero CAI 386, per poi immettersi su una traccia che sale lungo il versante, fino ad arrivare al sito ipogeo.",
+        "ulsp_type": "Itinerario",
+        "Titolo": "Itinerario per Antro dell'Ugola",
+        "Punto d'accesso": "da via Debbio in direzione Casoli, imbocco del sentiero CAI 386 poco dopo edicola votiva",
+        "Foto accesso": "https://i.postimg.cc/XNdwQ7LB/1-Casoli-grotta-della-Piella-inizio-sentiero-1.jpg",
+        "Difficoltà": "Facile",
+        "Lunghezza": "0.35",
+        "Durata": "00:15:00",
+        "Dislivello in salita": "30",
+        "Dislivello in discesa": "10",
+        "Segnaletica": "Assente",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        },
+        "Tipologia": "Naturalistico"
+      },
+      "id": "c4MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.671319,
+          44.038125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "Bar Ristorante Da Marina ",
+        "Foto": "",
+        "Descrizione": "Corso Umberto, 1, 55022 Casoli LU",
+        "Altitudine": "",
+        "Link": "https://www.bagnidilucca.info/dove-mangiare-a-bagni-di-lucca/ristorante-da-marina/",
+        "Tag primario": "Ristoro",
+        "Altri tag": ""
+      },
+      "id": "cyOTU"
     }
   ]
 }
