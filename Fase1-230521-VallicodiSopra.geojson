@@ -45,7 +45,7 @@
         "Strumento": "Android HUAWEI SNE-LX1",
         "Data": "2023-05-21",
         "Ora": "10:33:39",
-        "Tag primario": "Segnalazione",
+        "Tag primario": "Segnaletica",
         "Altri tag": [
           "Segnaletica"
         ]
@@ -63,7 +63,7 @@
       "type": "Feature",
       "properties": {
         "ulsp_type": "POI",
-        "Titolo": "Segnalatica",
+        "Titolo": "Segnaletica",
         "Foto": "https://i.postimg.cc/xdxWbX0k/IMG-20230521-110154.jpg",
         "Descrizione": "Prosecuzione del sentiero 111 verso Cardoso",
         "Altitudine": "685",
@@ -71,7 +71,7 @@
         "Strumento": "Android HUAWEI SNE-LX1",
         "Data": "2023-05-21",
         "Ora": "09:02:16",
-        "Tag primario": "Segnalazione",
+        "Tag primario": "Segnaletica",
         "Altri tag": [
           "Segnaletica"
         ]
